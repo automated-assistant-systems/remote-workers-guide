@@ -1,26 +1,28 @@
 title: The Remote Worker’s Survival Guide in the AI Age
-author: Gary G. Bayes
+author: Gary G. Bayes, BABA, MBA
 language: en
-version: draft
+version: first-edition-draft
 
 chapters:
   - book/front-matter/foreword.md
   - book/front-matter/introduction.md
   - book/front-matter/how-to-use-this-book.md
 
-  - book/chapters/chapter-01.md
-  - book/chapters/chapter-02.md
-  - book/chapters/chapter-03.md
-  - book/chapters/chapter-04.md
-  - book/chapters/chapter-05.md
-  - book/chapters/chapter-06.md
-  - book/chapters/chapter-07.md
-  - book/chapters/chapter-08.md
-  - book/chapters/chapter-09.md
-  - book/chapters/chapter-10.md
-  - book/chapters/chapter-11.md
-  - book/chapters/chapter-12.md
+  - book/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work.md
+  - book/part-01-understanding-the-ai-era/chapter-02-the-ai-toolbox.md
+  - book/part-01-understanding-the-ai-era/chapter-03-foundations-working-with-ai.md
 
-  - book/back-matter/remote-workers-ai-playbook.md
-  - book/back-matter/prompt-library.md
+  - book/part-02-applying-ai-to-daily-work/chapter-04-ai-for-writing-and-communication.md
+  - book/part-02-applying-ai-to-daily-work/chapter-05-ai-for-research-and-learning.md
+  - book/part-02-applying-ai-to-daily-work/chapter-06-creative-power-design-and-content.md
+  - book/part-02-applying-ai-to-daily-work/chapter-07-automating-the-boring-stuff.md
+  - book/part-02-applying-ai-to-daily-work/chapter-08-collaboration-and-remote-teams.md
+  - book/part-02-applying-ai-to-daily-work/chapter-09-personal-productivity-with-ai.md
+  - book/part-02-applying-ai-to-daily-work/chapter-10-resilience-and-mental-health.md
+  - book/part-02-applying-ai-to-daily-work/chapter-11-future-proofing-your-career.md
+
+  - book/part-03-the-remote-worker-toolkit/chapter-12-the-remote-workers-playbook.md
+  - book/part-03-the-remote-worker-toolkit/prompt-toolkit.md
+  - book/part-03-the-remote-worker-toolkit/ai-tools-directory.md
+
   - book/back-matter/appendix.md
