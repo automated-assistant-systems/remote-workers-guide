@@ -12,16 +12,24 @@ on:
 permissions:
   contents: read
 
+env:
+  BOOK_DIR: 1st-ed
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   build-book:
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: ${{ env.BOOK_DIR }}
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -45,13 +53,14 @@ jobs:
 
       - name: Ensure scripts are executable
         run: |
-          chmod +x 1st-ed/scripts/build-book.sh
-          chmod +x 1st-ed/scripts/build-pdf.sh
-          chmod +x 1st-ed/scripts/build-epub.sh
-          chmod +x 1st-ed/scripts/build-website.sh
+          test -f scripts/build-book.sh
+          test -f scripts/build-pdf.sh
+          test -f scripts/build-epub.sh
+          test -f scripts/build-website.sh
+          chmod +x scripts/*.sh
 
       - name: Build book
-        run: ./1st-ed/scripts/build-book.sh
+        run: ./scripts/build-book.sh
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
