@@ -1,0 +1,72 @@
+---
+# yamllint disable rule:truthy
+name: Build Book
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-book:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            yq \
+            texlive-xetex \
+            texlive-latex-base \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-fonts-recommended \
+            librsvg2-bin
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material
+
+      - name: Ensure scripts are executable
+        run: |
+          chmod +x scripts/build-book.sh
+          chmod +x scripts/build-pdf.sh
+          chmod +x scripts/build-epub.sh
+          chmod +x scripts/build-website.sh
+
+      - name: Build book
+        run: ./scripts/build-book.sh
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-pdf
+          path: output/pdf/
+
+      - name: Upload EPUB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-epub
+          path: output/epub/
+
+      - name: Upload website artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-website
+          path: build/website/site/

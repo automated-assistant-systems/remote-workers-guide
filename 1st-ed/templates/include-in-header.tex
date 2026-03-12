@@ -1,0 +1,39 @@
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{xcolor}
+\usepackage{parskip}
+
+% Paragraph spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+
+% Header / footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\nouppercase{\leftmark}}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Chapter title styling
+\titleformat{\chapter}[display]
+  {\normalfont\bfseries\Huge}
+  {\filleft\Large\textcolor[HTML]{1F3A5F}{Chapter \thechapter}}
+  {1ex}
+  {\filleft}
+  [\vspace{1ex}\titlerule]
+
+% Section styling
+\titleformat{\section}
+  {\normalfont\bfseries\Large}
+  {\thesection}
+  {0.75em}
+  {}
+
+\titleformat{\subsection}
+  {\normalfont\bfseries\large}
+  {\thesubsection}
+  {0.75em}
+  {}

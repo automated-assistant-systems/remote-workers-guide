@@ -4,7 +4,7 @@
 Author: Gary G. Bayes, BABA, MBA
 
 Status: Working Document
-Purpose: Provide a centralized index of all visuals used in the book, including diagrams, screenshots, infographics, and mockups.
+Purpose: Provide a centralized index of all visuals used in the book.
 
 This index helps:
 
@@ -19,156 +19,150 @@ Visual files are stored in:
 03-visuals/
 ```
 
+Core diagrams are stored in:
+
+03-visuals/core-diagrams/
+
+These diagrams represent reusable frameworks used across multiple chapters.
+
 Each visual is stored inside a chapter-specific directory.
 
 Example:
 
 ```
-03-visuals/chapter-03/prompt-structure-diagram.svg
+03-visuals/chapter-03/prompt-structure-framework.svg
 ```
 
 ---
 
 # Chapter 1 — The New Reality of Remote Work
 
-| Visual                         | Type           | Status   | File                                 | Notes                        |
-| ------------------------------ | -------------- | -------- | ------------------------------------ | ---------------------------- |
-| Remote Work Evolution Timeline | Infographic    | Complete | `remote-work-evolution-timeline.svg` | Pre-2020 → Pandemic → AI era |
-| Remote Tools Growth Chart      | Chart          | Complete | `remote-tools-growth-chart.svg`      | Zoom / Slack / Teams usage   |
-| Typical Remote Worker Setup    | Photo / Mockup | Complete | `remote-worker-desk-setup.png`       | Dual monitor desk layout     |
+| Visual                         | Type        | Status   | File                                 | Notes                        |
+| ------------------------------ | ----------- | -------- | ------------------------------------ | ---------------------------- |
+| Remote Work Before vs After AI | Infographic | Complete | `remote-work-before-after-ai.svg`    | 2019 vs AI era comparison    |
+| Remote Work Evolution Timeline | Infographic | Complete | `remote-work-evolution-timeline.svg` | Pre-2020 → Pandemic → AI era |
 
 ---
 
 # Chapter 2 — The AI Toolbox
 
-| Visual                       | Type        | Status   | File                             | Notes                                         |
-| ---------------------------- | ----------- | -------- | -------------------------------- | --------------------------------------------- |
-| AI Tool Categories           | Infographic | Complete | `ai-tool-categories.svg`         | Writing / Research / Creativity / Automation  |
-| AI Tool Homepage Grid        | Screenshot  | Planned  | `ai-tool-homepage-grid.png`      | ChatGPT, Canva, Zapier, Notion AI, Midjourney |
-| Free vs Paid Tier Comparison | Table       | Planned  | `ai-tool-pricing-comparison.svg` | Feature comparison                            |
+| Visual                       | Type        | Status   | File                             | Notes                                        |
+| ---------------------------- | ----------- | -------- | -------------------------------- | -------------------------------------------- |
+| AI Productivity Stack        | Diagram     | Planned  | `ai-productivity-stack.svg`      | Human judgment → AI tools → automation       |
+| AI Tool Categories           | Infographic | Complete | `ai-tool-categories.svg`         | Writing / Research / Creativity / Automation |
+| Free vs Paid Tier Comparison | Table       | Planned  | `ai-tool-pricing-comparison.svg` | Feature comparison                           |
 
 ---
 
 # Chapter 3 — Foundations: Working with AI
 
-| Visual                   | Type       | Status   | File                               | Notes                          |
-| ------------------------ | ---------- | -------- | ---------------------------------- | ------------------------------ |
-| Raw vs Refined AI Output | Screenshot | Planned  | `ai-output-refinement-example.png` | Editing workflow               |
-| Prompt Structure Diagram | Diagram    | Planned  | `prompt-structure-diagram.svg`     | Role → Context → Instruction   |
-| Bad vs Good Prompt       | Mockup     | Complete | `bad-vs-good-prompt.png`           | Side-by-side prompt comparison |
+| Visual                     | Type       | Status   | File                             | Notes                                           |
+| -------------------------- | ---------- | -------- | -------------------------------- | ----------------------------------------------- |
+| Prompt Structure Framework | Diagram    | Planned  | `prompt-structure-framework.svg` | Role → Context → Instruction → Example → Output |
+| Bad vs Good Prompt         | Comparison | Complete | `bad-vs-good-prompt.svg`         | Prompt improvement example                      |
 
 ---
 
 # Chapter 4 — AI for Writing & Communication
 
-| Visual                   | Type       | Status  | File                            | Notes                    |
-| ------------------------ | ---------- | ------- | ------------------------------- | ------------------------ |
-| AI Email Draft Example   | Screenshot | Planned | `ai-email-drafting-example.png` | ChatGPT draft with edits |
-| Grammarly Email Overlay  | Mockup     | Planned | `grammarly-email-overlay.png`   | Correction highlights    |
-| Proposal Before vs After | Comparison | Planned | `proposal-before-after.png`     | AI polishing example     |
+| Visual                   | Type       | Status  | File                         | Notes                                  |
+| ------------------------ | ---------- | ------- | ---------------------------- | -------------------------------------- |
+| AI-Assisted Work Model   | Diagram    | Planned | `ai-assisted-work-model.svg` | Task → AI Draft → Human Review → Final |
+| Proposal Before vs After | Comparison | Planned | `proposal-before-after.svg`  | AI-improved communication              |
 
 ---
 
 # Chapter 5 — AI for Research & Learning
 
-| Visual                    | Type       | Status  | File                            | Notes                          |
-| ------------------------- | ---------- | ------- | ------------------------------- | ------------------------------ |
-| AI Research Query Example | Screenshot | Planned | `ai-research-query-example.png` | Source-based answer            |
-| Research Workflow Diagram | Diagram    | Planned | `research-workflow-diagram.svg` | Question → AI → Verify → Apply |
-| AI Learning Roadmap       | Mockup     | Planned | `ai-learning-roadmap.png`       | Skill roadmap generation       |
+| Visual               | Type    | Status  | File                            | Notes                          |
+| -------------------- | ------- | ------- | ------------------------------- | ------------------------------ |
+| AI Research Workflow | Diagram | Planned | `research-workflow-diagram.svg` | Question → AI → Verify → Apply |
+| AI Learning Roadmap  | Mockup  | Planned | `ai-learning-roadmap.svg`       | Skill development path         |
 
 ---
 
 # Chapter 6 — Creative Power
 
-| Visual                  | Type       | Status  | File                            | Notes                         |
-| ----------------------- | ---------- | ------- | ------------------------------- | ----------------------------- |
-| Canva AI Design Example | Screenshot | Planned | `canva-ai-design-example.png`   | LinkedIn template             |
-| AI Brand Kit Example    | Mockup     | Planned | `ai-brand-kit-output.png`       | Logo + palette                |
-| Video Editing Workflow  | Diagram    | Planned | `ai-video-workflow-diagram.svg` | Recording → Transcript → Clip |
+| Visual               | Type    | Status  | File                       | Notes                        |
+| -------------------- | ------- | ------- | -------------------------- | ---------------------------- |
+| AI Creative Workflow | Diagram | Planned | `ai-creative-workflow.svg` | Idea → AI draft → refinement |
+| AI Brand Kit Example | Mockup  | Planned | `ai-brand-kit-output.svg`  | Logo + palette               |
 
 ---
 
 # Chapter 7 — Automating the Boring Stuff
 
-| Visual                       | Type        | Status  | File                              | Notes                  |
-| ---------------------------- | ----------- | ------- | --------------------------------- | ---------------------- |
-| Workflow Automation Pipeline | Diagram     | Planned | `automation-workflow-diagram.svg` | Gmail → Zapier → Drive |
-| Zap Builder Interface        | Screenshot  | Planned | `zap-builder-interface.png`       | Automation setup       |
-| Weekly Automation Checklist  | Infographic | Planned | `automation-checklist.svg`        | Tasks to automate      |
+| Visual                      | Type        | Status  | File                       | Notes                          |
+| --------------------------- | ----------- | ------- | -------------------------- | ------------------------------ |
+| Automation Pipeline         | Diagram     | Planned | `automation-pipeline.svg`  | Trigger → Automation → Storage |
+| Weekly Automation Checklist | Infographic | Planned | `automation-checklist.svg` | Tasks to automate              |
 
 ---
 
 # Chapter 8 — Collaboration & Remote Teams
 
-| Visual                | Type        | Status  | File                                | Notes                         |
-| --------------------- | ----------- | ------- | ----------------------------------- | ----------------------------- |
-| AI Meeting Transcript | Screenshot  | Planned | `ai-meeting-transcript-example.png` | Highlighted summary           |
-| Slack Thread Summary  | Mockup      | Planned | `slack-ai-thread-summary.png`       | AI summarization              |
-| AI Meeting Workflow   | Infographic | Planned | `ai-meeting-workflow.svg`           | Agenda → Discussion → Summary |
+| Visual                     | Type    | Status  | File                      | Notes                         |
+| -------------------------- | ------- | ------- | ------------------------- | ----------------------------- |
+| AI Meeting Workflow        | Diagram | Planned | `ai-meeting-workflow.svg` | Agenda → Discussion → Summary |
+| AI Meeting Summary Example | Mockup  | Planned | `ai-meeting-summary.svg`  | AI-generated meeting notes    |
 
 ---
 
 # Chapter 9 — Personal Productivity
 
-| Visual                     | Type        | Status  | File                             | Notes           |
-| -------------------------- | ----------- | ------- | -------------------------------- | --------------- |
-| AI Auto Scheduling Example | Screenshot  | Planned | `ai-auto-scheduling.png`         | Task scheduling |
-| Task Prioritization Matrix | Diagram     | Planned | `task-prioritization-matrix.svg` | Eisenhower grid |
-| AI Productivity Stack      | Infographic | Planned | `ai-productivity-stack.svg`      | Daily workflow  |
+| Visual                     | Type    | Status  | File                             | Notes             |
+| -------------------------- | ------- | ------- | -------------------------------- | ----------------- |
+| Task Prioritization Matrix | Diagram | Planned | `task-prioritization-matrix.svg` | Eisenhower grid   |
+| AI Productivity Workflow   | Diagram | Planned | `ai-productivity-workflow.svg`   | Daily AI workflow |
 
 ---
 
 # Chapter 10 — Mental Health & Resilience
 
-| Visual                    | Type        | Status  | File                            | Notes                |
-| ------------------------- | ----------- | ------- | ------------------------------- | -------------------- |
-| AI Support Chat Example   | Screenshot  | Planned | `ai-support-chat-example.png`   | Well-being assistant |
-| AI Meditation Playlist    | Mockup      | Planned | `ai-meditation-playlist.png`    | Calm-style UI        |
-| Five-Minute Reset Options | Infographic | Planned | `five-minute-reset-options.svg` | Break strategies     |
+| Visual                    | Type        | Status  | File                            | Notes                  |
+| ------------------------- | ----------- | ------- | ------------------------------- | ---------------------- |
+| Five-Minute Reset Options | Infographic | Planned | `five-minute-reset-options.svg` | Micro-break strategies |
 
 ---
 
 # Chapter 11 — Future-Proofing Your Career
 
-| Visual                   | Type       | Status  | File                           | Notes                   |
-| ------------------------ | ---------- | ------- | ------------------------------ | ----------------------- |
-| AI Skill Gap Analysis    | Screenshot | Planned | `ai-skill-gap-analysis.png`    | Career planning         |
-| T-Shaped Skills Diagram  | Diagram    | Planned | `t-shaped-skills-diagram.svg`  | Human + AI capabilities |
-| LinkedIn AI Achievements | Mockup     | Planned | `linkedin-ai-achievements.png` | Profile section example |
+| Visual                         | Type    | Status  | File                          | Notes                      |
+| ------------------------------ | ------- | ------- | ----------------------------- | -------------------------- |
+| T-Shaped Skills for the AI Era | Diagram | Planned | `t-shaped-skills-diagram.svg` | Human expertise + AI tools |
+| AI Skill Gap Analysis Example  | Mockup  | Planned | `ai-skill-gap-analysis.svg`   | Career planning            |
 
 ---
 
 # Chapter 12 — The Remote Worker’s Playbook
 
-| Visual                      | Type        | Status  | File                            | Notes                            |
-| --------------------------- | ----------- | ------- | ------------------------------- | -------------------------------- |
-| AI Playbook Poster          | Infographic | Planned | `ai-playbook-summary.svg`       | Daily / Weekly habits            |
-| Human + AI Leverage Diagram | Diagram     | Planned | `human-ai-leverage-diagram.svg` | Human judgment + AI acceleration |
-| 30-Day AI Action Plan       | Checklist   | Planned | `ai-30-day-action-plan.svg`     | Implementation roadmap           |
+| Visual                    | Type        | Status  | File                            | Notes                            |
+| ------------------------- | ----------- | ------- | ------------------------------- | -------------------------------- |
+| Human + AI Leverage Model | Diagram     | Planned | `human-ai-leverage-diagram.svg` | Human judgment + AI acceleration |
+| AI Playbook Summary       | Infographic | Planned | `ai-playbook-summary.svg`       | Daily / weekly habits            |
+| 30-Day AI Action Plan     | Checklist   | Planned | `ai-30-day-action-plan.svg`     | Implementation roadmap           |
 
 ---
 
 # Appendix — Tools Directory & Prompt Library
 
-| Visual                    | Type      | Status   | File                        | Notes                    |
-| ------------------------- | --------- | -------- | --------------------------- | ------------------------ |
-| AI Tools Comparison Table | Table     | Planned  | `ai-tools-comparison.svg`   | Strengths & weaknesses   |
-| Prompt Library Spread     | Layout    | Complete | `prompt-library-spread.svg` | Two-column prompt layout |
-| AI Tools Logo Grid        | Icon Grid | Planned  | `ai-tools-logo-grid.svg`    | Featured apps            |
+| Visual                    | Type   | Status   | File                        | Notes                    |
+| ------------------------- | ------ | -------- | --------------------------- | ------------------------ |
+| AI Tools Comparison Table | Table  | Planned  | `ai-tools-comparison.svg`   | Strengths & weaknesses   |
+| Prompt Library Spread     | Layout | Complete | `prompt-library-spread.svg` | Two-column prompt layout |
 
 ---
 
 # Visual Production Summary
 
-| Category     | Estimated Count |
-| ------------ | --------------- |
-| Infographics | ~12             |
-| Diagrams     | ~10             |
-| Screenshots  | ~10             |
-| Mockups      | ~8              |
+| Category           | Estimated Count |
+| ------------------ | --------------- |
+| Framework Diagrams | ~12             |
+| Infographics       | ~8              |
+| Comparisons        | ~5              |
+| Tables             | ~3              |
 
-Estimated total visuals: **~40**
+Estimated total visuals: **~28**
 
 ---
 

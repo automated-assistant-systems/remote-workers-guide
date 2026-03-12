@@ -1,0 +1,26 @@
+title: The Remote Worker’s Survival Guide in the AI Age
+author: Gary G. Bayes
+language: en
+version: draft
+
+chapters:
+  - book/front-matter/foreword.md
+  - book/front-matter/introduction.md
+  - book/front-matter/how-to-use-this-book.md
+
+  - book/chapters/chapter-01.md
+  - book/chapters/chapter-02.md
+  - book/chapters/chapter-03.md
+  - book/chapters/chapter-04.md
+  - book/chapters/chapter-05.md
+  - book/chapters/chapter-06.md
+  - book/chapters/chapter-07.md
+  - book/chapters/chapter-08.md
+  - book/chapters/chapter-09.md
+  - book/chapters/chapter-10.md
+  - book/chapters/chapter-11.md
+  - book/chapters/chapter-12.md
+
+  - book/back-matter/remote-workers-ai-playbook.md
+  - book/back-matter/prompt-library.md
+  - book/back-matter/appendix.md
