@@ -45,28 +45,28 @@ jobs:
 
       - name: Ensure scripts are executable
         run: |
-          chmod +x scripts/build-book.sh
-          chmod +x scripts/build-pdf.sh
-          chmod +x scripts/build-epub.sh
-          chmod +x scripts/build-website.sh
+          chmod +x 1st-ed/scripts/build-book.sh
+          chmod +x 1st-ed/scripts/build-pdf.sh
+          chmod +x 1st-ed/scripts/build-epub.sh
+          chmod +x 1st-ed/scripts/build-website.sh
 
       - name: Build book
-        run: ./scripts/build-book.sh
+        run: ./1st-ed/scripts/build-book.sh
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
           name: book-pdf
-          path: output/pdf/
+          path: 1st-ed/output/pdf/
 
       - name: Upload EPUB artifact
         uses: actions/upload-artifact@v4
         with:
           name: book-epub
-          path: output/epub/
+          path: 1st-ed/output/epub/
 
       - name: Upload website artifact
         uses: actions/upload-artifact@v4
         with:
           name: book-website
-          path: build/website/site/
+          path: 1st-ed/build/website/site/
