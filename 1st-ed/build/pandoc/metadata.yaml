@@ -1,0 +1,31 @@
+title: "The Remote Worker’s Survival Guide in the AI Age"
+subtitle: "Practical Tools, Workflows, and Strategies for Thriving Anywhere"
+author: "Gary G. Bayes, BABA, MBA"
+date: "2026"
+lang: "en-US"
+
+documentclass: book
+classoption:
+  - oneside
+  - openany
+
+fontsize: 11pt
+linestretch: 1.15
+
+geometry:
+  - paperwidth=6in
+  - paperheight=9in
+  - top=0.9in
+  - bottom=0.9in
+  - inner=0.85in
+  - outer=0.75in
+
+toc: true
+toc-depth: 2
+numbersections: true
+colorlinks: true
+linkcolor: black
+urlcolor: blue
+
+header-includes:
+  - \input{../../templates/include-in-header.tex}
