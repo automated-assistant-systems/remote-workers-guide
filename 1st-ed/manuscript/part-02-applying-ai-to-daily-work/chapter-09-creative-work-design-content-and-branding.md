@@ -1,6 +1,7 @@
-Chapter 9
-Creative Work: Design, Content, and Branding
-Opening Hook
+# Chapter 9  
+## Creative Work: Design, Content, and Branding
+
+### Opening Hook
 
 In digital work environments, creativity often determines visibility.
 
@@ -10,75 +11,86 @@ Historically these outputs required specialized design skills.
 
 AI is changing that reality.
 
-Core Concept Explanation
-AI as a Creative Accelerator
+---
+
+## AI as a Creative Accelerator
 
 Creative AI tools can assist with:
 
-generating visual assets
-
-drafting marketing content
-
-designing presentations
-
-producing branding elements
+- generating visual assets  
+- drafting marketing content  
+- designing presentations  
+- producing branding elements  
 
 The purpose of these tools is not to eliminate creative thinking.
 
 Instead, they reduce the time required to produce initial concepts and visual structures.
 
-Visual Explanation
+To understand how AI fits into creative work, consider the typical creative workflow.
 
-Creative Workflow with AI
+![AI Creative Workflow](../../visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg)
 
-Idea → AI Concept Generation → Human Selection → Final Design
+*Figure 9.1 — AI Creative Workflow*
 
-AI produces possibilities.
-Human judgment selects and refines the best option.
+This workflow illustrates how AI helps generate multiple creative possibilities quickly. Human professionals then evaluate, refine, and finalize the best option.
 
-Fictional Example Based on Common Remote Work Situations
+---
+
+Another important concept is maintaining consistency across brand assets.
+
+![Brand Asset System](../../visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg)
+
+*Figure 9.2 — Brand Asset System*
+
+This diagram shows how visual elements, messaging, and templates form a consistent brand identity. AI tools can help generate and maintain these assets efficiently.
+
+---
+
+## Fictional Example
 
 Nadia is an independent consultant building her professional brand.
 
 Instead of hiring a designer for every marketing asset, she uses AI tools to:
 
-generate presentation templates
-
-produce social graphics
-
-draft content ideas
+- generate presentation templates  
+- produce social graphics  
+- draft content ideas  
 
 She still refines the final output herself.
 
 But she now produces polished materials much faster.
 
-Key Insight
+---
+
+## Key Insight
 
 AI reduces the technical barrier to creative production, allowing professionals to focus on ideas and storytelling.
 
-Chapter Takeaways
+---
 
-AI enables faster design and content production.
+## Chapter Takeaways
 
-Human creativity remains central to strong messaging.
+- AI enables faster design and content production.  
+- Human creativity remains central to strong messaging.  
+- Visual communication is becoming a core skill for remote professionals.
 
-Visual communication is becoming a core skill for remote professionals.
+---
 
-Action Plan
+## Action Plan
 
 Create one professional asset this week using AI assistance.
 
-Possible examples:
+Examples:
 
-presentation slide template
-
-social media graphic
-
-personal website banner
+- presentation slide template  
+- social media graphic  
+- personal website banner  
 
 Focus on speed and clarity rather than perfection.
 
-Transition
+---
+
+## Transition
 
 Creative work expands output.
 

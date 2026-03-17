@@ -1,6 +1,7 @@
-Chapter 12
-Working Wisely: Limits, Resilience, and Sustainable Practice
-Opening Hook
+# Chapter 12  
+## Working Wisely: Limits, Resilience, and Sustainable Practice
+
+### Opening Hook
 
 AI promises faster work and greater productivity.
 
@@ -10,70 +11,67 @@ Remote workers often face blurred boundaries between professional and personal l
 
 Sustainable work requires intentional limits.
 
-Core Concept Explanation
-The Risks of Always-On Work
+---
 
-Common stress factors include:
+## The Sustainable Work Cycle
 
-constant digital notifications
+Healthy productivity follows a rhythm rather than constant effort.
 
-pressure to learn new tools continuously
+![Sustainable Work Cycle](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg)
 
-lack of physical separation between work and rest
+*Figure 12.1 — Sustainable Work Cycle*
 
-AI can contribute to these pressures if used without discipline.
+This cycle illustrates the relationship between focused effort, recovery, reflection, and improvement. Sustainable productivity depends on balancing these phases.
 
-But it can also help manage them.
+---
 
-Visual Explanation
+AI can help maintain healthy boundaries through better information filtering and task management.
 
-Sustainable Work Model
+![Human Oversight Checklist](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg)
 
-Productivity → Recovery → Reflection → Improvement
+*Figure 12.2 — Human Oversight Checklist*
 
-Healthy work cycles include both effort and rest.
+This checklist emphasizes the importance of human judgment in AI-assisted work. Reviewing outputs and maintaining control prevents over-reliance on automated systems.
 
-Fictional Example Based on Common Remote Work Situations
+---
 
-Ravi is a remote software engineer.
+Short breaks can also restore attention and reduce cognitive fatigue.
 
-After adopting many AI tools, he initially worked longer hours trying to optimize every workflow.
+![Five-Minute Reset Options](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg)
 
-Eventually he introduced new boundaries:
+*Figure 12.3 — Five-Minute Reset Options*
 
-AI summaries reduced constant message checking
+This visual presents simple reset activities that help professionals regain focus during demanding work sessions.
 
-scheduling assistants protected downtime
+---
 
-daily reflection identified stress triggers
-
-His productivity improved once his workload became sustainable.
-
-Key Insight
+## Key Insight
 
 Technology should support human well-being, not undermine it.
 
-Chapter Takeaways
+---
 
-Sustainable work requires boundaries and recovery time.
+## Chapter Takeaways
 
-AI tools can help reduce information overload.
+- Sustainable work requires boundaries and recovery time.  
+- AI tools can reduce information overload.  
+- Mental resilience is essential in fast-changing environments.
 
-Mental resilience is essential in fast-changing work environments.
+---
 
-Action Plan
+## Action Plan
 
 Choose one boundary to implement this week:
 
-scheduled work hours
-
-limited notification checks
-
-protected focus blocks
+- scheduled work hours  
+- limited notification checks  
+- protected focus blocks  
 
 Use AI tools to support that boundary.
 
-Transition
+---
+
+## Transition
 
 Once daily work becomes efficient and sustainable, the final question remains:
 

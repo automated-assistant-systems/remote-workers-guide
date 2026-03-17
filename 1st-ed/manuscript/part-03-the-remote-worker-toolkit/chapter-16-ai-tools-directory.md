@@ -1,182 +1,183 @@
-Chapter 16
-AI Tools Directory
-Purpose of This Directory
+# Chapter 16  
+## AI Tools Directory
+
+### Purpose of This Directory
 
 This directory is not meant to overwhelm you with options.
 
-Instead, it provides a structured overview of useful AI tools organized by job to be done.
+Instead, it provides a structured overview of useful AI tools organized by **job to be done**.
 
 Remember:
 
-Tools support workflows.
+Tools support workflows.  
 Workflows support human judgment.
 
 Choose tools that match your real needs.
 
-Writing and Communication Tools
+---
 
-AI Assistants
+## Understanding the Tool Landscape
 
-ChatGPT
-Claude
+AI tools can be grouped according to the type of workflow they support.
 
-Typical uses:
+![Tools by Workflow Category](../../visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg)
 
-drafting emails
+*Figure 16.1 — Tools by Workflow Category*
 
-brainstorming ideas
+This diagram groups tools by the type of work they support—writing, research, creativity, automation, collaboration, and productivity. Organizing tools this way helps professionals select tools based on workflow needs rather than popularity.
 
-summarizing documents
+---
 
-Editing Tools
+## Writing and Communication Tools
 
-GrammarlyGO
-Jasper
-
-Typical uses:
-
-tone adjustments
-
-clarity improvements
-
-marketing copy refinement
-
-Research and Learning Tools
-
-Research Assistants
-
-Perplexity AI
-Elicit
+AI Assistants  
+ChatGPT  
+Claude  
 
 Uses:
 
-research synthesis
+- drafting emails  
+- brainstorming ideas  
+- summarizing documents  
 
-literature summaries
+Editing Tools  
 
-quick fact discovery
-
-Learning Platforms
-
-Khanmigo
-Duolingo Max
+GrammarlyGO  
+Jasper  
 
 Uses:
 
-tutoring
+- tone adjustments  
+- clarity improvements  
+- marketing copy refinement
 
-language learning
+---
 
-structured skill development
+## Research and Learning Tools
 
-Creativity and Branding Tools
+Research Assistants  
 
-Design Platforms
-
-Canva AI
-Adobe Firefly
+Perplexity AI  
+Elicit  
 
 Uses:
 
-presentation design
+- research synthesis  
+- literature summaries  
+- quick fact discovery  
 
-social graphics
+Learning Platforms  
 
-visual assets
+Khanmigo  
+Duolingo Max  
 
-Image Generation
+Uses:
 
-Midjourney
+- tutoring  
+- language learning  
+- structured skill development
+
+---
+
+## Creativity and Branding Tools
+
+Design Platforms  
+
+Canva AI  
+Adobe Firefly  
+
+Image Generation  
+
+Midjourney  
 DALL-E
 
 Uses:
 
-concept art
+- concept art  
+- marketing visuals  
+- creative exploration
 
-marketing visuals
+---
 
-creative exploration
+## Automation Tools
 
-Automation Tools
-
-Zapier
-Make
-
-Uses:
-
-connecting apps
-
-automating workflows
-
-transferring data between systems
-
-Collaboration Tools
-
-Otter.ai
-Fireflies
-Fathom
+Zapier  
+Make  
 
 Uses:
 
-meeting transcription
+- connecting apps  
+- automating workflows  
+- transferring data between systems
 
-automated summaries
+---
 
-searchable conversation records
+## Collaboration Tools
 
-Productivity and Organization
-
-Notion AI
-Motion
-Sunsama
-
-Uses:
-
-task prioritization
-
-knowledge management
-
-calendar automation
-
-Well-Being and Mental Health
-
-Wysa
-Woebot
-Calm
-Headspace
+Otter.ai  
+Fireflies  
+Fathom  
 
 Uses:
 
-guided reflection
+- meeting transcription  
+- automated summaries  
+- searchable conversation records
 
-stress reduction
+---
 
-mindfulness practices
+## Productivity and Organization
 
-Key Insight
+Notion AI  
+Motion  
+Sunsama  
 
-A powerful tool stack is small, intentional, and integrated.
+Uses:
+
+- task prioritization  
+- knowledge management  
+- calendar automation
+
+---
+
+## Building Your Starter Stack
+
+For most professionals, the goal is not dozens of tools but a **simple integrated system**.
+
+![Starter Stack Path](../../visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg)
+
+*Figure 16.2 — Starter Stack Path*
+
+This diagram illustrates a gradual path for building a tool stack. Professionals typically begin with an AI assistant and a task manager, then gradually add automation, creative tools, and integrations as workflows mature.
+
+---
+
+## Key Insight
+
+A powerful tool stack is **small, intentional, and integrated**.
 
 Most remote professionals only need a few tools in each category.
 
-Chapter Takeaways
+---
 
-Tools should support workflows, not dominate them.
+## Chapter Takeaways
 
-Start with a small set of reliable tools.
+- Tools should support workflows, not dominate them.  
+- Start with a small set of reliable tools.  
+- Expand gradually as your workflows evolve.
 
-Expand gradually as your workflows evolve.
+---
 
-Closing Reflection
+## Closing Reflection
 
 Remote work and AI are not temporary trends.
 
 They are reshaping how knowledge work happens.
 
-The professionals who thrive in this environment will be those who combine:
+The professionals who thrive in this environment will combine:
 
-human judgment
-AI assistance
+human judgment  
+AI assistance  
 and smart workflows.
 
 This toolkit is not the end of the journey.

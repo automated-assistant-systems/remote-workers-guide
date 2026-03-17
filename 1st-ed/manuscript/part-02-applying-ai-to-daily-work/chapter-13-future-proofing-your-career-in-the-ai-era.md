@@ -1,115 +1,99 @@
-Chapter 13
-Future-Proofing Your Career in the AI Era
-Opening Hook
+# Chapter 13  
+## Future-Proofing Your Career in the AI Era
+
+### Opening Hook
 
 AI is transforming many professions.
 
-Some tasks are becoming automated.
+Some tasks are becoming automated.  
 Others are expanding.
 
-The professionals who thrive will be those who learn how to combine human expertise with AI leverage.
+The professionals who thrive will be those who combine human expertise with AI leverage.
 
-Core Concept Explanation
-The New Skill Model
+---
 
-The most valuable capabilities now combine three layers.
+## The New Skill Model
 
-Human skills:
+The most valuable capabilities combine three layers:
 
-creativity
+Human skills  
+- creativity  
+- communication  
+- judgment  
+- leadership  
 
-communication
+AI collaboration skills  
+- prompting  
+- workflow design  
+- automation thinking  
 
-judgment
+Meta-skills  
+- adaptability  
+- curiosity  
+- continuous learning  
 
-leadership
+One way to visualize career growth in the AI era is through a leverage ladder.
 
-AI collaboration skills:
+![Leverage Ladder](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg)
 
-prompting
+*Figure 13.1 — Leverage Ladder*
 
-workflow design
+This ladder illustrates how professionals increase their impact over time—from manual work to AI-assisted workflows and eventually scalable systems.
 
-automation thinking
+---
 
-Meta-skills:
+Another important framework is the development of broad capability combined with specialized expertise.
 
-adaptability
+![T-Shaped Skills in the AI Era](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg)
 
-curiosity
+*Figure 13.2 — T-Shaped Skills in the AI Era*
 
-continuous learning
+This model shows how professionals combine deep expertise in one domain with broad understanding across multiple disciplines.
 
-Visual Explanation
+---
 
-The Leverage Ladder
+Professionals can also use AI to analyze their own skill gaps.
 
-Manual Work
-↓
-AI-Assisted Work
-↓
-Semi-Automated Systems
-↓
-Scalable Workflows
+![AI-Assisted Skill Gap Analysis](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg)
 
-As professionals move up the ladder, their impact increases.
+*Figure 13.3 — AI-Assisted Skill Gap Analysis*
 
-Fictional Example Based on Common Remote Work Situations
+This diagram demonstrates how AI tools can help identify areas for professional development by comparing current capabilities with emerging industry demands.
 
-Maria worked as a freelance translator.
+---
 
-Instead of competing directly with automated translation tools, she repositioned herself as an AI-assisted localization specialist.
-
-Her workflow now includes:
-
-AI-generated translation drafts
-
-human editing for cultural nuance
-
-consulting clients on multilingual workflows
-
-Her expertise became more valuable, not less.
-
-Key Insight
+## Key Insight
 
 Careers evolve when professionals learn to direct technology rather than compete with it.
 
-Chapter Takeaways
+---
 
-AI will reshape many job roles.
+## Chapter Takeaways
 
-Human judgment and creativity remain valuable differentiators.
+- AI will reshape many job roles.  
+- Human judgment and creativity remain valuable differentiators.  
+- Continuous learning is the best strategy for long-term relevance.
 
-Continuous learning is the most reliable strategy for long-term relevance.
+---
 
-Action Plan
+## Action Plan
 
 Conduct a simple career audit.
 
 Ask yourself:
 
-Which parts of my work could be automated?
+- Which parts of my work could be automated?  
+- Which parts require human judgment or creativity?  
+- What AI skill could amplify my work this year?
 
-Which parts require human judgment or creativity?
+Choose one skill to begin developing this month.
 
-What AI skill could amplify my work this year?
+---
 
-Choose one new skill to begin learning this month.
-
-Transition to Part III
+## Transition to Part III
 
 You have now seen how AI can support writing, research, creativity, automation, collaboration, and sustainable work practices.
 
-The next step is turning these ideas into repeatable systems you can use every day.
+The next section of the book transforms these ideas into practical systems.
 
-Part III provides the tools to do exactly that.
-
-The Remote Worker Toolkit includes:
-
-a practical playbook
-
-reusable prompts
-
-a curated tools directory
-
-These resources transform the concepts of this book into daily operating habits.
+Part III introduces the Remote Worker Toolkit — including playbooks, prompts, and tools you can apply immediately.

@@ -1,79 +1,80 @@
-Chapter 4
-Designing AI-Assisted Workflows
-Opening Hook
+# Chapter 4  
+## Designing AI-Assisted Workflows
+
+### Opening Hook
 
 Many people experiment with AI by asking random questions or generating occasional drafts.
 
 But the real advantage appears when AI becomes part of a repeatable workflow.
 
-Core Concept Explanation
-The AI-Assisted Work Model
+---
+
+## The AI-Assisted Work Model
 
 Most knowledge work follows a predictable structure:
 
-Identify the task
-
-Gather information
-
-Draft or generate output
-
-Review and refine
-
-Deliver final work
+1. Identify the task  
+2. Gather information  
+3. Draft or generate output  
+4. Review and refine  
+5. Deliver final work  
 
 AI can assist at several stages.
 
-Visual Explanation
+To understand how this works, it helps to visualize the collaboration between human decision-making and AI-generated drafts.
 
-AI-Assisted Work Model
+![AI-Assisted Work Model](../../visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-06-ai-assisted-work-model.svg)
 
-Task → AI Draft → Human Review → Final Output
+*Figure 4.1 — AI-Assisted Work Model*
 
-Human judgment remains the final checkpoint.
+This model illustrates the typical interaction between humans and AI during knowledge work. AI generates drafts or structured outputs quickly, while human professionals review, refine, and validate the results. The final output always passes through human judgment before delivery.
 
-Workflow Decision Filter
+---
 
-Before applying AI to a task, ask four questions:
+## Deciding Where AI Belongs in a Workflow
 
-Is the task repetitive?
+Not every task benefits from AI assistance.
 
-Does it require deep expertise?
+Before introducing AI into a process, it helps to evaluate the task using a simple decision filter.
 
-Can output be reviewed easily?
+![Workflow Decision Filter](../../visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-07-workflow-decision-filter.svg)
 
-Is speed valuable?
+*Figure 4.2 — Workflow Decision Filter*
 
-If the answer to most is yes, AI assistance is often helpful.
+This filter helps determine whether AI assistance is useful for a specific task. Repetitive tasks with clearly reviewable outputs are strong candidates for AI support, while tasks requiring deep expertise or strategic judgment may remain primarily human-driven.
 
-Fictional Example Based on Common Remote Work Situations
+---
+
+## Fictional Example Based on Common Remote Work Situations
 
 Jason prepares weekly product update reports.
 
 Instead of writing them from scratch each week, he creates a workflow:
 
-Gather notes
-
-Ask AI to draft a structured report
-
-Review and refine
-
+Gather notes  
+Ask AI to draft a structured report  
+Review and refine  
 Send final update
 
 What once took an hour now takes fifteen minutes.
 
-Key Insight
+---
+
+## Key Insight
 
 AI provides the most leverage when embedded in repeatable processes.
 
-Chapter Takeaways
+---
 
-Workflow thinking is more powerful than tool experimentation.
+## Chapter Takeaways
 
-AI works best when paired with structured processes.
+- Workflow thinking is more powerful than tool experimentation.  
+- AI works best when paired with structured processes.  
+- Human review remains essential for quality and accuracy.
 
-Human review remains essential for quality and accuracy.
+---
 
-Action Plan
+## Action Plan
 
 Choose one task you perform weekly.
 
@@ -83,6 +84,8 @@ Task → AI assistance → Human review → Final output.
 
 Test the workflow once this week.
 
-Transition
+---
+
+## Transition
 
 Once workflows are clear, the next step is choosing the tools that support them effectively.
