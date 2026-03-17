@@ -28,4 +28,4 @@ linkcolor: black
 urlcolor: blue
 
 header-includes:
-  - \input{../../templates/include-in-header.tex}
+  - \input{templates/include-in-header.tex}
