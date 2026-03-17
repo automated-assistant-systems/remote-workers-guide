@@ -145,7 +145,7 @@ It means you can delegate certain tasks to tools that perform them quickly, allo
 
 In this sense, artificial intelligence functions less like a replacement for human work and more like a multiplier of human effort.
 
-The Skills That Still Matter Most
+## The Skills That Still Matter Most
 
 Despite the rapid progress of AI technology, the most valuable professional skills remain deeply human.
 
