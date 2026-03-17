@@ -42,9 +42,9 @@ These prompts are grouped into categories such as writing, research, creativity,
 
 ---
 
-# Writing and Communication
+## Writing and Communication
 
-## Email Draft
+### Email Draft
 
 **Role:** Professional communications assistant  
 **Task:** Draft a polite but firm payment reminder email.
@@ -69,7 +69,7 @@ Write a concise email including:
 
 ---
 
-## Proposal Improvement
+### Proposal Improvement
 
 **Role:** Business proposal editor  
 **Task:** Improve the persuasiveness of the following proposal.
@@ -95,7 +95,7 @@ Provide:
 
 ---
 
-## Rewrite for Clarity
+### Rewrite for Clarity
 
 **Role:** Professional editor  
 **Task:** Rewrite the following message for clarity.
@@ -119,7 +119,7 @@ Provide:
 
 ---
 
-## Meeting Summary
+### Meeting Summary
 
 **Role:** Meeting analyst  
 **Task:** Summarize a meeting transcript.
@@ -142,7 +142,7 @@ Provide:
 
 ---
 
-## Executive Summary
+### Executive Summary
 
 **Role:** Business analyst  
 **Task:** Create an executive summary.
@@ -165,9 +165,9 @@ Provide **5–7 bullet points** covering:
 
 ---
 
-# Research and Learning
+## Research and Learning
 
-## Quick Trend Overview
+### Quick Trend Overview
 
 **Role:** Industry research analyst  
 **Task:** Identify key trends.
@@ -190,7 +190,7 @@ Provide:
 
 ---
 
-## Tool Comparison
+### Tool Comparison
 
 **Role:** Technology advisor  
 **Task:** Compare two tools.
@@ -213,7 +213,7 @@ Return a comparison table covering:
 
 ---
 
-## Learning Plan
+### Learning Plan
 
 **Role:** Professional development coach  
 **Task:** Create a learning plan.
@@ -237,7 +237,7 @@ Provide a **4-week learning plan** including:
 
 ---
 
-## Concept Simplification
+### Concept Simplification
 
 **Role:** Technical educator  
 **Task:** Explain a complex concept simply.
@@ -261,9 +261,9 @@ Provide:
 
 ---
 
-# Creativity and Branding
+## Creativity and Branding
 
-## Social Media Ideas
+### Social Media Ideas
 
 **Role:** Content strategist  
 **Task:** Generate LinkedIn post ideas.
@@ -286,7 +286,7 @@ Provide five ideas including:
 
 ---
 
-## Blog Outline
+### Blog Outline
 
 **Role:** Content editor  
 **Task:** Create a blog outline.
@@ -305,7 +305,7 @@ Provide:
 
 ---
 
-## Brand Voice Guide
+### Brand Voice Guide
 
 **Role:** Brand strategist  
 **Task:** Define a brand voice.
@@ -325,7 +325,7 @@ Provide:
 
 ---
 
-## Visual Concept Prompt
+### Visual Concept Prompt
 
 **Role:** Creative director  
 **Task:** Generate a logo concept.
@@ -349,9 +349,9 @@ Provide:
 
 ---
 
-# Automation and Workflows
+## Automation and Workflows
 
-## Workflow Design
+### Workflow Design
 
 **Role:** Workflow consultant  
 **Task:** Design a workflow.
@@ -376,7 +376,7 @@ Provide step-by-step workflow including:
 
 ---
 
-## Automation Ideas
+### Automation Ideas
 
 **Role:** Productivity automation specialist  
 **Task:** Suggest useful automations.
@@ -396,7 +396,7 @@ Provide three automation ideas including:
 
 ---
 
-## Process Optimization
+### Process Optimization
 
 **Role:** Process improvement advisor  
 **Task:** Improve a workflow.
@@ -415,9 +415,9 @@ Provide:
 
 ---
 
-# Personal Productivity
+## Personal Productivity
 
-## Task Prioritization
+### Task Prioritization
 
 **Role:** Productivity coach  
 **Task:** Prioritize tasks.
@@ -441,7 +441,7 @@ Organize tasks into:
 
 ---
 
-## Daily Planning
+### Daily Planning
 
 **Role:** Time-management assistant  
 **Task:** Convert tasks into a daily schedule.
@@ -458,7 +458,7 @@ Provide a structured daily schedule.
 
 ---
 
-## Weekly Review
+### Weekly Review
 
 **Role:** Productivity analyst  
 **Task:** Conduct a weekly review.
@@ -479,31 +479,31 @@ Provide:
 
 ---
 
-# Prompt Debugging Guide
+## Prompt Debugging Guide
 
 Even well-structured prompts sometimes produce incomplete or confusing results.
 
 Instead of starting over, diagnose the problem and refine the instructions.
 
-## Common Prompt Problems
+### Common Prompt Problems
 
-### Responses are too vague
+#### Responses are too vague
 
 Add clearer context and task instructions.
 
-### Tone is incorrect
+#### Tone is incorrect
 
 Specify tone constraints.
 
-### Answers are too long or short
+#### Answers are too long or short
 
 Define length and structure.
 
-### Results feel generic
+#### Results feel generic
 
 Add audience, purpose, and background.
 
-### Important details are missing
+#### Important details are missing
 
 Explicitly state what must be preserved.
 
