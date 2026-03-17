@@ -1,7 +1,4 @@
-# Chapter 6  
-## Prompting: How to Work with AI Effectively
-
-### Opening Hook
+# Prompting: How to Work with AI Effectively
 
 AI assistants respond to instructions.
 

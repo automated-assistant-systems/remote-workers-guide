@@ -1,7 +1,4 @@
-# Chapter 1  
-## The New Reality of Remote Work
-
-### Opening Hook
+# The New Reality of Remote Work
 
 In just a few short years, work has undergone a profound shift. Millions of professionals who once commuted daily now sign in from kitchens, co-working hubs, home offices, or temporary workspaces scattered across the world.
 
@@ -123,7 +120,7 @@ Notice which ideas feel realistic. Over the course of this book you will learn h
 
 ---
 
-## Transition to Chapter 2
+## Transition
 
 Remote work offers freedom, but it also introduces a hidden problem.
 

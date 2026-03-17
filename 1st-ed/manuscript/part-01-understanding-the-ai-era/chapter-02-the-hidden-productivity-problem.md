@@ -1,7 +1,4 @@
-# Chapter 2  
-## The Hidden Productivity Problem
-
-### Opening Hook
+# The Hidden Productivity Problem
 
 Many remote professionals feel busier than ever.
 

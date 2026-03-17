@@ -1,7 +1,4 @@
-# Chapter 4  
-## Designing AI-Assisted Workflows
-
-### Opening Hook
+# Designing AI-Assisted Workflows
 
 Many people experiment with AI by asking random questions or generating occasional drafts.
 

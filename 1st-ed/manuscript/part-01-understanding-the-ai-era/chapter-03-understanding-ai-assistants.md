@@ -1,7 +1,4 @@
-# Chapter 3  
-## Understanding AI Assistants
-
-### Opening Hook
+# Understanding AI Assistants
 
 AI systems can now draft emails, summarize documents, generate graphics, analyze data, and answer complex questions.
 

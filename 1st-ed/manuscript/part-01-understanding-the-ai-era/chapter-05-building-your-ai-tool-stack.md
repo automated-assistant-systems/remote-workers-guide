@@ -1,7 +1,4 @@
-# Chapter 5  
-## Building Your AI Tool Stack
-
-### Opening Hook
+# Building Your AI Tool Stack
 
 There are now thousands of AI tools available.
 
