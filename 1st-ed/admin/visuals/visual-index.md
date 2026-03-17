@@ -1,182 +1,176 @@
 # Visual Index
 
-*The Remote Worker’s Survival Guide in the AI Age*
-Author: Gary G. Bayes, BABA, MBA
+The Remote Worker’s Survival Guide in the AI Age  
+Practical Tools, Workflows, and Strategies for Thriving Anywhere
 
-Status: Working Document
-Purpose: Provide a centralized index of all visuals used in the book.
+This file is the operational index of all planned visuals in the manuscript.
 
-This index helps:
+It should remain synchronized with:
 
-* track visual production progress
-* ensure visuals match the manuscript
-* support layout and publishing workflows
-* prevent duplicate or unnecessary visuals
+- admin/visuals/visuals-plan.md
+- admin/book-structure-spec.md
+- admin/chapter-cross-reference-map.md
+- admin/outline/book-outline.md
 
-Visual files are stored in:
+---
 
-```
-03-visuals/
-```
+# Naming Convention
 
-Core diagrams are stored in:
+Each visual uses this filename pattern:
 
-03-visuals/core-diagrams/
-
-These diagrams represent reusable frameworks used across multiple chapters.
-
-Each visual is stored inside a chapter-specific directory.
+visual-##-short-slug.svg
 
 Example:
 
-```
-03-visuals/chapter-03/prompt-structure-framework.svg
-```
+visual-01-remote-work-before-vs-after-ai.svg
+
+Directory pattern:
+
+visuals/part-##-.../chapter-##-.../visual-##-short-slug.svg
 
 ---
 
-# Chapter 1 — The New Reality of Remote Work
+# Part I — Understanding the AI Era
 
-| Visual                         | Type        | Status   | File                                 | Notes                        |
-| ------------------------------ | ----------- | -------- | ------------------------------------ | ---------------------------- |
-| Remote Work Before vs After AI | Infographic | Complete | `remote-work-before-after-ai.svg`    | 2019 vs AI era comparison    |
-| Remote Work Evolution Timeline | Infographic | Complete | `remote-work-evolution-timeline.svg` | Pre-2020 → Pandemic → AI era |
+## Chapter 1 — The New Reality of Remote Work
 
----
+| # | Title | File |
+|---|---|---|
+| 01 | Remote Work Before vs After AI | `visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-01-remote-work-before-vs-after-ai.svg` |
+| 02 | Remote Work Evolution Timeline | `visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-02-remote-work-evolution-timeline.svg` |
 
-# Chapter 2 — The AI Toolbox
+## Chapter 2 — The Hidden Productivity Problem
 
-| Visual                       | Type        | Status   | File                             | Notes                                        |
-| ---------------------------- | ----------- | -------- | -------------------------------- | -------------------------------------------- |
-| AI Productivity Stack        | Diagram     | Planned  | `ai-productivity-stack.svg`      | Human judgment → AI tools → automation       |
-| AI Tool Categories           | Infographic | Complete | `ai-tool-categories.svg`         | Writing / Research / Creativity / Automation |
-| Free vs Paid Tier Comparison | Table       | Planned  | `ai-tool-pricing-comparison.svg` | Feature comparison                           |
+| # | Title | File |
+|---|---|---|
+| 03 | AI Productivity Stack | `visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg` |
+| 04 | Fragmented Remote Workflow Map | `visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg` |
 
----
+## Chapter 3 — Understanding AI Assistants
 
-# Chapter 3 — Foundations: Working with AI
+| # | Title | File |
+|---|---|---|
+| 05 | What AI Does Well vs What Still Requires Human Judgment | `visuals/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants/visual-05-what-ai-does-well-vs-what-still-requires-human-judgment.svg` |
 
-| Visual                     | Type       | Status   | File                             | Notes                                           |
-| -------------------------- | ---------- | -------- | -------------------------------- | ----------------------------------------------- |
-| Prompt Structure Framework | Diagram    | Planned  | `prompt-structure-framework.svg` | Role → Context → Instruction → Example → Output |
-| Bad vs Good Prompt         | Comparison | Complete | `bad-vs-good-prompt.svg`         | Prompt improvement example                      |
+## Chapter 4 — Designing AI-Assisted Workflows
 
----
+| # | Title | File |
+|---|---|---|
+| 06 | AI-Assisted Work Model | `visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-06-ai-assisted-work-model.svg` |
+| 07 | Workflow Decision Filter | `visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-07-workflow-decision-filter.svg` |
 
-# Chapter 4 — AI for Writing & Communication
+## Chapter 5 — Building Your AI Tool Stack
 
-| Visual                   | Type       | Status  | File                         | Notes                                  |
-| ------------------------ | ---------- | ------- | ---------------------------- | -------------------------------------- |
-| AI-Assisted Work Model   | Diagram    | Planned | `ai-assisted-work-model.svg` | Task → AI Draft → Human Review → Final |
-| Proposal Before vs After | Comparison | Planned | `proposal-before-after.svg`  | AI-improved communication              |
+| # | Title | File |
+|---|---|---|
+| 08 | Lean AI Tool Stack | `visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-08-lean-ai-tool-stack.svg` |
+| 09 | Tool Selection Comparison Table | `visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-09-tool-selection-comparison-table.svg` |
 
----
+## Chapter 6 — Prompting: How to Work with AI Effectively
 
-# Chapter 5 — AI for Research & Learning
-
-| Visual               | Type    | Status  | File                            | Notes                          |
-| -------------------- | ------- | ------- | ------------------------------- | ------------------------------ |
-| AI Research Workflow | Diagram | Planned | `research-workflow-diagram.svg` | Question → AI → Verify → Apply |
-| AI Learning Roadmap  | Mockup  | Planned | `ai-learning-roadmap.svg`       | Skill development path         |
-
----
-
-# Chapter 6 — Creative Power
-
-| Visual               | Type    | Status  | File                       | Notes                        |
-| -------------------- | ------- | ------- | -------------------------- | ---------------------------- |
-| AI Creative Workflow | Diagram | Planned | `ai-creative-workflow.svg` | Idea → AI draft → refinement |
-| AI Brand Kit Example | Mockup  | Planned | `ai-brand-kit-output.svg`  | Logo + palette               |
+| # | Title | File |
+|---|---|---|
+| 10 | Prompt Structure Framework | `visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-10-prompt-structure-framework.svg` |
+| 11 | Weak Prompt vs Improved Prompt | `visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-11-weak-prompt-vs-improved-prompt.svg` |
 
 ---
 
-# Chapter 7 — Automating the Boring Stuff
+# Part II — Applying AI to Daily Work
 
-| Visual                      | Type        | Status  | File                       | Notes                          |
-| --------------------------- | ----------- | ------- | -------------------------- | ------------------------------ |
-| Automation Pipeline         | Diagram     | Planned | `automation-pipeline.svg`  | Trigger → Automation → Storage |
-| Weekly Automation Checklist | Infographic | Planned | `automation-checklist.svg` | Tasks to automate              |
+## Chapter 7 — Writing and Communication with AI
 
----
+| # | Title | File |
+|---|---|---|
+| 12 | AI Writing Workflow | `visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-12-ai-writing-workflow.svg` |
+| 13 | Before and After Communication Example | `visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-13-before-and-after-communication-example.svg` |
 
-# Chapter 8 — Collaboration & Remote Teams
+## Chapter 8 — Research, Learning, and Knowledge Work
 
-| Visual                     | Type    | Status  | File                      | Notes                         |
-| -------------------------- | ------- | ------- | ------------------------- | ----------------------------- |
-| AI Meeting Workflow        | Diagram | Planned | `ai-meeting-workflow.svg` | Agenda → Discussion → Summary |
-| AI Meeting Summary Example | Mockup  | Planned | `ai-meeting-summary.svg`  | AI-generated meeting notes    |
+| # | Title | File |
+|---|---|---|
+| 14 | Research Workflow Diagram | `visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-14-research-workflow-diagram.svg` |
+| 15 | AI Learning Roadmap | `visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-15-ai-learning-roadmap.svg` |
 
----
+## Chapter 9 — Creative Work: Design, Content, and Branding
 
-# Chapter 9 — Personal Productivity
+| # | Title | File |
+|---|---|---|
+| 16 | AI Creative Workflow | `visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg` |
+| 17 | Brand Asset System | `visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg` |
 
-| Visual                     | Type    | Status  | File                             | Notes             |
-| -------------------------- | ------- | ------- | -------------------------------- | ----------------- |
-| Task Prioritization Matrix | Diagram | Planned | `task-prioritization-matrix.svg` | Eisenhower grid   |
-| AI Productivity Workflow   | Diagram | Planned | `ai-productivity-workflow.svg`   | Daily AI workflow |
+## Chapter 10 — Automating Routine Work
 
----
+| # | Title | File |
+|---|---|---|
+| 18 | Automation Pipeline | `visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg` |
+| 19 | Five Tasks to Automate First | `visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-19-five-tasks-to-automate-first.svg` |
 
-# Chapter 10 — Mental Health & Resilience
+## Chapter 11 — Collaboration, Planning, and Personal Productivity
 
-| Visual                    | Type        | Status  | File                            | Notes                  |
-| ------------------------- | ----------- | ------- | ------------------------------- | ---------------------- |
-| Five-Minute Reset Options | Infographic | Planned | `five-minute-reset-options.svg` | Micro-break strategies |
+| # | Title | File |
+|---|---|---|
+| 20 | AI-Enhanced Meeting Workflow | `visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-20-ai-enhanced-meeting-workflow.svg` |
+| 21 | AI-Powered Daily Workflow | `visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-21-ai-powered-daily-workflow.svg` |
+| 22 | Task Prioritization Matrix | `visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-22-task-prioritization-matrix.svg` |
 
----
+## Chapter 12 — Working Wisely: Limits, Resilience, and Sustainable Practice
 
-# Chapter 11 — Future-Proofing Your Career
+| # | Title | File |
+|---|---|---|
+| 23 | Sustainable Work Cycle | `visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg` |
+| 24 | Human Oversight Checklist | `visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg` |
+| 25 | Five-Minute Reset Options | `visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg` |
 
-| Visual                         | Type    | Status  | File                          | Notes                      |
-| ------------------------------ | ------- | ------- | ----------------------------- | -------------------------- |
-| T-Shaped Skills for the AI Era | Diagram | Planned | `t-shaped-skills-diagram.svg` | Human expertise + AI tools |
-| AI Skill Gap Analysis Example  | Mockup  | Planned | `ai-skill-gap-analysis.svg`   | Career planning            |
+## Chapter 13 — Future-Proofing Your Career in the AI Era
 
----
-
-# Chapter 12 — The Remote Worker’s Playbook
-
-| Visual                    | Type        | Status  | File                            | Notes                            |
-| ------------------------- | ----------- | ------- | ------------------------------- | -------------------------------- |
-| Human + AI Leverage Model | Diagram     | Planned | `human-ai-leverage-diagram.svg` | Human judgment + AI acceleration |
-| AI Playbook Summary       | Infographic | Planned | `ai-playbook-summary.svg`       | Daily / weekly habits            |
-| 30-Day AI Action Plan     | Checklist   | Planned | `ai-30-day-action-plan.svg`     | Implementation roadmap           |
-
----
-
-# Appendix — Tools Directory & Prompt Library
-
-| Visual                    | Type   | Status   | File                        | Notes                    |
-| ------------------------- | ------ | -------- | --------------------------- | ------------------------ |
-| AI Tools Comparison Table | Table  | Planned  | `ai-tools-comparison.svg`   | Strengths & weaknesses   |
-| Prompt Library Spread     | Layout | Complete | `prompt-library-spread.svg` | Two-column prompt layout |
+| # | Title | File |
+|---|---|---|
+| 26 | T-Shaped Skills in the AI Era | `visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg` |
+| 27 | Leverage Ladder | `visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg` |
+| 28 | AI-Assisted Skill Gap Analysis | `visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg` |
 
 ---
 
-# Visual Production Summary
+# Part III — The Remote Worker Toolkit
 
-| Category           | Estimated Count |
-| ------------------ | --------------- |
-| Framework Diagrams | ~12             |
-| Infographics       | ~8              |
-| Comparisons        | ~5              |
-| Tables             | ~3              |
+## Chapter 14 — The Remote Worker’s Playbook
 
-Estimated total visuals: **~28**
+| # | Title | File |
+|---|---|---|
+| 29 | Human + AI Leverage Model | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg` |
+| 30 | AI Playbook Summary | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg` |
+| 31 | 30-Day AI Adoption Plan | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg` |
+
+## Chapter 15 — Prompt Toolkit
+
+| # | Title | File |
+|---|---|---|
+| 32 | Prompt Library by Job to Be Done | `visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-32-prompt-library-by-job-to-be-done.svg` |
+| 33 | Prompt Template Anatomy | `visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-33-prompt-template-anatomy.svg` |
+
+## Chapter 16 — AI Tools Directory
+
+| # | Title | File |
+|---|---|---|
+| 34 | Tools by Workflow Category | `visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg` |
+| 35 | Starter Stack Path | `visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg` |
 
 ---
 
-# Maintenance Rules
+# Priority Visuals
 
-When adding a new visual:
+These are the highest-priority visuals for first production pass:
 
-1. Add the file to the appropriate `03-visuals/chapter-xx/` directory.
-2. Add an entry to this visual index.
-3. Update the chapter Markdown with the correct image reference.
-4. Ensure the visual follows `visual-production-spec.md`.
-
----
-
-# Publishing Note
-
-During final manuscript layout, the Visual Index can also be used to generate the book’s **List of Figures** if required by the publisher.
+1. Visual 01 — Remote Work Before vs After AI
+2. Visual 03 — AI Productivity Stack
+3. Visual 06 — AI-Assisted Work Model
+4. Visual 07 — Workflow Decision Filter
+5. Visual 08 — Lean AI Tool Stack
+6. Visual 10 — Prompt Structure Framework
+7. Visual 14 — Research Workflow Diagram
+8. Visual 18 — Automation Pipeline
+9. Visual 20 — AI-Enhanced Meeting Workflow
+10. Visual 23 — Sustainable Work Cycle
+11. Visual 26 — T-Shaped Skills in the AI Era
+12. Visual 29 — Human + AI Leverage Model
+13. Visual 31 — 30-Day AI Adoption Plan
