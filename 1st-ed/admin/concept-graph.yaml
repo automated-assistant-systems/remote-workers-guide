@@ -1,0 +1,786 @@
+book:
+  title: "The Remote Worker’s Survival Guide in the AI Age"
+  subtitle: "Practical Tools, Workflows, and Strategies for Thriving Anywhere"
+  author: "Gary G. Bayes"
+
+core_model:
+  name: "Human Judgment + AI Assistance + Smart Workflows = Leverage"
+  components:
+    - human_judgment
+    - ai_assistance
+    - smart_workflows
+    - leverage
+  notes: >
+    This is the conceptual backbone of the manuscript. It should be reinforced
+    throughout the book without being repeated mechanically.
+
+reader_journey:
+  stages:
+    - name: "understanding"
+      parts: ["part_1"]
+      outcome: "Conceptual grounding in remote work change, AI assistants, workflows, tools, and prompting."
+    - name: "application"
+      parts: ["part_2"]
+      outcome: "Practical understanding of how AI supports real categories of daily work."
+    - name: "implementation"
+      parts: ["part_3"]
+      outcome: "Reusable routines, prompts, and tool references that operationalize the book."
+
+parts:
+  part_1:
+    title: "Understanding the AI Era"
+    emphasis: "human_judgment"
+    purpose: >
+      Establish conceptual foundations before introducing use-case applications.
+  part_2:
+    title: "Applying AI to Daily Work"
+    emphasis: "ai_assistance"
+    purpose: >
+      Demonstrate how AI improves real work domains and daily professional tasks.
+  part_3:
+    title: "The Remote Worker Toolkit"
+    emphasis: "smart_workflows"
+    purpose: >
+      Convert lessons from the book into repeatable systems, prompt assets, and tool references.
+
+chapters:
+  chapter_01:
+    title: "The New Reality of Remote Work"
+    part: "part_1"
+    role: "orientation"
+    introduces:
+      - remote_work_transformation
+    may_reference: []
+    must_not_reteach: []
+  chapter_02:
+    title: "The Hidden Productivity Problem"
+    part: "part_1"
+    role: "problem_diagnosis"
+    introduces:
+      - productivity_fragmentation
+    may_reference:
+      - remote_work_transformation
+    must_not_reteach:
+      - remote_work_transformation
+  chapter_03:
+    title: "Understanding AI Assistants"
+    part: "part_1"
+    role: "conceptual_foundation"
+    introduces:
+      - ai_assistants
+      - augmentation_not_replacement
+    may_reference:
+      - remote_work_transformation
+      - productivity_fragmentation
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+  chapter_04:
+    title: "Designing AI-Assisted Workflows"
+    part: "part_1"
+    role: "workflow_hinge"
+    introduces:
+      - workflow_thinking
+      - human_ai_work_model
+      - workflow_decision_filter
+    may_reference:
+      - ai_assistants
+      - productivity_fragmentation
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+  chapter_05:
+    title: "Building Your AI Tool Stack"
+    part: "part_1"
+    role: "tool_selection_framework"
+    introduces:
+      - tool_stack_design
+      - tool_selection_criteria
+      - lean_starter_stack
+    may_reference:
+      - workflow_thinking
+      - ai_assistants
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+  chapter_06:
+    title: "Prompting: How to Work with AI Effectively"
+    part: "part_1"
+    role: "operational_skill"
+    introduces:
+      - prompting
+      - prompt_structure
+      - prompt_iteration
+    may_reference:
+      - ai_assistants
+      - workflow_thinking
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+
+  chapter_07:
+    title: "Writing and Communication with AI"
+    part: "part_2"
+    role: "high_frequency_application"
+    introduces:
+      - ai_assisted_writing
+    may_reference:
+      - ai_assistants
+      - workflow_thinking
+      - prompting
+    must_not_reteach:
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_08:
+    title: "Research, Learning, and Knowledge Work"
+    part: "part_2"
+    role: "analytical_application"
+    introduces:
+      - ai_assisted_research
+      - verification_in_research
+    may_reference:
+      - ai_assistants
+      - workflow_thinking
+      - prompting
+    must_not_reteach:
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_09:
+    title: "Creative Work: Design, Content, and Branding"
+    part: "part_2"
+    role: "creative_application"
+    introduces:
+      - ai_assisted_creative_work
+      - brand_asset_system
+    may_reference:
+      - ai_assistants
+      - workflow_thinking
+      - prompting
+    must_not_reteach:
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_10:
+    title: "Automating Routine Work"
+    part: "part_2"
+    role: "system_efficiency"
+    introduces:
+      - automation_systems
+      - trigger_action_logic
+      - automation_guardrails
+    may_reference:
+      - workflow_thinking
+      - tool_stack_design
+    must_not_reteach:
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_11:
+    title: "Collaboration, Planning, and Personal Productivity"
+    part: "part_2"
+    role: "operational_workflow"
+    introduces:
+      - ai_collaboration_workflows
+      - ai_personal_productivity
+      - meeting_summary_workflow
+      - task_prioritization_with_ai
+    may_reference:
+      - workflow_thinking
+      - prompting
+      - productivity_fragmentation
+    must_not_reteach:
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_12:
+    title: "Working Wisely: Limits, Resilience, and Sustainable Practice"
+    part: "part_2"
+    role: "maturity_chapter"
+    introduces:
+      - responsible_ai_use
+      - sustainable_work_practice
+      - burnout_prevention
+      - human_oversight
+    may_reference:
+      - productivity_fragmentation
+      - workflow_thinking
+      - ai_assistants
+    must_not_reteach:
+      - tool_stack_design
+      - prompting
+  chapter_13:
+    title: "Future-Proofing Your Career in the AI Era"
+    part: "part_2"
+    role: "strategic_synthesis"
+    introduces:
+      - career_resilience
+      - ai_augmented_skills
+      - t_shaped_skills
+      - leverage_ladder
+    may_reference:
+      - ai_assistants
+      - workflow_thinking
+      - sustainable_work_practice
+    must_not_reteach:
+      - prompting
+      - tool_stack_design
+
+  chapter_14:
+    title: "The Remote Worker’s Playbook"
+    part: "part_3"
+    role: "synthesis_and_implementation"
+    introduces:
+      - operational_playbook
+      - daily_ai_triage
+      - weekly_review
+      - monthly_system_reset
+      - adoption_path_30_days
+    may_reference:
+      - workflow_thinking
+      - ai_assisted_writing
+      - ai_assisted_research
+      - ai_assisted_creative_work
+      - automation_systems
+      - ai_collaboration_workflows
+      - ai_personal_productivity
+      - responsible_ai_use
+      - career_resilience
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - tool_stack_design
+      - prompting
+  chapter_15:
+    title: "Prompt Toolkit"
+    part: "part_3"
+    role: "execution_library"
+    introduces:
+      - prompt_library
+    may_reference:
+      - prompting
+      - ai_assisted_writing
+      - ai_assisted_research
+      - ai_assisted_creative_work
+      - automation_systems
+      - ai_collaboration_workflows
+      - ai_personal_productivity
+      - sustainable_work_practice
+      - career_resilience
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  chapter_16:
+    title: "AI Tools Directory"
+    part: "part_3"
+    role: "reference_appendix"
+    introduces:
+      - tools_directory
+    may_reference:
+      - tool_stack_design
+      - lean_starter_stack
+    must_not_reteach:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+      - prompting
+
+concepts:
+  remote_work_transformation:
+    label: "Remote Work Transformation"
+    introduced_in: "chapter_01"
+    description: >
+      Explains the shift from office-first work to distributed work and why AI now belongs
+      in the remote work conversation.
+    allowed_reuse_in:
+      - chapter_02
+      - chapter_03
+      - chapter_13
+    forbidden_as_primary_explanation_in:
+      - chapter_04
+      - chapter_05
+      - chapter_06
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_10
+      - chapter_11
+      - chapter_12
+      - chapter_14
+      - chapter_15
+      - chapter_16
+
+  productivity_fragmentation:
+    label: "The Hidden Productivity Problem"
+    introduced_in: "chapter_02"
+    description: >
+      Defines fragmentation, communication overload, administrative drag, and context switching
+      as structural problems of remote work.
+    allowed_reuse_in:
+      - chapter_04
+      - chapter_10
+      - chapter_11
+      - chapter_12
+    forbidden_as_primary_explanation_in:
+      - chapter_05
+      - chapter_06
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_13
+      - chapter_14
+      - chapter_15
+      - chapter_16
+
+  ai_assistants:
+    label: "AI Assistants"
+    introduced_in: "chapter_03"
+    description: >
+      Defines what AI assistants are good at, where they struggle, and how they should be treated
+      as collaborators rather than authorities.
+    allowed_reuse_in:
+      - chapter_04
+      - chapter_05
+      - chapter_06
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_10
+      - chapter_11
+      - chapter_12
+      - chapter_13
+    forbidden_as_primary_explanation_in:
+      - chapter_14
+      - chapter_15
+      - chapter_16
+
+  augmentation_not_replacement:
+    label: "Augmentation, Not Replacement"
+    introduced_in: "chapter_03"
+    description: >
+      Frames AI as a tool that amplifies human capability rather than replacing human judgment.
+    allowed_reuse_in:
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_10
+      - chapter_11
+      - chapter_12
+      - chapter_13
+      - chapter_14
+
+  workflow_thinking:
+    label: "Workflow Thinking"
+    introduced_in: "chapter_04"
+    description: >
+      Teaches readers to think in systems: task, AI assistance, human review, and final output.
+    allowed_reuse_in:
+      - chapter_05
+      - chapter_06
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_10
+      - chapter_11
+      - chapter_12
+      - chapter_13
+      - chapter_14
+    forbidden_as_primary_explanation_in:
+      - chapter_15
+      - chapter_16
+
+  human_ai_work_model:
+    label: "Human + AI Work Model"
+    introduced_in: "chapter_04"
+    description: >
+      The core operational pattern: task, AI draft or processing, human review, final output.
+    allowed_reuse_in:
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_10
+      - chapter_11
+      - chapter_14
+
+  workflow_decision_filter:
+    label: "Workflow Decision Filter"
+    introduced_in: "chapter_04"
+    description: >
+      The decision logic used to determine whether a task should remain manual, become AI-assisted,
+      or be automated.
+    allowed_reuse_in:
+      - chapter_10
+      - chapter_11
+      - chapter_14
+
+  tool_stack_design:
+    label: "Tool Stack Design"
+    introduced_in: "chapter_05"
+    description: >
+      Explains how to choose tools intentionally based on jobs to be done, integration, cost,
+      simplicity, and workflow fit.
+    allowed_reuse_in:
+      - chapter_06
+      - chapter_10
+      - chapter_16
+    forbidden_as_primary_explanation_in:
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_11
+      - chapter_12
+      - chapter_13
+      - chapter_14
+      - chapter_15
+
+  tool_selection_criteria:
+    label: "Tool Selection Criteria"
+    introduced_in: "chapter_05"
+    description: >
+      The criteria used to evaluate tools: core use case, ease of use, integration, cost, and fit.
+
+  lean_starter_stack:
+    label: "Lean Starter Stack"
+    introduced_in: "chapter_05"
+    description: >
+      The minimal set of tool categories most readers need to begin using AI effectively.
+    allowed_reuse_in:
+      - chapter_16
+
+  prompting:
+    label: "Prompting"
+    introduced_in: "chapter_06"
+    description: >
+      The operational skill of communicating effectively with AI assistants through clear instructions.
+    allowed_reuse_in:
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_11
+      - chapter_15
+    forbidden_as_primary_explanation_in:
+      - chapter_10
+      - chapter_12
+      - chapter_13
+      - chapter_14
+      - chapter_16
+
+  prompt_structure:
+    label: "Prompt Structure"
+    introduced_in: "chapter_06"
+    description: >
+      The anatomy of an effective prompt, including role, task, context, constraints, and output format.
+    allowed_reuse_in:
+      - chapter_07
+      - chapter_08
+      - chapter_09
+      - chapter_15
+
+  prompt_iteration:
+    label: "Prompt Iteration"
+    introduced_in: "chapter_06"
+    description: >
+      The practice of refining prompts based on the quality of AI output.
+
+  ai_assisted_writing:
+    label: "AI-Assisted Writing"
+    introduced_in: "chapter_07"
+    description: >
+      The use of AI for drafting, rewriting, summarizing, and refining communication.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  ai_assisted_research:
+    label: "AI-Assisted Research"
+    introduced_in: "chapter_08"
+    description: >
+      The use of AI for summarization, synthesis, exploration, and learning support.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  verification_in_research:
+    label: "Verification in Research"
+    introduced_in: "chapter_08"
+    description: >
+      The requirement to verify important claims and sources when using AI in research workflows.
+    allowed_reuse_in:
+      - chapter_12
+
+  ai_assisted_creative_work:
+    label: "AI-Assisted Creative Work"
+    introduced_in: "chapter_09"
+    description: >
+      The use of AI for ideation, design acceleration, content generation, and branding support.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  brand_asset_system:
+    label: "Brand Asset System"
+    introduced_in: "chapter_09"
+    description: >
+      A coherent set of creative assets such as logos, colors, fonts, templates, and content elements.
+
+  automation_systems:
+    label: "Automation Systems"
+    introduced_in: "chapter_10"
+    description: >
+      The use of triggers, app connections, and AI processing to reduce repetitive manual work.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  trigger_action_logic:
+    label: "Trigger-Action Logic"
+    introduced_in: "chapter_10"
+    description: >
+      The core automation pattern: an event occurs, processing happens, and an action follows.
+
+  automation_guardrails:
+    label: "Automation Guardrails"
+    introduced_in: "chapter_10"
+    description: >
+      The limits and review checkpoints that prevent over-automation and silent errors.
+    allowed_reuse_in:
+      - chapter_12
+      - chapter_14
+
+  ai_collaboration_workflows:
+    label: "AI Collaboration Workflows"
+    introduced_in: "chapter_11"
+    description: >
+      AI-assisted meeting summaries, shared updates, and distributed team coordination.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  ai_personal_productivity:
+    label: "AI Personal Productivity"
+    introduced_in: "chapter_11"
+    description: >
+      AI-assisted planning, task prioritization, and daily execution support.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  meeting_summary_workflow:
+    label: "Meeting Summary Workflow"
+    introduced_in: "chapter_11"
+    description: >
+      The workflow of transcript, summary, action items, and task capture after meetings.
+
+  task_prioritization_with_ai:
+    label: "Task Prioritization with AI"
+    introduced_in: "chapter_11"
+    description: >
+      The use of AI to organize tasks, suggest schedules, and reduce decision fatigue.
+
+  responsible_ai_use:
+    label: "Responsible AI Use"
+    introduced_in: "chapter_12"
+    description: >
+      Verification, judgment, privacy awareness, and review practices that keep AI use professional.
+    allowed_reuse_in:
+      - chapter_14
+
+  sustainable_work_practice:
+    label: "Sustainable Work Practice"
+    introduced_in: "chapter_12"
+    description: >
+      The habits and boundaries that protect focus, reduce burnout, and make AI-assisted work sustainable.
+    allowed_reuse_in:
+      - chapter_13
+      - chapter_14
+      - chapter_15
+
+  burnout_prevention:
+    label: "Burnout Prevention"
+    introduced_in: "chapter_12"
+    description: >
+      Practical steps to avoid overwork, digital overload, and always-on remote work patterns.
+
+  human_oversight:
+    label: "Human Oversight"
+    introduced_in: "chapter_12"
+    description: >
+      The checkpoint where professionals verify output quality, risks, and implications before relying on AI.
+
+  career_resilience:
+    label: "Career Resilience"
+    introduced_in: "chapter_13"
+    description: >
+      The long-term ability to adapt, learn, and stay valuable as AI reshapes work.
+    allowed_reuse_in:
+      - chapter_14
+      - chapter_15
+
+  ai_augmented_skills:
+    label: "AI-Augmented Skills"
+    introduced_in: "chapter_13"
+    description: >
+      The combination of human strengths and AI collaboration skills that increases professional value.
+
+  t_shaped_skills:
+    label: "T-Shaped Skills"
+    introduced_in: "chapter_13"
+    description: >
+      A model combining broad AI literacy with deep domain expertise.
+
+  leverage_ladder:
+    label: "Leverage Ladder"
+    introduced_in: "chapter_13"
+    description: >
+      The progression from manual work to AI-assisted work to semi-automated systems to reusable workflows.
+
+  operational_playbook:
+    label: "Operational Playbook"
+    introduced_in: "chapter_14"
+    description: >
+      The synthesized system of daily, weekly, and monthly routines for AI-assisted remote work.
+
+  daily_ai_triage:
+    label: "Daily AI Triage"
+    introduced_in: "chapter_14"
+    description: >
+      The daily practice of identifying which tasks AI should assist with and which require human attention.
+
+  weekly_review:
+    label: "Weekly Review"
+    introduced_in: "chapter_14"
+    description: >
+      A recurring process for checking what worked, what saved time, and what should be improved.
+
+  monthly_system_reset:
+    label: "Monthly System Reset"
+    introduced_in: "chapter_14"
+    description: >
+      A periodic review of workflows, tools, skills, and personal operating patterns.
+
+  adoption_path_30_days:
+    label: "30-Day Adoption Path"
+    introduced_in: "chapter_14"
+    description: >
+      A staged implementation path that helps readers adopt AI workflows gradually.
+
+  prompt_library:
+    label: "Prompt Library"
+    introduced_in: "chapter_15"
+    description: >
+      A categorized set of reusable prompts organized by job to be done.
+
+  tools_directory:
+    label: "Tools Directory"
+    introduced_in: "chapter_16"
+    description: >
+      A categorized reference of AI tools aligned to workflow needs rather than hype.
+
+constraints:
+  part_1:
+    must_introduce_before_part_2:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+  part_2:
+    must_not_redefine:
+      - remote_work_transformation
+      - productivity_fragmentation
+      - ai_assistants
+      - workflow_thinking
+      - tool_stack_design
+      - prompting
+    may_apply_only:
+      - ai_assisted_writing
+      - ai_assisted_research
+      - ai_assisted_creative_work
+      - automation_systems
+      - ai_collaboration_workflows
+      - ai_personal_productivity
+      - responsible_ai_use
+      - sustainable_work_practice
+      - career_resilience
+  part_3:
+    must_not_introduce_new_core_theory: true
+    may_operationalize:
+      - workflow_thinking
+      - prompting
+      - ai_assisted_writing
+      - ai_assisted_research
+      - ai_assisted_creative_work
+      - automation_systems
+      - ai_collaboration_workflows
+      - ai_personal_productivity
+      - responsible_ai_use
+      - sustainable_work_practice
+      - career_resilience
+      - tool_stack_design
+
+editor_rules:
+  introduce_once_then_reference: true
+  concepts_should_not_be_redefined_in_later_chapters: true
+  application_chapters_should_use_examples_not_reteach_foundations: true
+  toolkit_should_operationalize_not_theorize: true
+  examples_must_be_fictional_and_realistic: true
+  prompts_should_be_copyable_and_tool_agnostic: true
+
+validation_hints:
+  chapter_07:
+    should_reference:
+      - prompting
+      - workflow_thinking
+    should_not_define:
+      - ai_assistants
+      - prompt_structure
+  chapter_08:
+    should_reference:
+      - prompting
+      - workflow_thinking
+      - verification_in_research
+    should_not_define:
+      - ai_assistants
+  chapter_10:
+    should_reference:
+      - workflow_decision_filter
+      - tool_stack_design
+    should_not_define:
+      - prompting
+  chapter_14:
+    should_reference:
+      - operational_playbook
+      - daily_ai_triage
+      - weekly_review
+      - monthly_system_reset
+    should_not_define:
+      - ai_assistants
+      - prompting
+      - remote_work_transformation
+  chapter_16:
+    should_reference:
+      - tool_stack_design
+      - lean_starter_stack
+    should_not_define:
+      - workflow_thinking
+      - prompting
+      - ai_assistants
