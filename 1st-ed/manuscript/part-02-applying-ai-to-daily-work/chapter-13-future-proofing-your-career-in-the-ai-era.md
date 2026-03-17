@@ -13,37 +13,51 @@ The professionals who thrive will be those who combine human expertise with AI l
 
 The most valuable capabilities combine three layers:
 
-Human skills  
-- creativity  
-- communication  
-- judgment  
-- leadership  
+Human skills 
+- creativity 
+- communication 
+- judgment 
+- leadership 
 
-AI collaboration skills  
-- prompting  
-- workflow design  
-- automation thinking  
+AI collaboration skills 
+- prompting 
+- workflow design 
+- automation thinking 
 
-Meta-skills  
-- adaptability  
-- curiosity  
-- continuous learning  
+Meta-skills 
+- adaptability 
+- curiosity 
+- continuous learning 
 
 One way to visualize career growth in the AI era is through a leverage ladder.
 
-![Leverage Ladder](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg)
-
-*Figure 13.1 — Leverage Ladder*
+![*Leverage Ladder*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg)
 
 This ladder illustrates how professionals increase their impact over time—from manual work to AI-assisted workflows and eventually scalable systems.
 
 ---
 
+## The Expanding Productivity Economy
+
+Economist Paul Zane Pilzer has argued that wealth in modern economies is not fixed.
+
+Technological innovation expands productivity, allowing individuals and organizations to create far more value than before. Throughout history, breakthroughs such as electricity, industrial machinery, and computers dramatically increased the productive capacity of individuals.
+
+Artificial intelligence may represent a similar shift.
+
+Instead of replacing professionals entirely, AI allows individuals to amplify their capabilities. A single consultant can analyze large datasets. A designer can produce more creative variations in less time. A writer can draft and refine ideas faster than traditional workflows allowed.
+
+This reflects Pilzer’s concept of a dynamic economy — one in which productivity expands through innovation rather than simply redistributing opportunity.
+
+For remote professionals, this means the future of work is not just about protecting existing roles.
+
+It is about learning how to use new tools to increase leverage.
+
+---
+
 Another important framework is the development of broad capability combined with specialized expertise.
 
-![T-Shaped Skills in the AI Era](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg)
-
-*Figure 13.2 — T-Shaped Skills in the AI Era*
+![*T-Shaped Skills in the AI Era*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg)
 
 This model shows how professionals combine deep expertise in one domain with broad understanding across multiple disciplines.
 
@@ -51,9 +65,7 @@ This model shows how professionals combine deep expertise in one domain with bro
 
 Professionals can also use AI to analyze their own skill gaps.
 
-![AI-Assisted Skill Gap Analysis](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg)
-
-*Figure 13.3 — AI-Assisted Skill Gap Analysis*
+![*AI-Assisted Skill Gap Analysis*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg)
 
 This diagram demonstrates how AI tools can help identify areas for professional development by comparing current capabilities with emerging industry demands.
 
@@ -79,8 +91,8 @@ Conduct a simple career audit.
 
 Ask yourself:
 
-- Which parts of my work could be automated?  
-- Which parts require human judgment or creativity?  
+- Which parts of my work could be automated? 
+- Which parts require human judgment or creativity? 
 - What AI skill could amplify my work this year?
 
 Choose one skill to begin developing this month.

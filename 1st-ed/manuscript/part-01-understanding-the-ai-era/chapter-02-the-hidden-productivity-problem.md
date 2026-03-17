@@ -20,13 +20,13 @@ It is fragmentation.
 
 Remote professionals frequently manage work across many systems:
 
-- email  
-- messaging platforms  
-- project management tools  
-- note-taking apps  
-- shared documents  
-- calendars  
-- video calls  
+- email 
+- messaging platforms 
+- project management tools 
+- note-taking apps 
+- shared documents 
+- calendars 
+- video calls 
 
 Each tool solves a specific problem.
 
@@ -34,9 +34,7 @@ Together, they often create cognitive overload.
 
 The structure of this problem becomes clearer when we examine how productivity layers operate in modern work.
 
-![AI Productivity Stack](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg)
-
-*Figure 2.1 — AI Productivity Stack*
+![*AI Productivity Stack*](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg)
 
 This stack illustrates the different layers involved in knowledge work: decision making, communication, information processing, and task execution. AI assistance can support each layer by reducing repetitive work and organizing information more effectively.
 
@@ -44,11 +42,25 @@ This stack illustrates the different layers involved in knowledge work: decision
 
 Another way to understand the challenge is to visualize the complexity of the modern remote workflow environment.
 
-![Fragmented Remote Workflow Map](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg)
-
-*Figure 2.2 — Fragmented Remote Workflow Map*
+![*Fragmented Remote Workflow Map*](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg)
 
 This map shows how remote professionals often move constantly between tools, conversations, and information sources. The resulting context switching reduces focus and slows progress. AI tools can act as connectors that simplify these fragmented workflows.
+
+---
+
+## Coordination Complexity
+
+Decades before modern remote work tools existed, software engineer Fred Brooks observed a similar problem in complex projects.
+
+In his classic book *The Mythical Man-Month*, Brooks described how coordination between team members can quickly become the dominant cost of a project. Adding more people to a project does not always increase productivity, because communication overhead grows rapidly as the number of collaborators increases.
+
+Remote work environments often experience a similar dynamic.
+
+As teams rely on messaging apps, shared documents, and video calls, the number of conversations required to coordinate work multiplies. Information becomes scattered across channels and platforms, making it harder to maintain clarity and focus.
+
+What Brooks observed in software engineering decades ago now appears in many forms of modern knowledge work.
+
+AI tools can help reduce this coordination overhead by organizing information, summarizing discussions, and extracting key decisions from complex communication streams.
 
 ---
 
@@ -82,11 +94,11 @@ Maria is a freelance designer managing projects for clients in three countries.
 
 Her typical day involves:
 
-- reviewing client briefs  
-- responding to email threads  
-- designing graphics  
-- updating project boards  
-- preparing presentations  
+- reviewing client briefs 
+- responding to email threads 
+- designing graphics 
+- updating project boards 
+- preparing presentations 
 
 None of these tasks are individually overwhelming.
 
@@ -100,15 +112,15 @@ Once Maria begins introducing AI assistance for summarizing briefs, drafting upd
 
 The real productivity challenge is not effort.
 
-It is unstructured workflows.
+It is unstructured workflows and coordination complexity.
 
 ---
 
 ## Chapter Takeaways
 
-- Remote work increases flexibility but also fragmentation.  
-- Productivity losses often come from coordination and administrative overhead.  
-- AI can reduce these burdens when used intentionally.  
+- Remote work increases flexibility but also fragmentation. 
+- Productivity losses often come from coordination and administrative overhead. 
+- AI can reduce these burdens when used intentionally. 
 - Tools alone are not the solution — workflow design is.
 
 ---
@@ -119,8 +131,8 @@ Write down the five most repetitive tasks you perform each week.
 
 For each task ask:
 
-- Does this require judgment?  
-- Could AI assist with part of it?  
+- Does this require judgment? 
+- Could AI assist with part of it? 
 - Could part of the process be automated?
 
 These answers will become the foundation for your workflow redesign later in the book.
