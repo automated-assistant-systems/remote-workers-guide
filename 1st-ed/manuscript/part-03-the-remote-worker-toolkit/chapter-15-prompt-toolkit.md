@@ -539,7 +539,7 @@ It is about giving clear instructions, evaluating the response, and refining the
 
 ---
 
-# Chapter Takeaways
+## Chapter Takeaways
 
 - Prompt design is a professional skill.
 - Clear structure produces better results.
