@@ -5,30 +5,30 @@ language: "en"
 version: "first-edition-draft"
 
 chapters:
-  - ../../manuscript/front-matter/foreword.md
-  - ../../manuscript/front-matter/introduction.md
-  - ../../manuscript/front-matter/how-to-use-this-book.md
+  - manuscript/front-matter/foreword.md
+  - manuscript/front-matter/introduction.md
+  - manuscript/front-matter/how-to-use-this-book.md
 
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work.md
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem.md
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants.md
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows.md
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack.md
-  - ../../manuscript/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack.md
+  - manuscript/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively.md
 
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice.md
-  - ../../manuscript/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice.md
+  - manuscript/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era.md
 
-  - ../../manuscript/part-03-the-remote-worker-toolkit/part-iii-the-remote-worker-toolkit.md
-  - ../../manuscript/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook.md
-  - ../../manuscript/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit.md
-  - ../../manuscript/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory.md
+  - manuscript/part-03-the-remote-worker-toolkit/part-iii-the-remote-worker-toolkit.md
+  - manuscript/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook.md
+  - manuscript/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit.md
+  - manuscript/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory.md
 
-  - ../../manuscript/back-matter/acknowledgments.md
-  - ../../manuscript/back-matter/glossary.md
-  - ../../manuscript/back-matter/about-the-author.md
+  - manuscript/back-matter/acknowledgments.md
+  - manuscript/back-matter/glossary.md
+  - manuscript/back-matter/about-the-author.md
