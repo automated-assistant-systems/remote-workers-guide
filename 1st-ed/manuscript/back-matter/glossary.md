@@ -1,4 +1,4 @@
-Appendix: AI Tools Directory
+# Appendix: AI Tools Directory
 
 *Note: Features and pricing change frequently. The information below is accurate at time of writing, but always check each provider’s website for the latest details. Most apps offer free tiers or free trials.*
 
@@ -168,7 +168,7 @@ Appendix: AI Tools Directory
 
 ---
 
-# **Warning:** Pricing Disclaimer
+## **Warning:** Pricing Disclaimer
 
 Most tools listed here provide **tiered pricing**:
 
