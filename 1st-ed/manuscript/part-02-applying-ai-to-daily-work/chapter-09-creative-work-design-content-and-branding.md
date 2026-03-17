@@ -1,7 +1,4 @@
-# Chapter 9  
-## Creative Work: Design, Content, and Branding
-
-### Opening Hook
+# Creative Work: Design, Content, and Branding
 
 In digital work environments, creativity often determines visibility.
 

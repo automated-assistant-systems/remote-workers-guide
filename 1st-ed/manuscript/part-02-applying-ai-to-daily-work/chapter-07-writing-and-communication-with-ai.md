@@ -1,7 +1,4 @@
-# Chapter 7  
-## Writing and Communication with AI
-
-### Opening Hook
+# Writing and Communication with AI
 
 For most remote professionals, writing is the primary way work gets done.
 

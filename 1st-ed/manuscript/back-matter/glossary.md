@@ -9,7 +9,7 @@ Definitions should remain practical and non-technical.
 
 ---
 
-# Artificial Intelligence (AI)
+## Artificial Intelligence (AI)
 
 In this book, artificial intelligence refers to software systems capable of assisting with tasks that normally require human cognitive effort.
 
@@ -24,7 +24,7 @@ The focus of this book is **practical AI tools used by remote professionals**, n
 
 ---
 
-# AI Assistant
+## AI Assistant
 
 An AI assistant is a software tool that helps a user complete tasks by generating, organizing, or analyzing information.
 
@@ -39,7 +39,7 @@ AI assistants are best understood as **support tools**, not replacements for pro
 
 ---
 
-# Automation
+## Automation
 
 Automation refers to using software to perform tasks that would otherwise require manual effort.
 
@@ -53,7 +53,7 @@ Automation reduces repetitive work and allows professionals to focus on higher-v
 
 ---
 
-# Workflow
+## Workflow
 
 A workflow is the sequence of steps required to complete a task.
 
@@ -68,7 +68,7 @@ AI tools often improve productivity by simplifying or accelerating specific step
 
 ---
 
-# AI-Assisted Workflow
+## AI-Assisted Workflow
 
 An AI-assisted workflow is a process where AI tools support one or more steps in completing a task.
 
@@ -83,7 +83,7 @@ The human remains responsible for reviewing and refining the output.
 
 ---
 
-# Remote Work
+## Remote Work
 
 Remote work refers to professional work performed outside of a traditional centralized office environment.
 
@@ -97,7 +97,7 @@ Remote work often relies heavily on digital tools for communication and coordina
 
 ---
 
-# Remote Worker
+## Remote Worker
 
 A remote worker is a professional whose work is primarily performed using digital tools rather than a fixed office location.
 
@@ -112,7 +112,7 @@ This book focuses primarily on **knowledge workers and independent professionals
 
 ---
 
-# Knowledge Work
+## Knowledge Work
 
 Knowledge work involves tasks that require thinking, analysis, creativity, and communication rather than manual labor.
 
@@ -128,7 +128,7 @@ AI tools are particularly effective at assisting with certain types of knowledge
 
 ---
 
-# Productivity Workflow
+## Productivity Workflow
 
 A productivity workflow is a structured process designed to help a professional complete work efficiently and consistently.
 
@@ -143,7 +143,7 @@ AI tools can improve productivity workflows by reducing repetitive tasks.
 
 ---
 
-# AI Prompt
+## AI Prompt
 
 A prompt is the instruction given to an AI system to produce an output.
 
@@ -157,7 +157,7 @@ Effective prompts tend to be **clear, specific, and structured**.
 
 ---
 
-# Prompt Library
+## Prompt Library
 
 A prompt library is a collection of prompts designed to perform specific tasks.
 
@@ -171,7 +171,7 @@ Prompt libraries allow professionals to reuse effective instructions rather than
 
 ---
 
-# Tool Stack
+## Tool Stack
 
 A tool stack is the collection of digital tools a professional uses to perform their work.
 
@@ -186,7 +186,7 @@ A well-designed tool stack supports efficient workflows without unnecessary comp
 
 ---
 
-# Workflow Automation
+## Workflow Automation
 
 Workflow automation uses software tools to automatically complete steps within a workflow.
 
@@ -200,7 +200,7 @@ Automation is most effective when applied to **repetitive and predictable tasks*
 
 ---
 
-# Digital Workspace
+## Digital Workspace
 
 A digital workspace is the set of applications and tools used to organize and manage work in a remote environment.
 
@@ -215,7 +215,7 @@ AI tools are increasingly integrated into digital workspaces.
 
 ---
 
-# Administrative Work
+## Administrative Work
 
 Administrative work refers to supporting tasks that are necessary but not directly related to the core value of a professional’s work.
 
@@ -229,7 +229,7 @@ AI tools often provide the greatest productivity benefits by reducing administra
 
 ---
 
-# Asynchronous Communication
+## Asynchronous Communication
 
 Asynchronous communication occurs when participants do not communicate in real time.
 
@@ -244,7 +244,7 @@ Remote teams often rely on asynchronous communication to coordinate across time 
 
 ---
 
-# AI Literacy
+## AI Literacy
 
 AI literacy refers to the ability to understand, evaluate, and effectively use AI tools.
 
@@ -259,7 +259,7 @@ AI literacy is becoming an increasingly valuable skill for remote professionals.
 
 ---
 
-# Human Oversight
+## Human Oversight
 
 Human oversight refers to the responsibility of the user to review and evaluate AI-generated outputs.
 
@@ -273,7 +273,7 @@ Professionals remain responsible for final decisions and outputs.
 
 ---
 
-# Final Note
+## Final Note
 
 These definitions are intentionally practical and accessible.
 

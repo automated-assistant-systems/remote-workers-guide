@@ -1,7 +1,4 @@
-# Chapter 12  
-## Working Wisely: Limits, Resilience, and Sustainable Practice
-
-### Opening Hook
+# Working Wisely: Limits, Resilience, and Sustainable Practice
 
 AI promises faster work and greater productivity.
 

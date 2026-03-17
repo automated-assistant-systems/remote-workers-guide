@@ -1,7 +1,4 @@
-# Chapter 8  
-## Research, Learning, and Knowledge Work
-
-### Opening Hook
+# Research, Learning, and Knowledge Work
 
 Remote professionals spend a large portion of their time gathering information.
 

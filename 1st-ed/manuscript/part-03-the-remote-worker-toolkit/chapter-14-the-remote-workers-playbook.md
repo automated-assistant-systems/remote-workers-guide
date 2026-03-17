@@ -1,7 +1,4 @@
-# Chapter 14  
-## The Remote Worker’s Playbook
-
-### Opening Hook
+# The Remote Worker’s Playbook
 
 Reading about productivity is useful.
 

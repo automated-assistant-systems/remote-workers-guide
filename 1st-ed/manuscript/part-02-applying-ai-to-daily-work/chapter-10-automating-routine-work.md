@@ -1,7 +1,4 @@
-# Chapter 10  
-## Automating Routine Work
-
-### Opening Hook
+# Automating Routine Work
 
 Every remote worker encounters repetitive digital tasks.
 

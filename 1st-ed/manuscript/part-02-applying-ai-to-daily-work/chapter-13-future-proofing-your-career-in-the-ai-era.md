@@ -1,7 +1,4 @@
-# Chapter 13  
-## Future-Proofing Your Career in the AI Era
-
-### Opening Hook
+# Future-Proofing Your Career in the AI Era
 
 AI is transforming many professions.
 

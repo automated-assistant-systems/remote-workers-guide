@@ -1,7 +1,4 @@
-# Chapter 11  
-## Collaboration, Planning, and Personal Productivity
-
-### Opening Hook
+# Collaboration, Planning, and Personal Productivity
 
 Distributed teams rely heavily on digital coordination.
 

@@ -1,7 +1,4 @@
-# Chapter 15  
-## Prompt Toolkit
-
-### Opening Hook
+# Prompt Toolkit
 
 AI tools become dramatically more useful when you treat them as thinking partners rather than simple question-answer machines.
 

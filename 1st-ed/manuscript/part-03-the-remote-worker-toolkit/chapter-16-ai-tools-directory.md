@@ -1,7 +1,6 @@
-# Chapter 16  
-## AI Tools Directory
+# AI Tools Directory
 
-### Purpose of This Directory
+## Purpose of This Directory
 
 This directory is not meant to overwhelm you with options.
 
@@ -30,6 +29,8 @@ This diagram groups tools by the type of work they support—writing, research, 
 
 ## Writing and Communication Tools
 
+### Writing Tools  
+
 AI Assistants  
 ChatGPT  
 Claude  
@@ -40,7 +41,7 @@ Uses:
 - brainstorming ideas  
 - summarizing documents  
 
-Editing Tools  
+### Editing Tools  
 
 GrammarlyGO  
 Jasper  
@@ -55,7 +56,7 @@ Uses:
 
 ## Research and Learning Tools
 
-Research Assistants  
+### Research Assistants  
 
 Perplexity AI  
 Elicit  
@@ -66,7 +67,7 @@ Uses:
 - literature summaries  
 - quick fact discovery  
 
-Learning Platforms  
+### Learning Platforms  
 
 Khanmigo  
 Duolingo Max  
@@ -81,12 +82,12 @@ Uses:
 
 ## Creativity and Branding Tools
 
-Design Platforms  
+### Design Platforms  
 
 Canva AI  
 Adobe Firefly  
 
-Image Generation  
+### Image Generation  
 
 Midjourney  
 DALL-E
