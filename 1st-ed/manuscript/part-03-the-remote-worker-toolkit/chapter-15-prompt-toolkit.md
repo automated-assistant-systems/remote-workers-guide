@@ -2,135 +2,594 @@
 
 AI tools become dramatically more useful when you treat them as thinking partners rather than simple question-answer machines.
 
-The prompts in this chapter provide starting points you can adapt to your own work.
+The prompts in this chapter provide practical starting points you can adapt to your own work.
 
-They are organized by **job to be done**, not by tool.
+They are organized by **job to be done**, not by specific software tools. Each prompt can be used with most modern AI assistants.
 
-Each prompt works with most AI assistants.
+The key to reliable results is using a consistent prompt structure.
 
 ---
 
-## Understanding Prompt Structure
+## Understanding Effective Prompt Structure
 
-Effective prompts usually contain a few consistent elements:
+Effective prompts usually include five elements:
 
-- role or perspective
-- clear task
-- context or background
-- output format
+1. **Role** — the perspective the AI should adopt  
+2. **Task** — the specific job to perform  
+3. **Context** — background information or inputs  
+4. **Constraints** — tone, limitations, or rules  
+5. **Output Format** — how the response should be structured  
 
-The anatomy of an effective prompt can be visualized using a simple structure.
+When these elements are included, AI systems are far more likely to produce useful and consistent results.
 
-![*Prompt Template Anatomy*](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-33-prompt-template-anatomy.svg)
+![Prompt Template Anatomy](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-33-prompt-template-anatomy.svg)
 
-This framework breaks prompts into key components—role, task, context, and output format. When these elements are included, AI systems are far more likely to produce useful and structured results.
+*Figure 15.1 — Prompt Template Anatomy*
+
+This framework breaks prompts into reusable components that make results more predictable and easier to refine.
 
 ---
 
 ## Prompt Library by Job to Be Done
 
-Prompts become easier to reuse when organized around common professional tasks.
+Prompts become easier to reuse when organized around professional tasks.
 
-![*Prompt Library by Job to Be Done*](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-32-prompt-library-by-job-to-be-done.svg)
+![Prompt Library by Job to Be Done](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-32-prompt-library-by-job-to-be-done.svg)
 
-This diagram groups prompts into categories such as writing, research, creativity, automation, collaboration, and personal productivity. Organizing prompts this way helps professionals quickly find the right starting point for a task.
+*Figure 15.2 — Prompt Library by Job to Be Done*
+
+These prompts are grouped into common categories such as writing, research, creativity, automation, collaboration, and productivity.
 
 ---
 
-## Writing and Communication
+# Writing and Communication
 
-### Email Draft  
-Write a polite but firm email to a client requesting overdue payment. Maintain a professional tone and clearly explain the next steps.
+## Email Draft
 
-### Proposal Improvement  
-Improve this project proposal to sound more persuasive and client-focused. Emphasize outcomes and measurable value.
+**Role:** Professional communications assistant
 
-### Rewrite for Clarity  
-Rewrite the following message to be clearer while preserving the original meaning.
+**Task:** Draft a polite but firm payment reminder email.
 
-### Meeting Summary  
-Summarize this meeting transcript into:
+**Context:**  
+A client payment is overdue by **[number] days** for **[project or invoice name]**.
+
+**Constraints:**
+
+- Maintain a professional tone  
+- Avoid sounding aggressive  
+- Clearly explain the next step
+
+**Output Format:**
+
+Write a concise email that includes:
+
+1. acknowledgment of previous work
+2. reminder of the outstanding payment
+3. next steps or deadline
+
+---
+
+## Proposal Improvement
+
+**Role:** Business proposal editor
+
+**Task:** Improve the persuasiveness of the following project proposal.
+
+**Context:**
+
+Paste proposal text here:
+
+[proposal text]
+
+**Constraints:**
+
+- Emphasize business outcomes  
+- Highlight measurable value  
+- Maintain professional tone
+
+**Output Format:**
+
+Provide:
+
+- a revised proposal
+- a short list of improvements made
+
+---
+
+## Rewrite for Clarity
+
+**Role:** Professional editor
+
+**Task:** Rewrite the following message for clarity.
+
+**Context:**
+
+Paste message here:
+
+[text]
+
+**Constraints:**
+
+- Preserve the original meaning
+- simplify sentence structure
+- remove unnecessary wording
+
+**Output Format:**
+
+Provide:
+
+- rewritten message
+- short explanation of improvements
+
+---
+
+## Meeting Summary
+
+**Role:** Meeting analyst
+
+**Task:** Summarize a meeting transcript.
+
+**Context:**
+
+Paste transcript here:
+
+[transcript]
+
+**Constraints:**
+
+- focus on decisions and actions
+- ignore filler conversation
+
+**Output Format:**
+
+Provide:
 
 - key decisions
-- action items 
+- action items
 - open questions
 
 Use bullet points.
 
-### Executive Summary  
-Write a concise executive summary of the following document.
+---
+
+## Executive Summary
+
+**Role:** Business analyst
+
+**Task:** Create an executive summary.
+
+**Context:**
+
+Paste document here:
+
+[text]
+
+**Constraints:**
+
+- focus on major insights
+- avoid unnecessary detail
+
+**Output Format:**
+
+Provide a **5–7 bullet point summary** highlighting:
+
+- main findings
+- implications
+- recommended actions
 
 ---
 
-## Research and Learning
+# Research and Learning
 
-### Quick Trend Overview  
-Summarize the five most important trends in **[industry]** during the past year.
+## Quick Trend Overview
 
-### Tool Comparison  
-Compare the strengths and weaknesses of **[Tool A]** and **[Tool B]** for remote collaboration.
+**Role:** Industry research analyst
 
-### Learning Plan  
-Create a 30-day learning plan for mastering **[skill]**.
+**Task:** Identify key trends.
 
-### Concept Simplification  
-Explain **[topic]** in simple terms for someone without technical background.
+**Context:**
 
----
+Industry or field: **[industry]**
 
-## Creativity and Branding
+**Constraints:**
 
-### Social Media Ideas  
-Generate five LinkedIn post ideas for a **[profession]** audience.
+- focus on the past 12 months
+- avoid speculative predictions
 
-### Blog Outline  
-Create a structured outline for a blog article about **[topic]**.
+**Output Format:**
 
-### Brand Voice Guide  
-Develop a brand voice guide for a freelance consultant.
+Provide:
 
-### Visual Concept Prompt  
-Design a concept for a minimalist logo for a remote productivity consulting service.
+1. the five most important trends
+2. a short explanation of each trend
+3. why the trend matters
 
 ---
 
-## Automation and Workflows
+## Tool Comparison
 
-### Workflow Design  
-Design a workflow for managing client projects using Gmail, Google Drive, and Trello.
+**Role:** Technology advisor
 
-### Automation Ideas  
-Suggest three useful automations for a remote freelancer.
+**Task:** Compare two tools.
 
-### Process Optimization  
-Review this workflow and suggest simplifications.
+**Context:**
+
+Tools:
+
+- [Tool A]
+- [Tool B]
+
+Primary use case: **remote collaboration**
+
+**Constraints:**
+
+- avoid marketing language
+- focus on practical differences
+
+**Output Format:**
+
+Provide a table comparing:
+
+- strengths
+- weaknesses
+- ideal use cases
+- typical user profile
 
 ---
 
-## Personal Productivity
+## Learning Plan
 
-### Task Prioritization  
-Organize the following tasks using the Eisenhower Matrix.
+**Role:** Professional development coach
 
-### Daily Planning  
-Turn this task list into a realistic schedule with time blocks.
+**Task:** Create a structured learning plan.
 
-### Weekly Review  
-Summarize completed tasks and suggest priorities for the coming week.
+**Context:**
+
+Skill to learn: **[skill]**
+
+Time available: **30 days**
+
+**Constraints:**
+
+- assume beginner level
+- keep daily tasks realistic
+
+**Output Format:**
+
+Provide a 4-week learning plan including:
+
+- weekly focus areas
+- daily activities
+- recommended resources
 
 ---
 
-## Key Insight
+## Concept Simplification
+
+**Role:** Technical educator
+
+**Task:** Explain a complex concept simply.
+
+**Context:**
+
+Concept: **[topic]**
+
+Audience: non-technical professional
+
+**Constraints:**
+
+- avoid jargon
+- use clear examples
+
+**Output Format:**
+
+Provide:
+
+- a short explanation
+- one real-world analogy
+- one practical example
+
+---
+
+# Creativity and Branding
+
+## Social Media Idea Generator
+
+**Role:** Content strategist
+
+**Task:** Generate post ideas.
+
+**Context:**
+
+Audience: **[profession or industry]**
+
+Platform: LinkedIn
+
+**Constraints:**
+
+- ideas should be educational
+- avoid clickbait tone
+
+**Output Format:**
+
+Provide five post ideas including:
+
+- headline
+- topic description
+- suggested call-to-action
+
+---
+
+## Blog Outline
+
+**Role:** Content editor
+
+**Task:** Create a blog article outline.
+
+**Context:**
+
+Topic: **[topic]**
+
+Audience: **[target audience]**
+
+**Constraints:**
+
+- prioritize clarity
+- structure logically
+
+**Output Format:**
+
+Provide:
+
+- article title
+- section headings
+- bullet points under each section
+
+---
+
+## Brand Voice Guide
+
+**Role:** Brand strategist
+
+**Task:** Define a brand voice.
+
+**Context:**
+
+Business type: freelance consultant
+
+Audience: remote professionals
+
+**Constraints:**
+
+- keep tone professional but approachable
+- avoid corporate jargon
+
+**Output Format:**
+
+Provide:
+
+- brand voice description
+- tone guidelines
+- examples of appropriate phrasing
+
+---
+
+## Visual Concept Prompt
+
+**Role:** Creative director
+
+**Task:** Generate a visual concept.
+
+**Context:**
+
+Brand: remote productivity consulting service
+
+**Constraints:**
+
+- minimalist design
+- professional tone
+
+**Output Format:**
+
+Provide:
+
+- logo concept description
+- color palette suggestion
+- typography style
+- symbolic elements
+
+---
+
+# Automation and Workflows
+
+## Workflow Design
+
+**Role:** Workflow consultant
+
+**Task:** Design a workflow.
+
+**Context:**
+
+Tools:
+
+- Gmail
+- Google Drive
+- Trello
+
+Goal: manage client projects efficiently
+
+**Constraints:**
+
+- minimize manual work
+- keep process simple
+
+**Output Format:**
+
+Provide a step-by-step workflow including:
+
+- trigger events
+- actions
+- tools used at each step
+
+---
+
+## Automation Ideas
+
+**Role:** Productivity automation specialist
+
+**Task:** Suggest automation opportunities.
+
+**Context:**
+
+User type: remote freelancer
+
+Tools currently used:
+
+[list tools]
+
+**Constraints:**
+
+- prioritize simple automations
+- avoid complex setup
+
+**Output Format:**
+
+Provide three automation ideas including:
+
+- workflow description
+- tools required
+- expected time savings
+
+---
+
+## Process Optimization
+
+**Role:** Process improvement advisor
+
+**Task:** Review and improve a workflow.
+
+**Context:**
+
+Paste workflow description here:
+
+[workflow]
+
+**Constraints:**
+
+- identify inefficiencies
+- recommend simplifications
+
+**Output Format:**
+
+Provide:
+
+- problems identified
+- suggested improvements
+- revised workflow
+
+---
+
+# Personal Productivity
+
+## Task Prioritization
+
+**Role:** Productivity coach
+
+**Task:** Prioritize tasks.
+
+**Context:**
+
+Task list:
+
+[paste tasks]
+
+**Constraints:**
+
+Use the Eisenhower Matrix.
+
+**Output Format:**
+
+Organize tasks into:
+
+- urgent and important
+- important but not urgent
+- urgent but not important
+- neither
+
+---
+
+## Daily Planning
+
+**Role:** Time-management assistant
+
+**Task:** Convert a task list into a daily schedule.
+
+**Context:**
+
+Available work hours: **[hours]**
+
+Task list:
+
+[paste tasks]
+
+**Constraints:**
+
+- include realistic time blocks
+- include short breaks
+
+**Output Format:**
+
+Provide a structured daily schedule.
+
+---
+
+## Weekly Review
+
+**Role:** Productivity analyst
+
+**Task:** Conduct a weekly review.
+
+**Context:**
+
+Completed tasks:
+
+[paste list]
+
+Upcoming commitments:
+
+[paste list]
+
+**Constraints:**
+
+- identify progress patterns
+- recommend next priorities
+
+**Output Format:**
+
+Provide:
+
+- summary of accomplishments
+- lessons learned
+- priorities for next week
+
+---
+
+# Key Insight
 
 Better prompts create better collaboration between humans and AI systems.
 
+The goal is not to memorize prompts.
+
+The goal is to understand the structure behind them so you can adapt them to any task.
+
 ---
 
-## Chapter Takeaways
+# Chapter Takeaways
 
-- Prompt design is a core professional skill.
-- Adding context dramatically improves results.
-- Building a personal prompt library increases efficiency.
+- Prompt design is a professional skill.
+- Clear structure produces better AI results.
+- Context and constraints improve reliability.
+- A personal prompt library saves time and increases consistency.
 
 ---
 
@@ -140,4 +599,4 @@ Prompts help you interact effectively with AI.
 
 But selecting the right tools also matters.
 
-The final chapter provides a curated **AI tools directory organized by workflow category**.
+The next chapter provides a curated **AI tools directory organized by workflow category**.

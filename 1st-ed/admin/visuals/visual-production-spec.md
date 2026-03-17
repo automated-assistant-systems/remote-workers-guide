@@ -1,401 +1,279 @@
 # Visual Production Specification
 
-*The Remote Worker’s Survival Guide in the AI Age*
+The Remote Worker’s Survival Guide in the AI Age  
+Practical Tools, Workflows, and Strategies for Thriving Anywhere
+
 Author: Gary G. Bayes, BABA, MBA
 
-Status: Canonical
-Purpose: Define the visual design standards, file formats, naming conventions, and placement rules for all images, diagrams, screenshots, and infographics used in the book.
+Status: Canonical  
+Purpose: Define the standards, file formats, naming rules, storage structure, and placement rules for all visuals used in the book.
 
-This specification ensures visual consistency across the manuscript and prevents style drift when visuals are produced over time.
+This specification applies to:
+
+- diagrams
+- infographics
+- screenshots
+- mockups
+
+This file must remain synchronized with:
+
+- admin/visuals/visuals-plan.md
+- admin/visuals/visual-index.md
+- admin/visuals/diagram-style-guide.md
+- admin/visuals/diagram-specs.md
 
 ---
 
-# 1. Visual Design Philosophy
+# 1. Visual Philosophy
 
-Visuals in this book should:
+Visuals should:
 
-• clarify ideas
-• illustrate workflows
-• simplify complex concepts
-• break up text visually
+- clarify ideas
+- illustrate workflows
+- simplify complex concepts
+- improve retention
+- break up dense text intentionally
 
-Visuals should **support understanding**, not act as decoration.
+Visuals support understanding. They do not decorate pages.
 
-The design approach should remain:
+The design approach must remain:
 
-* clean
-* minimal
-* professional
-* modern
-* readable in both digital and print formats
-
-Avoid overly decorative graphics or complex visual styles.
+- clean
+- minimal
+- professional
+- modern
+- readable in print and digital formats
 
 ---
 
 # 2. Visual Categories
 
-The book uses four primary visual types.
-
 ## 2.1 Diagrams
-
 Purpose:
-
-Illustrate workflows, processes, or conceptual relationships.
-
-Examples:
-
-* AI workflow diagrams
-* automation pipelines
-* research workflows
-
-Preferred style:
-
-* simple shapes
-* directional arrows
-* minimal labels
-
----
+Explain workflows, systems, processes, and conceptual relationships.
 
 ## 2.2 Infographics
-
 Purpose:
-
-Summarize ideas or frameworks visually.
-
-Examples:
-
-* productivity frameworks
-* skill diagrams
-* checklist summaries
-
-Infographics should remain **simple and readable**.
-
-Avoid dense visual layouts.
-
----
+Summarize frameworks, checklists, comparisons, and structured guidance visually.
 
 ## 2.3 Screenshots
-
 Purpose:
-
-Demonstrate real tools in use.
-
-Examples:
-
-* AI chat interfaces
-* workflow tools
-* productivity apps
-
-Screenshots should illustrate **practical use cases**, not generic interfaces.
-
----
+Show a real tool or workflow only when a conceptual diagram would not communicate the point well enough.
 
 ## 2.4 Mockups
-
 Purpose:
+Represent tool usage or workflow states when screenshots would age too quickly or introduce unnecessary tool branding.
 
-Represent concepts when screenshots may become outdated.
+---
+
+# 3. Priority Rule
+
+Prefer, in this order:
+
+1. conceptual diagram
+2. infographic
+3. mockup
+4. screenshot
+
+This matches the book’s durability goals across PDF, EPUB, and website formats.
+
+---
+
+# 4. File Naming Convention
+
+Canonical filename format:
+
+`visual-##-short-slug.ext`
 
 Examples:
+- `visual-03-ai-productivity-stack.svg`
+- `visual-13-before-and-after-communication-example.svg`
+- `visual-24-human-oversight-checklist.svg`
 
-* AI workflow demonstrations
-* prompt comparisons
-* before/after examples
-
-Mockups should resemble real interfaces but avoid tool-specific branding where longevity matters.
-
----
-
-# 3. Visual Style Guide
-
-## 3.1 Color Palette
-
-Use a limited palette to maintain consistency.
-
-Recommended palette:
-
-Primary
-• Deep blue (#1F3A5F)
-
-Secondary
-• Teal (#2FA4A9)
-
-Accent
-• Soft green (#6BBF59)
-
-Neutral
-• Dark gray (#333333)
-• Light gray (#E5E5E5)
-
-Avoid bright or saturated colors.
+Rules:
+- keep numbering stable
+- use lowercase
+- use hyphens only
+- avoid generic version labels in final filenames
 
 ---
 
-## 3.2 Typography
-
-Visuals should use the same typography family throughout the book.
-
-Recommended fonts:
-
-Primary font
-Inter
-
-Alternative
-Open Sans
-
-Usage:
-
-Headings
-Bold
-
-Labels
-Regular
-
-Annotations
-Regular or Medium
-
-Avoid mixing multiple font families.
-
----
-
-## 3.3 Diagram Elements
-
-Standard diagram elements:
-
-Process step
-Rounded rectangle
-
-Decision
-Diamond
-
-Data or output
-Rectangle
-
-Flow direction
-Arrow connectors
-
-Icons should remain simple line icons if used.
-
----
-
-# 4. Screenshot Standards
-
-Screenshots must be:
-
-• cropped to the relevant area
-• readable at print size
-• free of personal or sensitive information
-
-Guidelines:
-
-Remove browser tabs and bookmarks where possible.
-
-Blur:
-
-* email addresses
-* personal data
-* private documents
-
-Highlight important elements using:
-
-* callout boxes
-* arrows
-* subtle highlighting
-
----
-
-# 5. Mockup Guidelines
-
-Mockups should:
-
-• resemble real workflows
-• avoid exact UI replication where longevity matters
-• focus on concept demonstration
-
-Mockups are preferred when:
-
-* software interfaces change frequently
-* screenshots may become outdated
-* the visual demonstrates a concept rather than a specific tool.
-
----
-
-# 6. File Naming Convention
-
-File names should be descriptive and consistent.
-
-Format:
-
-visual-description
-
-Example:
-
-prompt-structure-diagram.svg
-research-workflow-diagram.svg
-ai-productivity-stack.svg
-
-Avoid generic names such as:
-
-image-01.png
-diagram1.png
-
-Descriptive filenames make visuals easier to locate and reuse.
-
----
-
-# 7. File Format Standards
+# 5. File Format Standards
 
 Preferred formats:
 
-Diagrams and infographics
-SVG
+- diagrams: `SVG`
+- infographics: `SVG`
+- screenshots: `PNG`
+- mockups: `SVG` or `PNG` depending on source workflow
 
-Screenshots
-PNG
+Print-ready raster exports:
+- `PNG`, high resolution as needed
 
-Print-ready exports
-PNG (high resolution)
-
-Recommended minimum resolution:
-
-300 DPI for print exports.
-
----
-
-# 8. Visual Placement Rules
-
-Visuals should appear **close to the section they illustrate**.
-
-General rule:
-
-Introduce the concept → display the visual → explain the visual.
-
-Avoid placing visuals far from their explanatory text.
+Rules:
+- diagrams should default to SVG
+- screenshots must be cropped tightly and remain readable at print size
 
 ---
 
-# 9. Caption Format
+# 6. Storage Structure
 
-All visuals should include a caption.
+Canonical structure:
 
-Caption structure:
+`visuals/part-##-.../chapter-##-.../visual-##-short-slug.ext`
 
-Figure X.X — Short description
+Examples:
+- `visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg`
+- `visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-20-ai-enhanced-meeting-workflow.svg`
 
-Example:
-
-Figure 4.2 — AI-assisted writing workflow.
-
-Captions should remain concise.
-
-Avoid long explanatory paragraphs in captions.
-
----
-
-# 10. Accessibility Guidelines
-
-Visuals should remain readable for all readers.
-
-Use:
-
-* high contrast colors
-* clear labels
-* readable font sizes
-
-Avoid relying on color alone to communicate meaning.
+Rules:
+- store visuals by part and chapter
+- do not store final production visuals in legacy `03-visuals/` folders
+- source files may live beside exports or in a clearly documented source subfolder, but final referenced assets must use canonical paths
 
 ---
 
-# 11. Visual Density
+# 7. Placement Rules
+
+Visuals should appear close to the text they support.
+
+Recommended sequence:
+- introduce the concept
+- place the visual
+- briefly interpret what the reader should notice
+
+Do not place visuals far from their explanatory paragraph.
+
+---
+
+# 8. Caption Rules
+
+Caption format:
+
+`Figure X.X — Short description`
+
+Rules:
+- every visual used in the manuscript gets a caption
+- captions stay concise
+- captions describe the visual’s role, not the entire surrounding argument
+
+---
+
+# 9. Diagram and Infographic Standards
+
+All diagram-based visuals must follow:
+- `diagram-style-guide.md`
+- `diagram-specs.md`
+
+This includes:
+- palette
+- typography
+- shapes
+- arrow rules
+- icon rules
+- readability constraints
+
+---
+
+# 10. Screenshot Standards
+
+Screenshots must be:
+- tightly cropped
+- readable at print size
+- free of personal or sensitive information
+- focused on the workflow being illustrated
+
+Whenever possible:
+- remove browser chrome
+- remove unrelated sidebars
+- blur personal details
+- highlight only the relevant area subtly
+
+---
+
+# 11. Mockup Standards
+
+Mockups should:
+- resemble plausible workflows
+- avoid unnecessary brand dependency
+- emphasize concept over interface mimicry
+
+Use a mockup when:
+- the interface changes frequently
+- the concept matters more than the specific product UI
+- a screenshot would age poorly
+
+---
+
+# 12. Accessibility Standards
+
+All visuals must:
+- use high contrast
+- remain readable at ebook scale
+- avoid dense text blocks
+- avoid depending on color alone for meaning
+
+---
+
+# 13. Visual Density Rule
 
 The book should avoid visual overload.
 
-Recommended density:
+Guideline:
+- typically 1–2 visuals per chapter spread
+- only add more when each visual has a clearly distinct job
 
-1–2 visuals per chapter spread
-
-This maintains reader engagement without interrupting reading flow.
-
----
-
-# 12. Production Workflow
-
-Recommended process:
-
-Visual idea
-→ visuals-plan.md
-→ create diagram or screenshot
-→ export SVG or PNG
-→ store in 03-visuals/
-→ reference in chapter Markdown.
-
-Example workflow:
-
-visual concept
-→ diagram created
-→ exported SVG
-→ committed to repository
-→ referenced in chapter text.
+This rule aligns with the redundancy control described in `visuals-plan.md`.
 
 ---
 
-# 13. Repository Structure
+# 14. Production Workflow
 
-Visuals should be stored by chapter.
+Recommended workflow:
 
-Example:
-
-03-visuals/
-
-chapter-01/
-chapter-02/
-chapter-03/
-
-Each folder contains only visuals used in that chapter.
-
-Example file location:
-
-03-visuals/chapter-03/prompt-structure-diagram.svg
+1. define or confirm visual purpose in `visuals-plan.md`
+2. confirm numbering, title, and path in `visual-index.md`
+3. define structural content in `diagram-specs.md` if diagram-based
+4. create the visual
+5. export to canonical file path
+6. insert manuscript reference and caption
+7. verify rendering in PDF, EPUB, and web builds
 
 ---
 
-# 14. Refactoring Flexibility
+# 15. Redundancy Control
 
-Because filenames do not include chapter numbers, visuals can be moved between chapters without renaming files.
+Do not create multiple visuals that explain the same idea in slightly different ways.
 
-Example:
+Before adding or revising a visual, check:
+- does this visual have a distinct job?
+- does it duplicate an existing workflow model?
+- should an existing visual be revised instead of adding a new one?
 
-prompt-structure-diagram.svg
-
-can be moved from:
-
-03-visuals/chapter-03/
-
-to:
-
-03-visuals/chapter-04/
-
-without modifying the filename.
+Use the redundancy watchlist in `visuals-plan.md` as a control mechanism.
 
 ---
 
-# 15. Longevity Considerations
+# 16. Refactoring Rule
 
-Software interfaces change frequently.
+If a visual moves to a new chapter or changes role:
 
-Where possible:
+- update `visuals-plan.md`
+- update `visual-index.md`
+- update `diagram-specs.md` if its internal content changes
+- rename or relocate the final file to match the canonical path
+- update manuscript references immediately
 
-Prefer conceptual diagrams over literal screenshots.
-
-When screenshots are used:
-
-Keep them focused on the workflow rather than the entire interface.
+Do not leave legacy duplicate files in place unless intentionally archived.
 
 ---
 
-# 16. Final Guideline
+# 17. Final Rule
 
-Visuals should make the book **easier to understand and faster to apply**.
+A visual is production-ready only when it is:
 
-A good visual should allow a reader to understand a concept in seconds that might otherwise require several paragraphs of explanation.
+- structurally correct
+- stylistically consistent
+- stored at the canonical path
+- referenced correctly in the manuscript
+- readable in PDF, EPUB, and web output

@@ -1,405 +1,286 @@
 # Diagram Style Guide
 
-*The Remote Worker’s Survival Guide in the AI Age*
+The Remote Worker’s Survival Guide in the AI Age  
+Practical Tools, Workflows, and Strategies for Thriving Anywhere
+
 Author: Gary G. Bayes, BABA, MBA
 
-Status: Production Reference
-Purpose: Ensure all diagrams in the book follow a consistent visual style.
+Status: Canonical  
+Purpose: Ensure all diagrams and infographic-style visuals follow one consistent visual system across PDF, EPUB, and web outputs.
 
 This guide defines:
 
-* color palette
-* typography
-* diagram shapes
-* icon usage
-* spacing and layout
-* export settings
+- color palette
+- typography
+- shape language
+- icon rules
+- spacing and layout
+- export standards
+- naming and storage rules
 
-All diagrams should be created using the project template:
+This file must remain synchronized with:
 
-```text
-00-admin/diagram-template-pro.drawio
-```
-
-Diagram text specifications are defined in:
-
-```text
-00-admin/diagram-specs.md
-```
+- admin/visuals/diagram-specs.md
+- admin/visuals/visual-index.md
+- admin/visuals/visual-production-spec.md
+- admin/visuals/visuals-plan.md
 
 ---
 
 # Design Principles
 
-All visuals should follow these principles:
+## 1. Clarity over decoration
+Visuals exist to explain ideas quickly.
 
-**1. Clarity over decoration**
-Diagrams exist to explain ideas quickly.
+## 2. Consistency across chapters
+Readers should recognize visuals as part of one coherent system.
 
-**2. Consistency across chapters**
-Readers should recognize diagrams as part of the same visual system.
+## 3. Minimal visual noise
+Avoid gradients, shadows, unnecessary ornament, or crowded detail.
 
-**3. Minimal visual noise**
-Avoid unnecessary gradients, shadows, or decorative elements.
+## 4. Durability across formats
+Visuals must remain readable in print, PDF, EPUB, and website contexts.
 
-**4. Durable visuals**
-Prefer conceptual diagrams instead of screenshots that may age quickly.
+## 5. Conceptual over interface-dependent
+Prefer conceptual diagrams over screenshots unless a screenshot is essential.
 
 ---
 
 # Color Palette
 
-Use the same colors across all diagrams.
+| Role | Hex | Usage |
+|---|---|---|
+| Primary | `#1F3A5F` | titles, borders, arrows |
+| Secondary | `#2FA4A9` | workflow steps, highlights |
+| Accent | `#6BBF59` | outcomes, successful states |
+| Neutral | `#E5E5E5` | background blocks |
+| Light Neutral | `#F7F7F7` | soft fills |
+| Text | `#333333` | standard text |
 
-| Color Role    | Hex       | Usage                       |
-| ------------- | --------- | --------------------------- |
-| Primary       | `#1F3A5F` | main text and borders       |
-| Secondary     | `#2FA4A9` | workflow steps and icons    |
-| Accent        | `#6BBF59` | results / positive outcomes |
-| Neutral       | `#E5E5E5` | background shapes           |
-| Light Neutral | `#F7F7F7` | caption background          |
-| Text          | `#333333` | standard text               |
-
-Avoid introducing additional colors unless required.
+Rules:
+- use high contrast
+- avoid relying on color alone for meaning
+- do not introduce additional palette colors without a documented reason
 
 ---
 
 # Typography
 
 Preferred font:
-
-```
-Inter
-```
+`Inter`
 
 Fallback:
+`Arial`
 
-```
-Arial
-```
+Recommended sizes:
 
-Font sizes:
+| Element | Size |
+|---|---|
+| Diagram title | 24 |
+| Shape text | 18 |
+| Framework emphasis | 20–22 |
+| Caption text inside artwork, if any | 16 |
 
-| Element             | Size  |
-| ------------------- | ----- |
-| Diagram title       | 24    |
-| Shape text          | 18    |
-| Framework highlight | 20–22 |
-| Caption             | 16    |
-
-Text should remain **short and readable**.
-
-Avoid paragraphs inside diagrams.
+Rules:
+- keep labels short
+- avoid paragraph-length text inside visuals
+- maintain consistent capitalization style across a single figure
 
 ---
 
-# Standard Diagram Shapes
+# Shape Language
 
-Use a consistent shape language.
+| Shape | Meaning |
+|---|---|
+| Rounded rectangle | process step |
+| Rectangle | object, output, or data block |
+| Diamond | decision point |
+| Ellipse / circle | icon container |
+| Arrow | flow or transition |
 
-| Shape             | Meaning            |
-| ----------------- | ------------------ |
-| Rounded rectangle | process step       |
-| Rectangle         | object or tool     |
-| Ellipse           | icon container     |
-| Arrow             | workflow direction |
-
-Rounded rectangles should be the **default step element**.
+Rules:
+- rounded rectangles are the default step shape
+- decision trees should use diamonds only where an actual branching decision occurs
+- keep directional flow visually obvious
 
 ---
 
 # Arrow Style
 
-Use a consistent arrow style:
+Standard arrow style:
 
-```
-Color: #1F3A5F
-Width: 2px
-Arrowhead: block
-```
+- color: `#1F3A5F`
+- width: `2px`
+- arrowhead: block
 
-Avoid curved arrows unless necessary.
-
-Workflow diagrams should use **vertical or horizontal flows only**.
+Rules:
+- prefer vertical or horizontal flow
+- avoid curved arrows unless absolutely necessary
+- minimize crossing lines
 
 ---
 
 # Icon Style
 
-Icons provide visual cues but should remain subtle.
+Rules:
+- use simple line icons only
+- maximum one icon per step
+- icons should support comprehension, not decorate the figure
+- place icons inside circular containers when used
 
-Guidelines:
-
-* use simple icons only
-* one icon per step maximum
-* icons should be inside circular containers
-
-Example icon container:
-
-```
-Shape: circle
-Fill: #2FA4A9
-Text/Icon: white
-```
-
-Avoid mixing multiple icon styles.
+Icon container default:
+- shape: circle
+- fill: `#2FA4A9`
+- icon color: white
 
 ---
 
-# Diagram Layout Types
-
-All diagrams should follow one of the standard layouts.
+# Standard Layout Types
 
 ## Process Flow
+Use for workflows and sequences.
 
-Used for workflows.
-
-```
-Step
-↓
-Step
-↓
-Step
-↓
-Result
-```
-
-Used in:
-
-* AI work model
-* research workflow
-* creative workflow
-* productivity workflow
-
----
+Examples:
+- AI-Assisted Work Model
+- Research Workflow Diagram
+- AI Writing Workflow
+- AI-Enhanced Meeting Workflow
 
 ## Stack Diagram
+Use for layered systems.
 
-Used for layered systems.
-
-```
-Layer
-──────
-Layer
-──────
-Layer
-```
-
-Used in:
-
-* AI productivity stack
-
----
+Examples:
+- AI Productivity Stack
 
 ## Comparison
+Use for before/after or contrast visuals.
 
-Used for before/after comparisons.
-
-```
-Before        After
-──────        ─────
-Item          Item
-Item          Item
-```
-
-Used in:
-
-* prompt improvement
-* proposal comparison
-
----
+Examples:
+- Remote Work Before vs After AI
+- Weak Prompt vs Improved Prompt
+- What AI Does Well vs What Still Requires Human Judgment
 
 ## Pipeline
+Use for automation systems.
 
-Used for automation systems.
-
-```
-Trigger → Process → Storage → Output
-```
-
-Used in:
-
-* automation pipeline
-
----
+Examples:
+- Automation Pipeline
 
 ## Framework
+Use for conceptual models or relationship diagrams.
 
-Used for conceptual models.
+Examples:
+- T-Shaped Skills in the AI Era
+- Human + AI Leverage Model
+- Brand Asset System
 
-```
-Concept A
-   +
-Concept B
-   ↓
-Result
-```
+## Matrix
+Use for prioritization or evaluation models.
 
-Used in:
+Examples:
+- Task Prioritization Matrix
 
-* Human + AI leverage model
-* T-shaped skills
+## Timeline
+Use for progression across time.
+
+Examples:
+- Remote Work Evolution Timeline
+- 30-Day AI Adoption Plan
 
 ---
 
-# Caption Format
-
-Every diagram should include a caption.
+# Caption Standard
 
 Caption format:
 
-```
-Figure X.X — Diagram Title
-```
+`Figure X.X — Short Title`
 
-Example:
-
-```
-Figure 4.1 — AI-Assisted Work Model
-```
-
-Captions should appear **below the diagram**.
+Rules:
+- captions appear below the visual in the manuscript, not embedded as oversized artwork text
+- keep captions concise
+- avoid long explanatory caption paragraphs
 
 ---
 
-# Diagram Dimensions
+# Dimensions and Export
 
-Recommended export width:
+Preferred master export:
+- format: SVG
+- width: 1600px
+- background: transparent
 
-```
-1600px
-```
-
-This ensures diagrams display well in:
-
-* print
-* PDF
-* Kindle
-* web formats
-
-Maintain consistent margins around the diagram.
+Rules:
+- ensure fine text remains readable when reduced
+- maintain consistent margin around artwork
+- avoid excessive detail that disappears at ebook scale
 
 ---
 
-# Export Settings
+# Naming Convention
 
-Export diagrams as:
+Filename pattern:
 
-```
-SVG
-```
-
-Export settings:
-
-```
-Width: 1600px
-Background: Transparent
-Include copy of diagram: Off
-```
-
-SVG ensures:
-
-* crisp rendering in print
-* small file sizes
-* scalability
-
----
-
-# File Naming Rules
-
-File names should be descriptive.
-
-Format:
-
-```
-visual-description.svg
-```
+`visual-##-short-slug.svg`
 
 Examples:
+- `visual-03-ai-productivity-stack.svg`
+- `visual-18-automation-pipeline.svg`
+- `visual-29-human-plus-ai-leverage-model.svg`
 
-```
-ai-productivity-stack.svg
-prompt-structure-framework.svg
-automation-pipeline.svg
-human-ai-leverage-diagram.svg
-```
-
-Avoid generic names:
-
-```
-image1.svg
-diagram-final.svg
-visual.png
-```
+Do not use:
+- `diagram-final.svg`
+- `image1.svg`
+- `new-version.svg`
 
 ---
 
 # Storage Structure
 
-Visual files are stored in:
+Canonical structure:
 
-```
-03-visuals/
-```
-
-Core diagrams:
-
-```
-03-visuals/core-diagrams/
-```
-
-Chapter visuals:
-
-```
-03-visuals/chapter-xx/
-```
+`visuals/part-##-.../chapter-##-.../visual-##-short-slug.svg`
 
 Example:
 
-```
-03-visuals/chapter-04/ai-assisted-work-model.svg
-```
+`visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg`
+
+Rules:
+- visuals are stored by part and chapter
+- numbering remains stable once assigned
+- if a visual moves chapters, update the index and plan rather than creating duplicate legacy names
+
+---
+
+# Accessibility Rules
+
+- use high contrast text and shapes
+- do not rely on color alone to communicate meaning
+- keep labels large enough for ebook readability
+- prefer short labels over dense in-diagram prose
 
 ---
 
 # Visual Review Checklist
 
-Before committing a new diagram verify:
+Before committing a visual, verify:
 
-* text matches `diagram-specs.md`
-* colors match the palette
-* shapes follow the standard style
-* arrows align correctly
-* file name follows the naming convention
-* diagram exports correctly as SVG
-
----
-
-# Version Control
-
-When adding diagrams, use descriptive commit messages.
-
-Example:
-
-```
-feat: add AI productivity stack diagram
-```
-
-or
-
-```
-feat: add chapter 4 diagrams
-```
-
-This keeps visual development traceable in Git history.
+- text matches `diagram-specs.md`
+- purpose still matches `visuals-plan.md`
+- title and path match `visual-index.md`
+- colors follow the approved palette
+- shape language is consistent
+- file name matches canonical naming
+- SVG exports cleanly
+- the visual remains readable at reduced size
 
 ---
 
-# Future Expansion
+# Version Control Guidance
 
-If additional diagrams are introduced:
+Use descriptive commit messages, for example:
 
-1. Add the diagram text to `diagram-specs.md`
-2. Add the visual to `visual-index.md`
-3. Add the diagram to `diagram-build-checklist.md`
-4. Create the visual using the template
+- `feat: add visual 03 ai productivity stack`
+- `docs: revise visual 07 workflow decision filter`
+- `refactor: rename visual assets to canonical numbering`
+
+This keeps visual development traceable.
