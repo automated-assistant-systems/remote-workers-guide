@@ -59,6 +59,16 @@ jobs:
           test -f build/scripts/build-web.sh
           chmod +x build/scripts/*.sh
 
+      - name: Debug repository layout
+        run: |
+          pwd
+          ls -la
+          find . -maxdepth 3 -type d | sort
+          find manuscript -maxdepth 4 -type f | sort || true
+          echo "----- book.yaml -----"
+          cat build/pandoc/book.yaml || true
+          echo "----- metadata.yaml -----"
+          cat build/pandoc/metadata.yaml || true
       - name: Build book
         run: ./build/scripts/build-book.sh
 

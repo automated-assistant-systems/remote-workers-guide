@@ -2,6 +2,7 @@
 set -euo pipefail
 
 echo "Building website version..."
+echo "Working directory: $(pwd)"
 
 WEB_ROOT="output/website"
 DOCS_DIR="${WEB_ROOT}/docs"
@@ -10,14 +11,20 @@ MKDOCS_FILE="${WEB_ROOT}/mkdocs.yml"
 rm -rf "${WEB_ROOT}"
 mkdir -p "${DOCS_DIR}"
 
-# Copy manuscript files into docs
-cp manuscript/front-matter/*.md "${DOCS_DIR}/"
-cp manuscript/part-01-understanding-the-ai-era/*.md "${DOCS_DIR}/"
-cp manuscript/part-02-applying-ai-to-daily-work/*.md "${DOCS_DIR}/"
-cp manuscript/part-03-the-remote-worker-toolkit/*.md "${DOCS_DIR}/"
-cp manuscript/back-matter/*.md "${DOCS_DIR}/"
+for dir in \
+  manuscript/front-matter \
+  manuscript/part-01-understanding-the-ai-era \
+  manuscript/part-02-applying-ai-to-daily-work \
+  manuscript/part-03-the-remote-worker-toolkit \
+  manuscript/back-matter
+do
+  if [ -d "$dir" ]; then
+    cp "$dir"/*.md "${DOCS_DIR}/"
+  else
+    echo "WARNING: Missing directory: $dir"
+  fi
+done
 
-# Copy visuals if present
 if [ -d visuals ]; then
   mkdir -p "${DOCS_DIR}/visuals"
   cp -r visuals/* "${DOCS_DIR}/visuals/" || true
@@ -30,6 +37,8 @@ site_author: Gary G. Bayes
 
 theme:
   name: material
+
+docs_dir: docs
 
 nav:
   - Foreword: foreword.md
