@@ -55,16 +55,16 @@ A client payment is overdue by **[number] days** for **[project or invoice name]
 
 **Constraints**
 
-- Maintain a professional tone  
-- Avoid sounding aggressive  
+- Maintain a professional tone 
+- Avoid sounding aggressive 
 - Clearly explain next steps
 
 **Output Format**
 
 Write a concise email including:
 
-1. acknowledgement of previous work  
-2. reminder of the outstanding payment  
+1. acknowledgement of previous work 
+2. reminder of the outstanding payment 
 3. next steps or deadline
 
 ---
@@ -82,8 +82,8 @@ Paste proposal text:
 
 **Constraints**
 
-- Emphasize outcomes  
-- Highlight measurable value  
+- Emphasize outcomes 
+- Highlight measurable value 
 - Maintain professional tone
 
 **Output Format**
@@ -136,8 +136,8 @@ Focus on decisions and actions.
 
 Provide:
 
-- key decisions  
-- action items  
+- key decisions 
+- action items 
 - open questions
 
 ---
@@ -197,7 +197,7 @@ Provide:
 
 **Context**
 
-- Tool A: [name]  
+- Tool A: [name] 
 - Tool B: [name]
 
 Use case: remote collaboration
@@ -758,8 +758,10 @@ It is about giving clear instructions, evaluating the response, and refining the
 
 ## Transition
 
-Prompts help you interact effectively with AI.
+Prompts determine how effectively you communicate with AI.
 
-But selecting the right tools also matters.
+But prompts are only part of the system.
 
-The next chapter provides a curated **AI tools directory organized by workflow category**.
+The tools you choose also shape how smoothly your workflows operate.
+
+The final chapter provides a curated directory of AI tools organized by common workflow categories, helping you select practical tools that support the systems you have built throughout this book.

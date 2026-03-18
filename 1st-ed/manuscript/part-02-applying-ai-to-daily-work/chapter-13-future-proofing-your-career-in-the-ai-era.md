@@ -79,8 +79,8 @@ Careers evolve when professionals learn to direct technology rather than compete
 
 ## Chapter Takeaways
 
-- AI will reshape many job roles.  
-- Human judgment and creativity remain valuable differentiators.  
+- AI will reshape many job roles. 
+- Human judgment and creativity remain valuable differentiators. 
 - Continuous learning is the best strategy for long-term relevance.
 
 ---
@@ -101,8 +101,16 @@ Choose one skill to begin developing this month.
 
 ## Transition to Part III
 
-You have now seen how AI can support writing, research, creativity, automation, collaboration, and sustainable work practices.
+Throughout this book you have seen how artificial intelligence is reshaping knowledge work.
 
-The next section of the book transforms these ideas into practical systems.
+You have explored how AI can support writing, research, creative work, automation, collaboration, and long-term career development.
 
-Part III introduces the Remote Worker Toolkit — including playbooks, prompts, and tools you can apply immediately.
+But ideas alone are not enough.
+
+Real productivity improvements come from turning ideas into repeatable systems.
+
+The final section of this book focuses on exactly that.
+
+Part III introduces a practical toolkit you can begin using immediately — including a daily workflow playbook, a reusable prompt library, and a curated directory of AI tools.
+
+Together, these resources transform the concepts in this book into a simple operating system for remote work in the AI era.

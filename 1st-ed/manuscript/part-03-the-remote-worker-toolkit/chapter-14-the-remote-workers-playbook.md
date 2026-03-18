@@ -26,9 +26,7 @@ Your role is to direct them effectively.
 
 The relationship between humans and AI becomes clearer when visualized as a leverage model.
 
-![Human + AI Leverage Model](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg)
-
-*Figure 14.1 — Human + AI Leverage Model*
+![*Human + AI Leverage Model*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg)
 
 This model illustrates how human judgment, AI assistance, and structured workflows combine to increase professional leverage. AI handles repetitive or computational tasks while humans provide strategy, interpretation, and direction.
 
@@ -46,10 +44,10 @@ Start the day with a simple question:
 
 Typical tasks to accelerate include:
 
-- summarizing emails or meeting notes  
-- drafting communications  
-- organizing task lists  
-- outlining documents  
+- summarizing emails or meeting notes 
+- drafting communications 
+- organizing task lists 
+- outlining documents 
 
 AI handles preparation so you can focus on decision-making and creative thinking.
 
@@ -69,17 +67,15 @@ Before finishing work, spend two minutes reviewing your day.
 
 Ask:
 
-- What did AI help me accomplish?  
-- What tasks still feel repetitive?  
+- What did AI help me accomplish? 
+- What tasks still feel repetitive? 
 - Could any step be automated?
 
 ---
 
 The complete system behind these routines can be summarized in a simple playbook.
 
-![AI Playbook Summary](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg)
-
-*Figure 14.2 — AI Playbook Summary*
+![*AI Playbook Summary*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg)
 
 This diagram summarizes the core operating rhythm of AI-assisted work: triage, focused execution, reflection, and continuous improvement. Over time these cycles help professionals refine workflows and increase efficiency.
 
@@ -91,15 +87,15 @@ Once per week, conduct a short workflow review.
 
 Questions to ask:
 
-- Did AI actually save time this week?  
-- Did the quality of work improve?  
+- Did AI actually save time this week? 
+- Did the quality of work improve? 
 - Which tasks still feel inefficient?
 
 During this review you can:
 
-- refine prompts  
-- adjust automations  
-- update templates  
+- refine prompts 
+- adjust automations 
+- update templates 
 
 Small improvements accumulate quickly.
 
@@ -133,9 +129,9 @@ Before adopting a structured workflow, he constantly reacted to messages and dea
 
 After implementing the playbook:
 
-- mornings begin with AI task prioritization  
-- meetings automatically generate summaries  
-- weekly reviews refine automations  
+- mornings begin with AI task prioritization 
+- meetings automatically generate summaries 
+- weekly reviews refine automations 
 
 Within a few months his administrative workload dropped significantly.
 
@@ -155,9 +151,7 @@ The goal is to build a workflow where AI removes friction and humans provide dir
 
 A structured adoption cycle helps turn experimentation into habit.
 
-![30-Day AI Adoption Plan](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg)
-
-*Figure 14.3 — 30-Day AI Adoption Plan*
+![*30-Day AI Adoption Plan*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg)
 
 This plan introduces AI capabilities gradually over four weeks. Each step focuses on a small improvement—templates, automation, content reuse, and knowledge sharing—so that professionals build momentum without overwhelming their workflows.
 
@@ -170,8 +164,14 @@ Week 4 — Share one insight about your workflow
 
 ## Transition
 
-Workflows improve how you operate.
+Workflows improve how you structure your day.
 
-But interacting effectively with AI also requires a second skill: **clear prompting**.
+But even the best workflow depends on how effectively you communicate with the tools you use.
 
-The next chapter provides a practical prompt library for everyday remote work tasks.
+When working with AI systems, that communication happens through prompts.
+
+Clear prompts allow you to direct AI assistance, refine outputs, and turn rough ideas into useful results. Poor prompts, on the other hand, often produce vague or unhelpful responses.
+
+The next chapter introduces a practical **prompt toolkit** designed for common remote work tasks — including writing, research, automation, collaboration, and productivity.
+
+Once you understand how to structure prompts effectively, AI becomes far more than a novelty. It becomes a reliable partner in your daily work.

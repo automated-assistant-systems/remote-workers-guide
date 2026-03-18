@@ -9,6 +9,7 @@ chapters:
   - manuscript/front-matter/introduction.md
   - manuscript/front-matter/how-to-use-this-book.md
 
+  - manuscript/part-01-understanding-the-ai-era/part-01-understanding-the-ai-era.md
   - manuscript/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work.md
   - manuscript/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem.md
   - manuscript/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants.md
@@ -16,6 +17,7 @@ chapters:
   - manuscript/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack.md
   - manuscript/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively.md
 
+  - manuscript/part-02-applying-ai-to-daily-work/part-02-applying-ai-to-daily-work.md
   - manuscript/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai.md
   - manuscript/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work.md
   - manuscript/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding.md

@@ -20,15 +20,13 @@ Write a concise follow-up email summarizing three action items from today’s me
 
 The second prompt provides:
 
-- context  
-- task definition  
-- tone guidance  
+- context 
+- task definition 
+- tone guidance 
 
 The structure of effective prompts can be understood through a simple framework.
 
-![Prompt Structure Framework](../../visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-10-prompt-structure-framework.svg)
-
-*Figure 6.1 — Prompt Structure Framework*
+![*Prompt Structure Framework*](../../visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-10-prompt-structure-framework.svg)
 
 This framework shows the key components of a strong prompt: role, task, context, and output format. When these elements are included, AI systems are far more likely to produce useful and accurate responses.
 
@@ -52,9 +50,9 @@ You are a project manager.
 
 Summarize the following meeting notes into:
 
-• key decisions  
-• action items  
-• deadlines  
+• key decisions 
+• action items 
+• deadlines 
 
 Keep the summary under 200 words.
 
@@ -80,8 +78,8 @@ Clear prompting turns AI from a novelty into a practical work assistant.
 
 ## Chapter Takeaways
 
-- Prompting is a core skill in AI-assisted work.  
-- Good prompts provide context and structure.  
+- Prompting is a core skill in AI-assisted work. 
+- Good prompts provide context and structure. 
 - Iteration improves results over time.
 
 ---
@@ -92,9 +90,9 @@ Take a prompt you already use.
 
 Improve it by adding:
 
-- role  
-- context  
-- output format  
+- role 
+- context 
+- output format 
 
 Notice how the quality of the output improves.
 
@@ -102,15 +100,15 @@ Notice how the quality of the output improves.
 
 ## Transition to Part II
 
-You now understand:
+By this point, the broader picture should be clear.
 
-- the changing reality of remote work  
-- the productivity challenges it creates  
-- what AI assistants can realistically do  
-- how to design AI-assisted workflows  
-- how to choose a practical tool stack  
-- how to communicate effectively with AI  
+Remote work has introduced new productivity challenges.  
+Artificial intelligence introduces new capabilities for addressing them.
 
-In Part II, we move from theory to practice.
+Understanding these shifts is important, but real value appears when AI becomes part of everyday work.
 
-You will see how AI supports real categories of daily work — writing, research, creative production, automation, collaboration, and personal productivity.
+The next section of the book focuses on practical applications.
+
+Part II explores how AI can support common professional tasks such as writing, research, creative work, automation, collaboration, and personal productivity.
+
+Rather than abstract theory, these chapters focus on concrete workflows you can begin using immediately.
