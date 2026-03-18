@@ -29,7 +29,9 @@ fi
 pandoc \
   "${CHAPTERS[@]}" \
   --metadata-file=build/pandoc/metadata.yaml \
+  --resource-path=. \
   --toc \
+  --number-sections \
   --pdf-engine=xelatex \
   -o output/pdf/remote-workers-survival-guide.pdf
 

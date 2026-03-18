@@ -29,6 +29,7 @@ fi
 pandoc \
   "${CHAPTERS[@]}" \
   --metadata-file=build/pandoc/metadata.yaml \
+  --resource-path=. \
   --toc \
   -o output/epub/remote-workers-survival-guide.epub
 

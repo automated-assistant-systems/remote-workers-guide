@@ -41,7 +41,7 @@ AI can assist collaboration by:
 
 Instead of manually tracking every conversation, professionals can rely on AI-generated summaries.
 
-![*AI-Enhanced Meeting Workflow*](../../visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-20-ai-enhanced-meeting-workflow.svg)
+![*AI-Enhanced Meeting Workflow*](visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-20-ai-enhanced-meeting-workflow.svg)
 
 This workflow illustrates how meeting recordings become transcripts, summaries, and action items automatically. AI reduces administrative work while improving clarity across teams.
 
@@ -49,7 +49,7 @@ This workflow illustrates how meeting recordings become transcripts, summaries, 
 
 Daily productivity can also be structured through an AI-supported workflow.
 
-![*AI-Powered Daily Workflow*](../../visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-21-ai-powered-daily-workflow.svg)
+![*AI-Powered Daily Workflow*](visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-21-ai-powered-daily-workflow.svg)
 
 This diagram shows how AI can support daily planning, task prioritization, and progress tracking across work sessions.
 
@@ -57,7 +57,7 @@ This diagram shows how AI can support daily planning, task prioritization, and p
 
 Prioritization remains essential when multiple tasks compete for attention.
 
-![*Task Prioritization Matrix*](../../visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-22-task-prioritization-matrix.svg)
+![*Task Prioritization Matrix*](visuals/part-02-applying-ai-to-daily-work/chapter-11-collaboration-planning-and-personal-productivity/visual-22-task-prioritization-matrix.svg)
 
 This matrix helps professionals categorize tasks based on urgency and importance. AI tools can assist by sorting tasks and recommending priorities.
 

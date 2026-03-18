@@ -19,7 +19,7 @@ Choose tools that match your real needs.
 
 AI tools can be grouped according to the type of workflow they support.
 
-![Tools by Workflow Category](../../visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg)
+![Tools by Workflow Category](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg)
 
 *Figure 16.1 — Tools by Workflow Category*
 
@@ -145,7 +145,7 @@ Uses:
 
 For most professionals, the goal is not dozens of tools but a **simple integrated system**.
 
-![Starter Stack Path](../../visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg)
+![Starter Stack Path](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg)
 
 *Figure 16.2 — Starter Stack Path*
 

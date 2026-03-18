@@ -31,7 +31,7 @@ Meta-skills
 
 One way to visualize career growth in the AI era is through a leverage ladder.
 
-![*Leverage Ladder*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg)
+![*Leverage Ladder*](visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-27-leverage-ladder.svg)
 
 This ladder illustrates how professionals increase their impact over time—from manual work to AI-assisted workflows and eventually scalable systems.
 
@@ -57,7 +57,7 @@ It is about learning how to use new tools to increase leverage.
 
 Another important framework is the development of broad capability combined with specialized expertise.
 
-![*T-Shaped Skills in the AI Era*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg)
+![*T-Shaped Skills in the AI Era*](visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-26-t-shaped-skills-in-the-ai-era.svg)
 
 This model shows how professionals combine deep expertise in one domain with broad understanding across multiple disciplines.
 
@@ -65,7 +65,7 @@ This model shows how professionals combine deep expertise in one domain with bro
 
 Professionals can also use AI to analyze their own skill gaps.
 
-![*AI-Assisted Skill Gap Analysis*](../../visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg)
+![*AI-Assisted Skill Gap Analysis*](visuals/part-02-applying-ai-to-daily-work/chapter-13-future-proofing-your-career-in-the-ai-era/visual-28-ai-assisted-skill-gap-analysis.svg)
 
 This diagram demonstrates how AI tools can help identify areas for professional development by comparing current capabilities with emerging industry demands.
 

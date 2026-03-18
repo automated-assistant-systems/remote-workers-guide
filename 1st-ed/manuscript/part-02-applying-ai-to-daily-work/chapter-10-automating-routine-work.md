@@ -32,7 +32,7 @@ Automation tools connect systems so that tasks happen automatically.
 
 A simple way to understand automation is through a pipeline model.
 
-![Automation Pipeline](../../visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg)
+![Automation Pipeline](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg)
 
 *Figure 10.1 — Automation Pipeline*
 
@@ -42,7 +42,7 @@ This pipeline illustrates how events trigger automated actions. A trigger initia
 
 Another useful way to approach automation is by identifying the highest-value starting points.
 
-![Five Tasks to Automate First](../../visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-19-five-tasks-to-automate-first.svg)
+![Five Tasks to Automate First](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-19-five-tasks-to-automate-first.svg)
 
 *Figure 10.2 — Five Tasks to Automate First*
 
