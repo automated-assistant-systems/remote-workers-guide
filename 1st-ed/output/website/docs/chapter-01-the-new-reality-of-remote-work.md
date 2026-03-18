@@ -53,7 +53,7 @@ This complexity introduces a deeper issue that many workers feel but rarely arti
 
 To understand the shift clearly, compare how work functioned before AI assistance with how modern remote workflows operate today.
 
-![*Remote Work Before vs After AI*](../../visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-01-remote-work-before-vs-after-ai.svg)
+![*Remote Work Before vs After AI*](visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-01-remote-work-before-vs-after-ai.svg)
 
 This diagram highlights the structural shift in knowledge work. Traditional office workflows moved in relatively linear steps—from meetings to documents to final deliverables. Modern remote work distributes these activities across many apps and channels. AI introduces a third layer that helps reconnect fragmented tasks into more efficient workflows.
 
@@ -61,7 +61,7 @@ This diagram highlights the structural shift in knowledge work. Traditional offi
 
 Remote work did not emerge overnight. It evolved through several distinct phases of technology and workplace culture.
 
-![*Remote Work Evolution Timeline*](../../visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-02-remote-work-evolution-timeline.svg)
+![*Remote Work Evolution Timeline*](visuals/part-01-understanding-the-ai-era/chapter-01-the-new-reality-of-remote-work/visual-02-remote-work-evolution-timeline.svg)
 
 This timeline illustrates how remote work evolved from occasional telecommuting to fully distributed digital work environments. The most recent phase introduces AI as a productivity layer within digital workflows, enabling professionals to complete tasks faster and manage complexity more effectively.
 

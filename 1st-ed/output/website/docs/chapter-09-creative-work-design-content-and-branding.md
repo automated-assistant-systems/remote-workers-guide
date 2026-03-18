@@ -25,7 +25,7 @@ Instead, they reduce the time required to produce initial concepts and visual st
 
 To understand how AI fits into creative work, consider the typical creative workflow.
 
-![AI Creative Workflow](../../visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg)
+![AI Creative Workflow](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg)
 
 *Figure 9.1 — AI Creative Workflow*
 
@@ -35,7 +35,7 @@ This workflow illustrates how AI helps generate multiple creative possibilities 
 
 Another important concept is maintaining consistency across brand assets.
 
-![Brand Asset System](../../visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg)
+![Brand Asset System](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg)
 
 *Figure 9.2 — Brand Asset System*
 

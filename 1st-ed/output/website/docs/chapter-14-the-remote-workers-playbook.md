@@ -26,7 +26,7 @@ Your role is to direct them effectively.
 
 The relationship between humans and AI becomes clearer when visualized as a leverage model.
 
-![*Human + AI Leverage Model*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg)
+![*Human + AI Leverage Model*](visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg)
 
 This model illustrates how human judgment, AI assistance, and structured workflows combine to increase professional leverage. AI handles repetitive or computational tasks while humans provide strategy, interpretation, and direction.
 
@@ -75,7 +75,7 @@ Ask:
 
 The complete system behind these routines can be summarized in a simple playbook.
 
-![*AI Playbook Summary*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg)
+![*AI Playbook Summary*](visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg)
 
 This diagram summarizes the core operating rhythm of AI-assisted work: triage, focused execution, reflection, and continuous improvement. Over time these cycles help professionals refine workflows and increase efficiency.
 
@@ -151,7 +151,7 @@ The goal is to build a workflow where AI removes friction and humans provide dir
 
 A structured adoption cycle helps turn experimentation into habit.
 
-![*30-Day AI Adoption Plan*](../../visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg)
+![*30-Day AI Adoption Plan*](visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg)
 
 This plan introduces AI capabilities gradually over four weeks. Each step focuses on a small improvement—templates, automation, content reuse, and knowledge sharing—so that professionals build momentum without overwhelming their workflows.
 

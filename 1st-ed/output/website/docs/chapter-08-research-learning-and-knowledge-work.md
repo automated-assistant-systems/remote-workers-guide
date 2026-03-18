@@ -26,7 +26,7 @@ Instead of manually scanning large volumes of content, professionals can begin w
 
 The structure of this process becomes clearer when visualized as a research workflow.
 
-![Research Workflow Diagram](../../visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-14-research-workflow-diagram.svg)
+![Research Workflow Diagram](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-14-research-workflow-diagram.svg)
 
 *Figure 8.1 — Research Workflow Diagram*
 
@@ -36,7 +36,7 @@ This workflow demonstrates how AI accelerates the early discovery phase of resea
 
 AI also supports continuous learning as professionals adapt to new tools and evolving technologies.
 
-![AI Learning Roadmap](../../visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-15-ai-learning-roadmap.svg)
+![AI Learning Roadmap](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-15-ai-learning-roadmap.svg)
 
 *Figure 8.2 — AI Learning Roadmap*
 

@@ -36,7 +36,7 @@ Human judgment remains essential.
 
 To understand this collaboration clearly, consider the structure of a typical AI-assisted communication workflow.
 
-![AI Writing Workflow](../../visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-12-ai-writing-workflow.svg)
+![AI Writing Workflow](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-12-ai-writing-workflow.svg)
 
 *Figure 7.1 — AI Writing Workflow*
 
@@ -46,7 +46,7 @@ This workflow shows how AI accelerates the early stages of writing. AI generates
 
 Another way to see the impact of AI in communication is by comparing messages before and after AI-assisted editing.
 
-![Before and After Communication Example](../../visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-13-before-and-after-communication-example.svg)
+![Before and After Communication Example](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-13-before-and-after-communication-example.svg)
 
 *Figure 7.2 — Before and After Communication Example*
 

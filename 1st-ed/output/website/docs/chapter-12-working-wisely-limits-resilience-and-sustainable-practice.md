@@ -14,7 +14,7 @@ Sustainable work requires intentional limits.
 
 Healthy productivity follows a rhythm rather than constant effort.
 
-![Sustainable Work Cycle](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg)
+![Sustainable Work Cycle](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg)
 
 *Figure 12.1 — Sustainable Work Cycle*
 
@@ -24,7 +24,7 @@ This cycle illustrates the relationship between focused effort, recovery, reflec
 
 AI can help maintain healthy boundaries through better information filtering and task management.
 
-![Human Oversight Checklist](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg)
+![Human Oversight Checklist](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg)
 
 *Figure 12.2 — Human Oversight Checklist*
 
@@ -34,7 +34,7 @@ This checklist emphasizes the importance of human judgment in AI-assisted work. 
 
 Short breaks can also restore attention and reduce cognitive fatigue.
 
-![Five-Minute Reset Options](../../visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg)
+![Five-Minute Reset Options](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg)
 
 *Figure 12.3 — Five-Minute Reset Options*
 

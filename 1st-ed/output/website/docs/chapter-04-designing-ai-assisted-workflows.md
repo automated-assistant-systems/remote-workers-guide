@@ -20,7 +20,7 @@ AI can assist at several stages.
 
 To understand how this works, it helps to visualize the collaboration between human decision-making and AI-generated drafts.
 
-![*AI-Assisted Work Model*](../../visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-06-ai-assisted-work-model.svg)
+![*AI-Assisted Work Model*](visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-06-ai-assisted-work-model.svg)
 
 This model illustrates the typical interaction between humans and AI during knowledge work. AI generates drafts or structured outputs quickly, while human professionals review, refine, and validate the results. The final output always passes through human judgment before delivery.
 
@@ -48,7 +48,7 @@ Not every task benefits from AI assistance.
 
 Before introducing AI into a process, it helps to evaluate the task using a simple decision filter.
 
-![*Workflow Decision Filter*](../../visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-07-workflow-decision-filter.svg)
+![*Workflow Decision Filter*](visuals/part-01-understanding-the-ai-era/chapter-04-designing-ai-assisted-workflows/visual-07-workflow-decision-filter.svg)
 
 This filter helps determine whether AI assistance is useful for a specific task. Repetitive tasks with clearly reviewable outputs are strong candidates for AI support, while tasks requiring deep expertise or strategic judgment may remain primarily human-driven.
 

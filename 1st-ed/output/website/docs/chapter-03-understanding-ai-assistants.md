@@ -37,7 +37,7 @@ AI can accelerate many tasks, but human oversight remains critical.
 
 The difference between AI strengths and human strengths becomes clearer when viewed side by side.
 
-![What AI Does Well vs What Still Requires Human Judgment](../../visuals/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants/visual-05-what-ai-does-well-vs-what-still-requires-human-judgment.svg)
+![What AI Does Well vs What Still Requires Human Judgment](visuals/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants/visual-05-what-ai-does-well-vs-what-still-requires-human-judgment.svg)
 
 *Figure 3.1 — What AI Does Well vs What Still Requires Human Judgment*
 

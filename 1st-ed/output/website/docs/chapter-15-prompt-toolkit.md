@@ -22,7 +22,7 @@ Effective prompts usually include five elements:
 
 When these elements are included, AI systems are far more likely to produce useful and consistent results.
 
-![Prompt Template Anatomy](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-33-prompt-template-anatomy.svg)
+![Prompt Template Anatomy](visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-33-prompt-template-anatomy.svg)
 
 *Figure 15.1 — Prompt Template Anatomy*
 
@@ -34,7 +34,7 @@ This framework breaks prompts into reusable components that make results more pr
 
 Prompts become easier to reuse when organized around professional tasks.
 
-![Prompt Library by Job to Be Done](../../visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-32-prompt-library-by-job-to-be-done.svg)
+![Prompt Library by Job to Be Done](visuals/part-03-the-remote-worker-toolkit/chapter-15-prompt-toolkit/visual-32-prompt-library-by-job-to-be-done.svg)
 
 *Figure 15.2 — Prompt Library by Job to Be Done*
 

@@ -32,7 +32,7 @@ Tools should support these jobs.
 
 One helpful way to think about this is as a layered system of tools supporting different categories of work.
 
-![Lean AI Tool Stack](../../visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-08-lean-ai-tool-stack.svg)
+![Lean AI Tool Stack](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-08-lean-ai-tool-stack.svg)
 
 *Figure 5.1 — Lean AI Tool Stack*
 
@@ -44,7 +44,7 @@ This visual illustrates a minimal AI-enabled tool stack for remote professionals
 
 With thousands of AI tools emerging rapidly, selecting tools requires evaluating a few simple criteria.
 
-![Tool Selection Comparison Table](../../visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-09-tool-selection-comparison-table.svg)
+![Tool Selection Comparison Table](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-09-tool-selection-comparison-table.svg)
 
 *Figure 5.2 — Tool Selection Comparison Table*
 

@@ -26,7 +26,7 @@ The second prompt provides:
 
 The structure of effective prompts can be understood through a simple framework.
 
-![*Prompt Structure Framework*](../../visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-10-prompt-structure-framework.svg)
+![*Prompt Structure Framework*](visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-10-prompt-structure-framework.svg)
 
 This framework shows the key components of a strong prompt: role, task, context, and output format. When these elements are included, AI systems are far more likely to produce useful and accurate responses.
 
@@ -36,7 +36,7 @@ This framework shows the key components of a strong prompt: role, task, context,
 
 Another useful way to build prompting skill is by comparing weak prompts with improved versions.
 
-![Weak Prompt vs Improved Prompt](../../visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-11-weak-prompt-vs-improved-prompt.svg)
+![Weak Prompt vs Improved Prompt](visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-11-weak-prompt-vs-improved-prompt.svg)
 
 *Figure 6.2 — Weak Prompt vs Improved Prompt*
 

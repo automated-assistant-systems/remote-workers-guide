@@ -34,7 +34,7 @@ Together, they often create cognitive overload.
 
 The structure of this problem becomes clearer when we examine how productivity layers operate in modern work.
 
-![*AI Productivity Stack*](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg)
+![*AI Productivity Stack*](visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg)
 
 This stack illustrates the different layers involved in knowledge work: decision making, communication, information processing, and task execution. AI assistance can support each layer by reducing repetitive work and organizing information more effectively.
 
@@ -42,7 +42,7 @@ This stack illustrates the different layers involved in knowledge work: decision
 
 Another way to understand the challenge is to visualize the complexity of the modern remote workflow environment.
 
-![*Fragmented Remote Workflow Map*](../../visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg)
+![*Fragmented Remote Workflow Map*](visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg)
 
 This map shows how remote professionals often move constantly between tools, conversations, and information sources. The resulting context switching reduces focus and slows progress. AI tools can act as connectors that simplify these fragmented workflows.
 
