@@ -21,3 +21,15 @@ The goal is not to automate everything.
 The goal is to identify where AI can remove friction and amplify human capability.
 
 Once these patterns become familiar, they can be combined into larger systems that improve the way you work every day.
+
+As you read these chapters, look for opportunities to experiment with one small improvement at a time.
+
+## What You'll Learn in This Section
+
+The chapters in this section explore practical applications of AI in daily work:
+
+**Writing and Communication** — drafting, editing, and summarizing  
+**Research and Learning** — information gathering and synthesis  
+**Creative Work** — idea generation and design support  
+**Automation** — reducing repetitive tasks  
+**Collaboration and Productivity** — improving coordination and planning
