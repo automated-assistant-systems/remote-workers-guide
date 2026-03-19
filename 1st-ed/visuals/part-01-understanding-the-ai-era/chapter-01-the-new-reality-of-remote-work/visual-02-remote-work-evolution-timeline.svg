@@ -1,12 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    remote work evolution timeline
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="v2title v2desc">
+  <title id="v2title">Remote Work Evolution Timeline</title>
+  <desc id="v2desc">Timeline showing office-first work, remote by necessity, and remote by design with AI assistance.</desc>
+  <defs>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .stage { font-size: 30px; font-weight: 700; fill: #1F3A5F; }
+      .year { font-size: 20px; font-weight: 700; fill: #1F3A5F; }
+      .body { font-size: 18px; }
+      .small { font-size: 16px; font-weight: 600; fill: #1F3A5F; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,7 L9,3.5 z" fill="#1F3A5F"/>
+    </marker>
+  </defs>
+
+  <rect x="70" y="110" width="1460" height="660" rx="28" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="3"/>
+
+  <!-- Timeline line -->
+  <line x1="180" y1="450" x2="1420" y2="450" stroke="#1F3A5F" stroke-width="6" marker-end="url(#arrow)"/>
+
+  <!-- Nodes -->
+  <g>
+    <circle cx="330" cy="450" r="28" fill="#1F3A5F"/>
+    <circle cx="800" cy="450" r="28" fill="#2FA4A9"/>
+    <circle cx="1270" cy="450" r="28" fill="#6BBF59"/>
+  </g>
+
+  <!-- Stage 1 -->
+  <g transform="translate(150 185)">
+    <rect x="0" y="0" width="360" height="190" rx="26" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="180" y="48" text-anchor="middle" class="stage">Office-first work</text>
+    <text x="180" y="82" text-anchor="middle" class="year">Before large-scale remote adoption</text>
+    <line x1="70" y1="112" x2="290" y2="112" stroke="#E5E5E5" stroke-width="3"/>
+    <text x="180" y="142" text-anchor="middle" class="body">Location-centered</text>
+    <text x="180" y="170" text-anchor="middle" class="body">Shared schedule</text>
+  </g>
+  <line x1="330" y1="375" x2="330" y2="422" stroke="#1F3A5F" stroke-width="3"/>
+
+  <!-- Stage 2 -->
+  <g transform="translate(620 500)">
+    <rect x="0" y="0" width="360" height="190" rx="26" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="180" y="48" text-anchor="middle" class="stage">Remote by necessity</text>
+    <text x="180" y="82" text-anchor="middle" class="year">Rapid shift under pressure</text>
+    <line x1="70" y1="112" x2="290" y2="112" stroke="#E5E5E5" stroke-width="3"/>
+    <text x="180" y="142" text-anchor="middle" class="body">Emergency adaptation</text>
+    <text x="180" y="170" text-anchor="middle" class="body">Digital coordination replaces office routines</text>
+  </g>
+  <line x1="800" y1="478" x2="800" y2="500" stroke="#1F3A5F" stroke-width="3"/>
+
+  <!-- Stage 3 -->
+  <g transform="translate(1090 185)">
+    <rect x="0" y="0" width="360" height="220" rx="26" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="180" y="48" text-anchor="middle" class="stage">Remote by design</text>
+    <text x="180" y="82" text-anchor="middle" class="year">Distributed work with AI assistance</text>
+    <line x1="70" y1="112" x2="290" y2="112" stroke="#E5E5E5" stroke-width="3"/>
+    <text x="180" y="142" text-anchor="middle" class="body">Intentional async workflows</text>
+    <text x="180" y="170" text-anchor="middle" class="body">AI supports drafting, triage, and synthesis</text>
+    <text x="180" y="198" text-anchor="middle" class="body">Work becomes system-driven, not place-driven</text>
+  </g>
+  <line x1="1270" y1="405" x2="1270" y2="422" stroke="#1F3A5F" stroke-width="3"/>
+
+  <!-- Transitional labels -->
+  <g>
+    <rect x="470" y="404" width="190" height="44" rx="16" fill="#E5E5E5"/>
+    <text x="565" y="432" text-anchor="middle" class="small">disruption</text>
+
+    <rect x="940" y="404" width="220" height="44" rx="16" fill="#E5E5E5"/>
+    <text x="1050" y="432" text-anchor="middle" class="small">redesign and integration</text>
+  </g>
+
+  <!-- Footer interpretation -->
+  <rect x="360" y="720" width="880" height="54" rx="18" fill="#E5E5E5"/>
+  <text x="800" y="754" text-anchor="middle" class="small">Today’s remote work patterns reflect a structural shift, not a temporary detour.</text>
 </svg>

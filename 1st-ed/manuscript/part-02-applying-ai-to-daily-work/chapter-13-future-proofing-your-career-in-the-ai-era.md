@@ -79,8 +79,8 @@ Careers evolve when professionals learn to direct technology rather than compete
 
 ## Chapter Takeaways
 
-- AI will reshape many job roles. 
-- Human judgment and creativity remain valuable differentiators. 
+- AI will reshape many job roles.  
+- Human judgment and creativity remain valuable differentiators.  
 - Continuous learning is the best strategy for long-term relevance.
 
 ---
@@ -99,7 +99,7 @@ Choose one skill to begin developing this month.
 
 ---
 
-## Transition to Part III
+## What’s Next in Part III
 
 Throughout this book you have seen how artificial intelligence is reshaping knowledge work.
 

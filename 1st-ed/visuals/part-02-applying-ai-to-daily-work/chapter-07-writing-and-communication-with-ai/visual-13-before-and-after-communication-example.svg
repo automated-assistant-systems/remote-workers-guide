@@ -1,12 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    before and after communication example
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Inter, Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Inter, Arial, sans-serif; fill: #333333; }
+    .small { font: 16px Inter, Arial, sans-serif; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .accent { fill: #EAF6EA; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .teal { fill: #EAF7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .panel { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .rule { stroke: #1F3A5F; stroke-width: 2; }
+    .dot { fill: #2FA4A9; stroke: #1F3A5F; stroke-width: 2; }
+  </style>
+</defs>
+
+<text x="800" y="70" text-anchor="middle" class="title">Before and After Communication Example</text>
+<rect x="90" y="130" width="620" height="650" class="panel"/>
+<rect x="890" y="130" width="620" height="650" class="panel"/>
+<text x="400" y="180" text-anchor="middle" class="title" style="font-size:22px">Before</text>
+<text x="1200" y="180" text-anchor="middle" class="title" style="font-size:22px">After</text>
+<text x="140" y="245" class="label">Hey team,</text>
+<text x="140" y="285" class="label">I was looking at the client thing and there are some</text>
+<text x="140" y="320" class="label">issues maybe with timing and maybe with the deck.</text>
+<text x="140" y="355" class="label">Could someone check it and get back soon because</text>
+<text x="140" y="390" class="label">we should probably send something today if possible.</text>
+<text x="140" y="450" class="small">Problems:</text>
+<text x="170" y="485" class="small">• unclear ask</text>
+<text x="170" y="520" class="small">• vague timing</text>
+<text x="170" y="555" class="small">• no ownership</text>
+<text x="170" y="590" class="small">• weak structure</text>
+<text x="940" y="245" class="label">Subject: Client deck review needed by 2 PM</text>
+<text x="940" y="300" class="label">Team,</text>
+<text x="940" y="340" class="label">Please review the updated client deck and flag any</text>
+<text x="940" y="375" class="label">content or timing issues by 2 PM today.</text>
+<text x="940" y="430" class="label">Owners:</text>
+<text x="980" y="465" class="small">• Alex: slides 1–6</text>
+<text x="980" y="500" class="small">• Jordan: pricing and timeline</text>
+<text x="980" y="535" class="small">• Me: final send to client</text>
+<text x="940" y="590" class="small">Improvements:</text>
+<text x="970" y="625" class="small">• clearer goal</text>
+<text x="970" y="660" class="small">• deadline included</text>
+<text x="970" y="695" class="small">• explicit ownership</text>
+<text x="970" y="730" class="small">• easier to act on</text>
+<line x1="740" y1="455" x2="860" y2="455" class="line"/>
+<text x="800" y="430" text-anchor="middle" class="small">AI-assisted rewrite</text>
 </svg>

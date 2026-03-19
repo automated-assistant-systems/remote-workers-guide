@@ -2,9 +2,9 @@
 
 Remote professionals spend a large portion of their time gathering information.
 
-Reading reports.  
-Scanning industry news.  
-Researching competitors.  
+Reading reports. 
+Scanning industry news. 
+Researching competitors. 
 Learning new tools.
 
 Without a structured approach, research easily becomes a time sink.
@@ -17,18 +17,16 @@ AI changes how research happens.
 
 AI tools can rapidly:
 
-- summarize articles or reports  
-- generate research overviews  
-- compare tools or strategies  
-- extract key insights from documents  
+- summarize articles or reports 
+- generate research overviews 
+- compare tools or strategies 
+- extract key insights from documents 
 
 Instead of manually scanning large volumes of content, professionals can begin with AI-generated summaries, then investigate deeper where necessary.
 
 The structure of this process becomes clearer when visualized as a research workflow.
 
-![Research Workflow Diagram](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-14-research-workflow-diagram.svg)
-
-*Figure 8.1 — Research Workflow Diagram*
+![*Research Workflow Diagram*](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-14-research-workflow-diagram.svg)
 
 This workflow demonstrates how AI accelerates the early discovery phase of research. AI provides rapid overviews and summaries, while human professionals verify sources and apply insights.
 
@@ -36,15 +34,13 @@ This workflow demonstrates how AI accelerates the early discovery phase of resea
 
 AI also supports continuous learning as professionals adapt to new tools and evolving technologies.
 
-![AI Learning Roadmap](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-15-ai-learning-roadmap.svg)
-
-*Figure 8.2 — AI Learning Roadmap*
+![*AI Learning Roadmap*](visuals/part-02-applying-ai-to-daily-work/chapter-08-research-learning-and-knowledge-work/visual-15-ai-learning-roadmap.svg)
 
 This roadmap illustrates how professionals can build knowledge progressively: starting with exploration, then structured learning, and eventually integrating new capabilities into daily work.
 
 ---
 
-## Fictional Example
+## Example
 
 Mei is a remote analyst responsible for preparing market summaries.
 
@@ -52,9 +48,9 @@ Previously, she spent days scanning industry reports.
 
 Now her workflow looks like this:
 
-Ask AI for a high-level overview of trends.  
-Identify key topics and sources.  
-Verify insights using original documents.  
+Ask AI for a high-level overview of trends. 
+Identify key topics and sources. 
+Verify insights using original documents. 
 Produce the final analysis.
 
 Research that once required several days now takes a few hours.
@@ -81,15 +77,15 @@ Choose a topic related to your work.
 
 Ask AI to:
 
-- summarize key trends  
-- list important tools or concepts  
-- recommend sources for deeper reading  
+- summarize key trends 
+- list important tools or concepts 
+- recommend sources for deeper reading 
 
 Then verify the most important claims.
 
 ---
 
-## Transition
+## What’s Next
 
 Writing and research represent analytical work.
 

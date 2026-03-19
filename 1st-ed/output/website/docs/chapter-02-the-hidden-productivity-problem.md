@@ -88,7 +88,7 @@ Remote workers consume enormous amounts of information but struggle to extract c
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Maria is a freelance designer managing projects for clients in three countries.
 
@@ -139,7 +139,7 @@ These answers will become the foundation for your workflow redesign later in the
 
 ---
 
-## Transition
+## What’s Next
 
 Before redesigning workflows, we need a realistic understanding of the technology itself.
 

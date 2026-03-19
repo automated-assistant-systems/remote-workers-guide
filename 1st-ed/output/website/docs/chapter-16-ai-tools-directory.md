@@ -19,9 +19,7 @@ Choose tools that match your real needs.
 
 AI tools can be grouped according to the type of workflow they support.
 
-![Tools by Workflow Category](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg)
-
-*Figure 16.1 — Tools by Workflow Category*
+![*Tools by Workflow Category*](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-34-tools-by-workflow-category.svg)
 
 This diagram groups tools by the type of work they support—writing, research, creativity, automation, collaboration, and productivity. Organizing tools this way helps professionals select tools based on workflow needs rather than popularity.
 
@@ -37,9 +35,9 @@ Claude
 
 Uses:
 
-- drafting emails  
-- brainstorming ideas  
-- summarizing documents  
+- drafting emails 
+- brainstorming ideas 
+- summarizing documents 
 
 ### Editing Tools  
 
@@ -48,8 +46,8 @@ Jasper
 
 Uses:
 
-- tone adjustments  
-- clarity improvements  
+- tone adjustments 
+- clarity improvements 
 - marketing copy refinement
 
 ---
@@ -63,9 +61,9 @@ Elicit
 
 Uses:
 
-- research synthesis  
-- literature summaries  
-- quick fact discovery  
+- research synthesis 
+- literature summaries 
+- quick fact discovery 
 
 ### Learning Platforms  
 
@@ -74,8 +72,8 @@ Duolingo Max
 
 Uses:
 
-- tutoring  
-- language learning  
+- tutoring 
+- language learning 
 - structured skill development
 
 ---
@@ -94,8 +92,8 @@ DALL-E
 
 Uses:
 
-- concept art  
-- marketing visuals  
+- concept art 
+- marketing visuals 
 - creative exploration
 
 ---
@@ -107,8 +105,8 @@ Make
 
 Uses:
 
-- connecting apps  
-- automating workflows  
+- connecting apps 
+- automating workflows 
 - transferring data between systems
 
 ---
@@ -121,8 +119,8 @@ Fathom
 
 Uses:
 
-- meeting transcription  
-- automated summaries  
+- meeting transcription 
+- automated summaries 
 - searchable conversation records
 
 ---
@@ -135,8 +133,8 @@ Sunsama
 
 Uses:
 
-- task prioritization  
-- knowledge management  
+- task prioritization 
+- knowledge management 
 - calendar automation
 
 ---
@@ -145,9 +143,7 @@ Uses:
 
 For most professionals, the goal is not dozens of tools but a **simple integrated system**.
 
-![Starter Stack Path](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg)
-
-*Figure 16.2 — Starter Stack Path*
+![*Starter Stack Path*](visuals/part-03-the-remote-worker-toolkit/chapter-16-ai-tools-directory/visual-35-starter-stack-path.svg)
 
 This diagram illustrates a gradual path for building a tool stack. Professionals typically begin with an AI assistant and a task manager, then gradually add automation, creative tools, and integrations as workflows mature.
 
@@ -177,8 +173,8 @@ They are reshaping how knowledge work happens.
 
 The professionals who thrive in this environment will combine:
 
-human judgment  
-AI assistance  
+human judgment 
+AI assistance 
 and smart workflows.
 
 This toolkit is not the end of the journey.

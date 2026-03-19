@@ -1,12 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    ai learning roadmap
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Inter, Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Inter, Arial, sans-serif; fill: #333333; }
+    .small { font: 16px Inter, Arial, sans-serif; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .accent { fill: #EAF6EA; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .teal { fill: #EAF7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .panel { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .rule { stroke: #1F3A5F; stroke-width: 2; }
+    .dot { fill: #2FA4A9; stroke: #1F3A5F; stroke-width: 2; }
+  </style>
+</defs>
+
+<text x="800" y="70" text-anchor="middle" class="title">AI Learning Roadmap</text>
+<line x1="180" y1="360" x2="1420" y2="360" class="rule"/>
+<circle cx="220" cy="360" r="34" class="dot"/><circle cx="520" cy="360" r="34" class="dot"/><circle cx="820" cy="360" r="34" class="dot"/><circle cx="1120" cy="360" r="34" class="dot"/><circle cx="1380" cy="360" r="34" class="dot"/>
+<rect x="120" y="170" width="200" height="110" class="step"/>
+<rect x="420" y="440" width="200" height="110" class="teal"/>
+<rect x="720" y="170" width="200" height="110" class="step"/>
+<rect x="1020" y="440" width="200" height="110" class="teal"/>
+<rect x="1280" y="170" width="200" height="110" class="accent"/>
+<text x="220" y="225" text-anchor="middle" class="label">Goal</text>
+<text x="220" y="253" text-anchor="middle" class="small">define outcome</text>
+<text x="520" y="495" text-anchor="middle" class="label">Learning Plan</text>
+<text x="520" y="523" text-anchor="middle" class="small">topics and sequence</text>
+<text x="820" y="225" text-anchor="middle" class="label">Daily Practice</text>
+<text x="820" y="253" text-anchor="middle" class="small">small repeatable work</text>
+<text x="1120" y="495" text-anchor="middle" class="label">Checkpoint</text>
+<text x="1120" y="523" text-anchor="middle" class="small">test understanding</text>
+<text x="1380" y="225" text-anchor="middle" class="label">Review</text>
+<text x="1380" y="253" text-anchor="middle" class="small">adjust next steps</text>
+<line x1="220" y1="280" x2="220" y2="326" class="line"/>
+<line x1="520" y1="440" x2="520" y2="394" class="line"/>
+<line x1="820" y1="280" x2="820" y2="326" class="line"/>
+<line x1="1120" y1="440" x2="1120" y2="394" class="line"/>
+<line x1="1380" y1="280" x2="1380" y2="326" class="line"/>
 </svg>

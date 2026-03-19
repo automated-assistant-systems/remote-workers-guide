@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600">
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Arial, sans-serif; fill: #333333; }
+    .box { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; marker-end: url(#arrow); }
+  </style>
+</defs>
+
+<text x="700" y="70" text-anchor="middle" class="title">Visual 34 Automation Opportunity Map</text>
+<rect x="200" y="250" width="1000" height="120" class="box"/>
+<text x="700" y="320" text-anchor="middle" class="label">Manual Task → Repetition → AI Automation Candidate</text>
+</svg>

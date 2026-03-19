@@ -67,7 +67,7 @@ This timeline illustrates how remote work evolved from occasional telecommuting 
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Alex is a remote consultant managing multiple clients across different time zones. His day includes Slack messages, Zoom calls, shared documents, proposal writing, and ongoing research.
 
@@ -116,7 +116,7 @@ Notice which ideas feel realistic. Over the course of this book you will learn h
 
 ---
 
-## Transition
+## What’s Next
 
 Remote work offers freedom, but it also introduces a hidden problem.
 

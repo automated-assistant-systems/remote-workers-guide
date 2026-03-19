@@ -121,7 +121,7 @@ Experiment with one new tool that supports your workflow.
 
 ---
 
-## Fictional Example
+## Example
 
 Alex is a freelance marketer managing several clients.
 
@@ -162,7 +162,7 @@ Week 4 — Share one insight about your workflow
 
 ---
 
-## Transition
+## What’s Next
 
 Workflows improve how you structure your day.
 

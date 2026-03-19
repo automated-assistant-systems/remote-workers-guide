@@ -54,7 +54,7 @@ This filter helps determine whether AI assistance is useful for a specific task.
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Jason prepares weekly product update reports.
 
@@ -77,8 +77,8 @@ AI provides the most leverage when embedded in repeatable processes.
 
 ## Chapter Takeaways
 
-- Workflow thinking is more powerful than tool experimentation. 
-- AI works best when paired with structured processes. 
+- Workflow thinking is more powerful than tool experimentation.  
+- AI works best when paired with structured processes.  
 - Human review remains essential for quality and accuracy.
 
 ---
@@ -95,6 +95,6 @@ Test the workflow once this week.
 
 ---
 
-## Transition
+## What’s Next
 
 Once workflows are clear, the next step is choosing the tools that support them effectively.

@@ -14,9 +14,7 @@ Sustainable work requires intentional limits.
 
 Healthy productivity follows a rhythm rather than constant effort.
 
-![Sustainable Work Cycle](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg)
-
-*Figure 12.1 — Sustainable Work Cycle*
+![*Sustainable Work Cycle*](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-23-sustainable-work-cycle.svg)
 
 This cycle illustrates the relationship between focused effort, recovery, reflection, and improvement. Sustainable productivity depends on balancing these phases.
 
@@ -24,9 +22,7 @@ This cycle illustrates the relationship between focused effort, recovery, reflec
 
 AI can help maintain healthy boundaries through better information filtering and task management.
 
-![Human Oversight Checklist](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg)
-
-*Figure 12.2 — Human Oversight Checklist*
+![*Human Oversight Checklist*](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-24-human-oversight-checklist.svg)
 
 This checklist emphasizes the importance of human judgment in AI-assisted work. Reviewing outputs and maintaining control prevents over-reliance on automated systems.
 
@@ -34,9 +30,7 @@ This checklist emphasizes the importance of human judgment in AI-assisted work. 
 
 Short breaks can also restore attention and reduce cognitive fatigue.
 
-![Five-Minute Reset Options](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg)
-
-*Figure 12.3 — Five-Minute Reset Options*
+![*Five-Minute Reset Options*](visuals/part-02-applying-ai-to-daily-work/chapter-12-working-wisely-limits-resilience-and-sustainable-practice/visual-25-five-minute-reset-options.svg)
 
 This visual presents simple reset activities that help professionals regain focus during demanding work sessions.
 
@@ -60,15 +54,15 @@ Technology should support human well-being, not undermine it.
 
 Choose one boundary to implement this week:
 
-- scheduled work hours  
-- limited notification checks  
-- protected focus blocks  
+- scheduled work hours 
+- limited notification checks 
+- protected focus blocks 
 
 Use AI tools to support that boundary.
 
 ---
 
-## Transition
+## What’s Next
 
 Once daily work becomes efficient and sustainable, the final question remains:
 

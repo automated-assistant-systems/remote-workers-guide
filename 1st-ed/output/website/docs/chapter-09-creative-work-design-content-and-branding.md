@@ -14,10 +14,10 @@ AI is changing that reality.
 
 Creative AI tools can assist with:
 
-- generating visual assets  
-- drafting marketing content  
-- designing presentations  
-- producing branding elements  
+- generating visual assets 
+- drafting marketing content 
+- designing presentations 
+- producing branding elements 
 
 The purpose of these tools is not to eliminate creative thinking.
 
@@ -25,9 +25,7 @@ Instead, they reduce the time required to produce initial concepts and visual st
 
 To understand how AI fits into creative work, consider the typical creative workflow.
 
-![AI Creative Workflow](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg)
-
-*Figure 9.1 — AI Creative Workflow*
+![*AI Creative Workflow*](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-16-ai-creative-workflow.svg)
 
 This workflow illustrates how AI helps generate multiple creative possibilities quickly. Human professionals then evaluate, refine, and finalize the best option.
 
@@ -35,23 +33,21 @@ This workflow illustrates how AI helps generate multiple creative possibilities 
 
 Another important concept is maintaining consistency across brand assets.
 
-![Brand Asset System](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg)
-
-*Figure 9.2 — Brand Asset System*
+![*Brand Asset System*](visuals/part-02-applying-ai-to-daily-work/chapter-09-creative-work-design-content-and-branding/visual-17-brand-asset-system.svg)
 
 This diagram shows how visual elements, messaging, and templates form a consistent brand identity. AI tools can help generate and maintain these assets efficiently.
 
 ---
 
-## Fictional Example
+## Example
 
 Nadia is an independent consultant building her professional brand.
 
 Instead of hiring a designer for every marketing asset, she uses AI tools to:
 
-- generate presentation templates  
-- produce social graphics  
-- draft content ideas  
+- generate presentation templates 
+- produce social graphics 
+- draft content ideas 
 
 She still refines the final output herself.
 
@@ -79,15 +75,15 @@ Create one professional asset this week using AI assistance.
 
 Examples:
 
-- presentation slide template  
-- social media graphic  
-- personal website banner  
+- presentation slide template 
+- social media graphic 
+- personal website banner 
 
 Focus on speed and clarity rather than perfection.
 
 ---
 
-## Transition
+## What’s Next
 
 Creative work expands output.
 

@@ -1,12 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    brand asset system
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Inter, Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Inter, Arial, sans-serif; fill: #333333; }
+    .small { font: 16px Inter, Arial, sans-serif; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .accent { fill: #EAF6EA; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .teal { fill: #EAF7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .panel { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .rule { stroke: #1F3A5F; stroke-width: 2; }
+    .dot { fill: #2FA4A9; stroke: #1F3A5F; stroke-width: 2; }
+  </style>
+</defs>
+
+<text x="800" y="70" text-anchor="middle" class="title">Brand Asset System</text>
+<rect x="620" y="350" width="360" height="140" class="accent"/>
+<text x="800" y="415" text-anchor="middle" class="label">Brand System</text>
+<text x="800" y="448" text-anchor="middle" class="small">coherent identity layer</text>
+<rect x="180" y="180" width="240" height="110" class="step"/>
+<rect x="1180" y="180" width="240" height="110" class="step"/>
+<rect x="180" y="620" width="240" height="110" class="teal"/>
+<rect x="1180" y="620" width="240" height="110" class="teal"/>
+<rect x="680" y="150" width="240" height="110" class="step"/>
+<rect x="680" y="640" width="240" height="110" class="step"/>
+<text x="300" y="242" text-anchor="middle" class="label">Logo</text>
+<text x="1300" y="242" text-anchor="middle" class="label">Colors</text>
+<text x="300" y="682" text-anchor="middle" class="label">Fonts</text>
+<text x="1300" y="682" text-anchor="middle" class="label">Templates</text>
+<text x="800" y="212" text-anchor="middle" class="label">Content Assets</text>
+<text x="800" y="702" text-anchor="middle" class="label">Social, web, print</text>
+<line x1="420" y1="235" x2="620" y2="380" class="line"/>
+<line x1="1180" y1="235" x2="980" y2="380" class="line"/>
+<line x1="420" y1="675" x2="620" y2="460" class="line"/>
+<line x1="1180" y1="675" x2="980" y2="460" class="line"/>
+<line x1="800" y1="260" x2="800" y2="350" class="line"/>
+<line x1="800" y1="640" x2="800" y2="490" class="line"/>
 </svg>

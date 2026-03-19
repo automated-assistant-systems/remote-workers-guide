@@ -36,9 +36,7 @@ This framework shows the key components of a strong prompt: role, task, context,
 
 Another useful way to build prompting skill is by comparing weak prompts with improved versions.
 
-![Weak Prompt vs Improved Prompt](visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-11-weak-prompt-vs-improved-prompt.svg)
-
-*Figure 6.2 — Weak Prompt vs Improved Prompt*
+![*Weak Prompt vs Improved Prompt*](visuals/part-01-understanding-the-ai-era/chapter-06-prompting-how-to-work-with-ai-effectively/visual-11-weak-prompt-vs-improved-prompt.svg)
 
 This comparison demonstrates how adding context and structure dramatically improves AI responses. Clear instructions reduce ambiguity and help the AI generate outputs that are closer to the user’s intent.
 
@@ -58,7 +56,7 @@ Keep the summary under 200 words.
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Daniel regularly receives long client emails.
 
@@ -98,7 +96,7 @@ Notice how the quality of the output improves.
 
 ---
 
-## Transition to Part II
+## What’s Next to Part II
 
 By this point, the broader picture should be clear.
 

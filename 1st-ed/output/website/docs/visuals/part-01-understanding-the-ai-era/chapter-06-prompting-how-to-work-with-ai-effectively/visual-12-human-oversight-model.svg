@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<style>
+.title { font: bold 28px Arial; fill:#111; }
+.label { font: 16px Arial; fill:#111; }
+.layer { stroke:#333; stroke-width:2; }
+</style>
+
+<text x="600" y="60" text-anchor="middle" class="title">Human Oversight Model</text>
+
+<rect x="350" y="150" width="500" height="80" fill="#DCE6FF" class="layer"/>
+<text x="600" y="195" text-anchor="middle" class="label">AI Generation Layer</text>
+
+<rect x="300" y="250" width="600" height="80" fill="#EEF2FF" class="layer"/>
+<text x="600" y="295" text-anchor="middle" class="label">Human Review Layer</text>
+
+<rect x="250" y="350" width="700" height="80" fill="#F8FAFF" class="layer"/>
+<text x="600" y="395" text-anchor="middle" class="label">Human Decision Layer</text>
+</svg>

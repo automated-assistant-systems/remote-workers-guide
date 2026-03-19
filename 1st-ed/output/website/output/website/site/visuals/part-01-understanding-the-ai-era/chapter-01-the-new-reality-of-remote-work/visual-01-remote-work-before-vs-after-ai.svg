@@ -1,12 +1,128 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    remote work before vs after ai
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="v1title v1desc">
+  <title id="v1title">Remote Work Before vs After AI</title>
+  <desc id="v1desc">Side-by-side comparison showing office-centered workflow before AI and distributed digital workflow after AI.</desc>
+  <defs>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .label { font-size: 28px; font-weight: 700; fill: #1F3A5F; }
+      .small { font-size: 17px; font-weight: 600; }
+      .step { font-size: 22px; font-weight: 700; }
+      .sub { font-size: 18px; }
+      .muted { fill: #1F3A5F; opacity: 0.82; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,7 L9,3.5 z" fill="#1F3A5F"/>
+    </marker>
+  </defs>
+
+  <!-- Background guide panels -->
+  <rect x="70" y="90" width="690" height="730" rx="28" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="3"/>
+  <rect x="840" y="90" width="690" height="730" rx="28" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="3"/>
+  <line x1="800" y1="100" x2="800" y2="820" stroke="#E5E5E5" stroke-width="6"/>
+
+  <!-- Panel labels -->
+  <text x="415" y="145" text-anchor="middle" class="label">Before AI</text>
+  <text x="1185" y="145" text-anchor="middle" class="label">After AI</text>
+
+  <!-- BEFORE: office building -->
+  <g transform="translate(205 215)">
+    <circle cx="80" cy="80" r="52" fill="#2FA4A9"/>
+    <rect x="48" y="48" width="64" height="64" fill="white" rx="6"/>
+    <rect x="58" y="58" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="76" y="58" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="94" y="58" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="58" y="76" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="76" y="76" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="94" y="76" width="12" height="12" fill="#2FA4A9"/>
+    <rect x="74" y="92" width="16" height="20" fill="#2FA4A9"/>
+  </g>
+  <g transform="translate(110 190)">
+    <rect x="210" y="0" width="330" height="108" rx="22" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="375" y="42" text-anchor="middle" class="step">Office-centered workflow</text>
+    <text x="375" y="74" text-anchor="middle" class="sub">work anchored to place and schedule</text>
+  </g>
+
+  <!-- BEFORE arrows -->
+  <line x1="415" y1="315" x2="415" y2="360" stroke="#1F3A5F" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Meetings -->
+  <g transform="translate(205 390)">
+    <circle cx="80" cy="80" r="52" fill="#2FA4A9"/>
+    <circle cx="62" cy="72" r="12" fill="white"/>
+    <circle cx="98" cy="72" r="12" fill="white"/>
+    <path d="M46 100 q16 -18 32 0" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M82 100 q16 -18 32 0" stroke="white" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(110 365)">
+    <rect x="210" y="0" width="330" height="108" rx="22" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="375" y="42" text-anchor="middle" class="step">Meetings as coordination hub</text>
+    <text x="375" y="74" text-anchor="middle" class="sub">alignment happens mostly in real time</text>
+  </g>
+
+  <line x1="415" y1="490" x2="415" y2="535" stroke="#1F3A5F" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- Docs -->
+  <g transform="translate(205 565)">
+    <circle cx="80" cy="80" r="52" fill="#2FA4A9"/>
+    <rect x="57" y="48" width="46" height="64" rx="4" fill="white"/>
+    <line x1="65" y1="65" x2="95" y2="65" stroke="#2FA4A9" stroke-width="4"/>
+    <line x1="65" y1="78" x2="95" y2="78" stroke="#2FA4A9" stroke-width="4"/>
+    <line x1="65" y1="91" x2="88" y2="91" stroke="#2FA4A9" stroke-width="4"/>
+  </g>
+  <g transform="translate(110 540)">
+    <rect x="210" y="0" width="330" height="108" rx="22" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="375" y="42" text-anchor="middle" class="step">Documents as primary output</text>
+    <text x="375" y="74" text-anchor="middle" class="sub">limited automation and admin handled manually</text>
+  </g>
+
+  <!-- Mini footer chips for before -->
+  <g transform="translate(135 710)">
+    <rect x="0" y="0" width="250" height="54" rx="18" fill="#E5E5E5"/>
+    <text x="125" y="34" text-anchor="middle" class="small">Limited automation</text>
+    <rect x="270" y="0" width="300" height="54" rx="18" fill="#E5E5E5"/>
+    <text x="420" y="34" text-anchor="middle" class="small">Human-managed admin load</text>
+  </g>
+
+  <!-- AFTER: apps cloud -->
+  <g transform="translate(940 190)">
+    <rect x="0" y="0" width="470" height="180" rx="28" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="235" y="38" text-anchor="middle" class="step">Distributed digital workflow</text>
+    <text x="235" y="66" text-anchor="middle" class="sub">work spread across apps, channels, and time zones</text>
+
+    <g transform="translate(70 100)">
+      <rect x="0" y="0" width="82" height="44" rx="14" fill="#2FA4A9"/><text x="41" y="29" fill="white" text-anchor="middle" class="small">Chat</text>
+      <rect x="98" y="0" width="82" height="44" rx="14" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/><text x="139" y="29" text-anchor="middle" class="small">Docs</text>
+      <rect x="196" y="0" width="110" height="44" rx="14" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/><text x="251" y="29" text-anchor="middle" class="small">Calendar</text>
+      <rect x="322" y="0" width="78" height="44" rx="14" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/><text x="361" y="29" text-anchor="middle" class="small">Tasks</text>
+
+      <rect x="46" y="58" width="92" height="44" rx="14" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/><text x="92" y="87" text-anchor="middle" class="small">Email</text>
+      <rect x="156" y="58" width="118" height="44" rx="14" fill="#2FA4A9"/><text x="215" y="87" fill="white" text-anchor="middle" class="small">Meetings</text>
+      <rect x="292" y="58" width="98" height="44" rx="14" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/><text x="341" y="87" text-anchor="middle" class="small">Notes</text>
+    </g>
+  </g>
+
+  <!-- Fragmentation + channels -->
+  <line x1="1175" y1="380" x2="1175" y2="430" stroke="#1F3A5F" stroke-width="4" marker-end="url(#arrow)"/>
+  <g transform="translate(925 430)">
+    <rect x="0" y="0" width="500" height="118" rx="22" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <text x="250" y="42" text-anchor="middle" class="step">Multiple communication channels</text>
+    <text x="250" y="74" text-anchor="middle" class="sub">task fragmentation and constant context switching</text>
+  </g>
+
+  <line x1="1175" y1="548" x2="1175" y2="600" stroke="#1F3A5F" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <!-- AI assisted -->
+  <g transform="translate(925 600)">
+    <rect x="0" y="0" width="500" height="140" rx="22" fill="white" stroke="#1F3A5F" stroke-width="3"/>
+    <circle cx="94" cy="70" r="40" fill="#6BBF59"/>
+    <path d="M76 70 h36 M94 52 v36" stroke="white" stroke-width="8" stroke-linecap="round"/>
+    <text x="295" y="48" text-anchor="middle" class="step">AI-assisted drafting and synthesis</text>
+    <text x="295" y="80" text-anchor="middle" class="sub">automation layered into routine work</text>
+    <rect x="170" y="96" width="250" height="28" rx="10" fill="#E5E5E5"/>
+    <text x="295" y="116" text-anchor="middle" class="small">outputs become faster, cleaner, more scalable</text>
+  </g>
+
+  <!-- Bottom interpretation -->
+  <rect x="420" y="835" width="760" height="40" rx="16" fill="#E5E5E5"/>
+  <text x="800" y="862" text-anchor="middle" class="small muted">The structure of work changed, not just the location of work.</text>
 </svg>

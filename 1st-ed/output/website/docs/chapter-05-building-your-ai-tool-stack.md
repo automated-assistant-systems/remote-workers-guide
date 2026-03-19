@@ -22,19 +22,17 @@ Ask:
 
 Typical remote work tasks include:
 
-- writing and communication  
-- research and information gathering  
-- design and content creation  
-- task organization  
-- workflow automation  
+- writing and communication 
+- research and information gathering 
+- design and content creation 
+- task organization 
+- workflow automation 
 
 Tools should support these jobs.
 
 One helpful way to think about this is as a layered system of tools supporting different categories of work.
 
-![Lean AI Tool Stack](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-08-lean-ai-tool-stack.svg)
-
-*Figure 5.1 — Lean AI Tool Stack*
+![*Lean AI Tool Stack*](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-08-lean-ai-tool-stack.svg)
 
 This visual illustrates a minimal AI-enabled tool stack for remote professionals. Each layer serves a specific role: AI assistants accelerate thinking and drafting, organization systems structure work, creative tools produce assets, and automation connectors reduce repetitive tasks.
 
@@ -44,22 +42,20 @@ This visual illustrates a minimal AI-enabled tool stack for remote professionals
 
 With thousands of AI tools emerging rapidly, selecting tools requires evaluating a few simple criteria.
 
-![Tool Selection Comparison Table](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-09-tool-selection-comparison-table.svg)
-
-*Figure 5.2 — Tool Selection Comparison Table*
+![*Tool Selection Comparison Table*](visuals/part-01-understanding-the-ai-era/chapter-05-building-your-ai-tool-stack/visual-09-tool-selection-comparison-table.svg)
 
 This comparison framework helps evaluate tools based on factors such as capability, reliability, integration potential, and learning curve. Choosing tools intentionally ensures that your workflow remains efficient instead of becoming overly complex.
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Maria simplifies her system to four core tools:
 
-- an AI assistant for writing  
-- a design platform for visuals  
-- a workspace for organizing projects  
-- an automation tool for repetitive tasks  
+- an AI assistant for writing 
+- a design platform for visuals 
+- a workspace for organizing projects 
+- an automation tool for repetitive tasks 
 
 Instead of juggling dozens of apps, she builds a small integrated system.
 
@@ -96,7 +92,7 @@ This becomes the foundation of your digital workflow system.
 
 ---
 
-## Transition
+## What’s Next
 
 With workflows defined and tools selected, one skill remains essential.
 

@@ -1,12 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    tool selection comparison table
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <style>
+    .title { font: bold 28px Arial, Helvetica, sans-serif; fill:#111; }
+    .label { font: 16px Arial, Helvetica, sans-serif; fill:#111; }
+    .box { stroke:#333; stroke-width:2; rx:10; ry:10; }
+  </style>
+
+  <text x="600" y="60" text-anchor="middle" class="title">Levels of AI Assistance</text>
+
+  <rect x="150" y="220" width="200" height="100" fill="#F1F5FF" class="box"/>
+  <text x="250" y="265" text-anchor="middle" class="label">Manual Work</text>
+
+  <rect x="400" y="200" width="200" height="120" fill="#E3EBFF" class="box"/>
+  <text x="500" y="260" text-anchor="middle" class="label">AI-Assisted</text>
+  <text x="500" y="280" text-anchor="middle" class="label">Work</text>
+
+  <rect x="650" y="180" width="200" height="140" fill="#D4E2FF" class="box"/>
+  <text x="750" y="250" text-anchor="middle" class="label">AI-Collaborative</text>
+  <text x="750" y="270" text-anchor="middle" class="label">Work</text>
+
+  <rect x="900" y="160" width="200" height="160" fill="#C4D7FF" class="box"/>
+  <text x="1000" y="240" text-anchor="middle" class="label">AI-Automated</text>
+  <text x="1000" y="260" text-anchor="middle" class="label">Workflows</text>
+
+  <line x1="350" y1="260" x2="400" y2="260" stroke="#333" stroke-width="2"/>
+  <line x1="600" y1="260" x2="650" y2="260" stroke="#333" stroke-width="2"/>
+  <line x1="850" y1="260" x2="900" y2="260" stroke="#333" stroke-width="2"/>
 </svg>

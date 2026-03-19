@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    prompt structure framework
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<style>
+.title { font: bold 28px Arial; fill:#111; }
+.label { font: 16px Arial; fill:#111; }
+</style>
+
+<text x="600" y="60" text-anchor="middle" class="title">AI Risk Awareness Model</text>
+
+<polygon points="600,120 900,420 300,420" fill="#DDE8FF" stroke="#333" stroke-width="2"/>
+
+<text x="600" y="180" text-anchor="middle" class="label">Low Risk</text>
+<text x="600" y="205" text-anchor="middle" class="label">Formatting, brainstorming</text>
+
+<text x="600" y="290" text-anchor="middle" class="label">Moderate Risk</text>
+<text x="600" y="315" text-anchor="middle" class="label">Summaries, drafting</text>
+
+<text x="600" y="380" text-anchor="middle" class="label">High Risk</text>
+<text x="600" y="405" text-anchor="middle" class="label">Facts, legal, financial decisions</text>
 </svg>

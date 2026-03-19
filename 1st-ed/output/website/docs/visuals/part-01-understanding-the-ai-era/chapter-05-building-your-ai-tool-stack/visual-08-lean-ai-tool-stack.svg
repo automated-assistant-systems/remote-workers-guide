@@ -1,12 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    lean ai tool stack
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+  <style>
+    .title { font: bold 28px Arial, Helvetica, sans-serif; fill:#111; }
+    .label { font: 16px Arial, Helvetica, sans-serif; fill:#111; }
+    .box { stroke:#333; stroke-width:2; rx:10; ry:10; }
+  </style>
+
+  <text x="600" y="60" text-anchor="middle" class="title">AI Capability Spectrum</text>
+
+  <rect x="60" y="200" width="180" height="90" fill="#E8F1FF" class="box"/>
+  <text x="150" y="245" text-anchor="middle" class="label">Rule-Based</text>
+  <text x="150" y="265" text-anchor="middle" class="label">Automation</text>
+
+  <rect x="270" y="200" width="180" height="90" fill="#DDEBFF" class="box"/>
+  <text x="360" y="245" text-anchor="middle" class="label">Pattern</text>
+  <text x="360" y="265" text-anchor="middle" class="label">Recognition</text>
+
+  <rect x="480" y="200" width="180" height="90" fill="#CFE2FF" class="box"/>
+  <text x="570" y="245" text-anchor="middle" class="label">Language</text>
+  <text x="570" y="265" text-anchor="middle" class="label">Reasoning</text>
+
+  <rect x="690" y="200" width="180" height="90" fill="#BCD6FF" class="box"/>
+  <text x="780" y="245" text-anchor="middle" class="label">Multi-Step</text>
+  <text x="780" y="265" text-anchor="middle" class="label">Assistance</text>
+
+  <rect x="900" y="200" width="180" height="90" fill="#A7C8FF" class="box"/>
+  <text x="990" y="245" text-anchor="middle" class="label">Autonomous</text>
+  <text x="990" y="265" text-anchor="middle" class="label">Agents</text>
+
+  <line x1="240" y1="245" x2="270" y2="245" stroke="#333" stroke-width="2"/>
+  <line x1="450" y1="245" x2="480" y2="245" stroke="#333" stroke-width="2"/>
+  <line x1="660" y1="245" x2="690" y2="245" stroke="#333" stroke-width="2"/>
+  <line x1="870" y1="245" x2="900" y2="245" stroke="#333" stroke-width="2"/>
 </svg>

@@ -1,12 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    research workflow diagram
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Inter, Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Inter, Arial, sans-serif; fill: #333333; }
+    .small { font: 16px Inter, Arial, sans-serif; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .accent { fill: #EAF6EA; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .teal { fill: #EAF7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .panel { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .rule { stroke: #1F3A5F; stroke-width: 2; }
+    .dot { fill: #2FA4A9; stroke: #1F3A5F; stroke-width: 2; }
+  </style>
+</defs>
+
+<text x="800" y="70" text-anchor="middle" class="title">Research Workflow Diagram</text>
+<rect x="80" y="260" width="220" height="100" class="step"/>
+<rect x="380" y="260" width="220" height="100" class="teal"/>
+<rect x="680" y="260" width="220" height="100" class="step"/>
+<rect x="980" y="260" width="220" height="100" class="teal"/>
+<rect x="1280" y="260" width="220" height="100" class="accent"/>
+<text x="190" y="320" text-anchor="middle" class="label">Question</text>
+<text x="490" y="310" text-anchor="middle" class="label">AI Overview</text>
+<text x="490" y="338" text-anchor="middle" class="small">map the topic</text>
+<text x="790" y="310" text-anchor="middle" class="label">Source Verification</text>
+<text x="790" y="338" text-anchor="middle" class="small">check evidence</text>
+<text x="1090" y="310" text-anchor="middle" class="label">Synthesis</text>
+<text x="1090" y="338" text-anchor="middle" class="small">connect findings</text>
+<text x="1390" y="310" text-anchor="middle" class="label">Application</text>
+<text x="1390" y="338" text-anchor="middle" class="small">use in work</text>
+<line x1="300" y1="310" x2="380" y2="310" class="line"/>
+<line x1="600" y1="310" x2="680" y2="310" class="line"/>
+<line x1="900" y1="310" x2="980" y2="310" class="line"/>
+<line x1="1200" y1="310" x2="1280" y2="310" class="line"/>
+<text x="800" y="470" text-anchor="middle" class="small">AI helps accelerate the front end, but verification remains a required human step.</text>
 </svg>

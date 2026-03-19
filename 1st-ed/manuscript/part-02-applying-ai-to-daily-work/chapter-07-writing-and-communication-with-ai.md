@@ -24,11 +24,11 @@ AI can assist with each stage.
 
 Typical assistance includes:
 
-- drafting first-pass emails  
-- rewriting unclear text  
-- summarizing conversations  
-- generating outlines  
-- translating tone between formal and informal styles  
+- drafting first-pass emails 
+- rewriting unclear text 
+- summarizing conversations 
+- generating outlines 
+- translating tone between formal and informal styles 
 
 The key is remembering that AI provides drafts, not finished communication.
 
@@ -36,9 +36,7 @@ Human judgment remains essential.
 
 To understand this collaboration clearly, consider the structure of a typical AI-assisted communication workflow.
 
-![AI Writing Workflow](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-12-ai-writing-workflow.svg)
-
-*Figure 7.1 — AI Writing Workflow*
+![*AI Writing Workflow*](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-12-ai-writing-workflow.svg)
 
 This workflow shows how AI accelerates the early stages of writing. AI generates a draft quickly, allowing professionals to focus their time on editing, clarifying tone, and ensuring accuracy. The final communication always reflects human judgment.
 
@@ -46,15 +44,13 @@ This workflow shows how AI accelerates the early stages of writing. AI generates
 
 Another way to see the impact of AI in communication is by comparing messages before and after AI-assisted editing.
 
-![Before and After Communication Example](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-13-before-and-after-communication-example.svg)
-
-*Figure 7.2 — Before and After Communication Example*
+![*Before and After Communication Example*](visuals/part-02-applying-ai-to-daily-work/chapter-07-writing-and-communication-with-ai/visual-13-before-and-after-communication-example.svg)
 
 This comparison illustrates how AI can transform rough notes into structured communication. The improvement often comes from clearer organization, concise language, and better tone alignment.
 
 ---
 
-## Fictional Example Based on Common Remote Work Situations
+## Example Based on Common Remote Work Situations
 
 Daniel is a freelance consultant managing several clients simultaneously.
 
@@ -62,9 +58,9 @@ Each week he writes multiple project updates and proposal responses.
 
 Instead of drafting everything from scratch, he now uses AI to:
 
-- generate an initial outline  
-- convert notes into a structured update  
-- refine tone for different audiences  
+- generate an initial outline 
+- convert notes into a structured update 
+- refine tone for different audiences 
 
 Daniel still reviews everything before sending.
 
@@ -101,7 +97,7 @@ Notice how much time the drafting stage saves.
 
 ---
 
-## Transition
+## What’s Next
 
 Writing is the most visible form of knowledge work.
 

@@ -2,9 +2,9 @@
 
 Every remote worker encounters repetitive digital tasks.
 
-Updating spreadsheets.  
-Copying data between systems.  
-Sending routine messages.  
+Updating spreadsheets. 
+Copying data between systems. 
+Sending routine messages. 
 Scheduling reminders.
 
 These small tasks accumulate into hours of administrative work each week.
@@ -17,24 +17,22 @@ Automation can remove much of this burden.
 
 Tasks suitable for automation typically share three characteristics:
 
-- they occur frequently  
-- they follow clear rules  
-- they involve predictable data  
+- they occur frequently 
+- they follow clear rules 
+- they involve predictable data 
 
 Examples include:
 
-- transferring information between apps  
-- generating recurring reports  
-- processing form submissions  
-- organizing incoming messages  
+- transferring information between apps 
+- generating recurring reports 
+- processing form submissions 
+- organizing incoming messages 
 
 Automation tools connect systems so that tasks happen automatically.
 
 A simple way to understand automation is through a pipeline model.
 
-![Automation Pipeline](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg)
-
-*Figure 10.1 — Automation Pipeline*
+![*Automation Pipeline*](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-18-automation-pipeline.svg)
 
 This pipeline illustrates how events trigger automated actions. A trigger initiates the process, AI interprets or processes information, and a final action occurs automatically in another system.
 
@@ -42,15 +40,13 @@ This pipeline illustrates how events trigger automated actions. A trigger initia
 
 Another useful way to approach automation is by identifying the highest-value starting points.
 
-![Five Tasks to Automate First](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-19-five-tasks-to-automate-first.svg)
-
-*Figure 10.2 — Five Tasks to Automate First*
+![*Five Tasks to Automate First*](visuals/part-02-applying-ai-to-daily-work/chapter-10-automating-routine-work/visual-19-five-tasks-to-automate-first.svg)
 
 This visual highlights common automation opportunities that save time quickly, such as scheduling, data transfer, reporting, and message routing.
 
 ---
 
-## Fictional Example
+## Example
 
 Sasha is a freelance marketer managing several clients.
 
@@ -90,7 +86,7 @@ Start small and expand gradually.
 
 ---
 
-## Transition
+## What’s Next
 
 Automation removes administrative work.
 

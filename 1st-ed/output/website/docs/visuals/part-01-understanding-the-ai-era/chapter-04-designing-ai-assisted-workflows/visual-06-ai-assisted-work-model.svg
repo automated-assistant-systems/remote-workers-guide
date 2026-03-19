@@ -1,12 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    ai assisted work model
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<style>
+.title { font: 36px Inter, Arial, sans-serif; fill:#111; }
+.label { font: 20px Inter, Arial, sans-serif; fill:#111; text-anchor:middle; }
+.small { font: 16px Inter, Arial, sans-serif; fill:#333; text-anchor:middle; }
+.box { fill:#f3f4f6; stroke:#2563eb; stroke-width:2; rx:14; }
+.arrow { stroke:#16a34a; stroke-width:3; marker-end:url(#arrow); fill:none; }
+</style>
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+<path d="M0,0 L6,3 L0,6 Z" fill="#16a34a"/>
+</marker>
+</defs>
+
+<text x="600" y="60" class="title" text-anchor="middle">AI‑Augmented Work Cycle</text>
+
+<rect class="box" x="120" y="250" width="220" height="120"/>
+<text x="230" y="300" class="label">Define Task</text>
+<text x="230" y="330" class="small">Clarify goal</text>
+
+<rect class="box" x="420" y="150" width="220" height="120"/>
+<text x="530" y="200" class="label">Prompt AI</text>
+<text x="530" y="230" class="small">Draft / analyze</text>
+
+<rect class="box" x="760" y="250" width="220" height="120"/>
+<text x="870" y="300" class="label">Review Output</text>
+<text x="870" y="330" class="small">Human judgment</text>
+
+<rect class="box" x="420" y="430" width="220" height="120"/>
+<text x="530" y="480" class="label">Refine</text>
+<text x="530" y="510" class="small">Edit or reprompt</text>
+
+<path class="arrow" d="M340 310 L420 210"/>
+<path class="arrow" d="M640 210 L760 310"/>
+<path class="arrow" d="M870 370 L640 480"/>
+<path class="arrow" d="M420 480 L230 370"/>
 </svg>

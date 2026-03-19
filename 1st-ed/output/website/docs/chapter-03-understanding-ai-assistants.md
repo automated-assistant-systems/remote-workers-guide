@@ -18,18 +18,18 @@ AI systems are powerful pattern-recognition tools trained on enormous datasets.
 
 They excel at:
 
-- drafting text  
-- summarizing information  
-- brainstorming ideas  
-- structuring content  
-- translating or reformatting material  
+- drafting text 
+- summarizing information 
+- brainstorming ideas 
+- structuring content 
+- translating or reformatting material 
 
 But they struggle with:
 
-- factual certainty  
-- contextual judgment  
-- strategic decision making  
-- domain expertise without verification  
+- factual certainty 
+- contextual judgment 
+- strategic decision making 
+- domain expertise without verification 
 
 This distinction is essential.
 
@@ -37,9 +37,7 @@ AI can accelerate many tasks, but human oversight remains critical.
 
 The difference between AI strengths and human strengths becomes clearer when viewed side by side.
 
-![What AI Does Well vs What Still Requires Human Judgment](visuals/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants/visual-05-what-ai-does-well-vs-what-still-requires-human-judgment.svg)
-
-*Figure 3.1 — What AI Does Well vs What Still Requires Human Judgment*
+![*What AI Does Well vs What Still Requires Human Judgment*](visuals/part-01-understanding-the-ai-era/chapter-03-understanding-ai-assistants/visual-05-what-ai-does-well-vs-what-still-requires-human-judgment.svg)
 
 This comparison highlights the complementary relationship between AI systems and human professionals. AI excels at speed, pattern recognition, and draft generation, while humans contribute judgment, context, and strategic thinking.
 
@@ -65,15 +63,15 @@ Structures messy input into clearer formats.
 
 ---
 
-## Fictional Example
+## Example
 
 Lina is a marketing manager who receives a twelve-page client brief.
 
 Instead of manually extracting key points, she asks an AI assistant to summarize:
 
-- project goals  
-- deadlines  
-- required deliverables  
+- project goals 
+- deadlines 
+- required deliverables 
 
 The summary becomes her starting point for strategy.
 
@@ -104,15 +102,15 @@ AI produces drafts and suggestions, not final authority.
 
 Try three small experiments this week.
 
-Ask AI to summarize a long document.  
-Ask AI to draft an outline for a task you must complete.  
+Ask AI to summarize a long document. 
+Ask AI to draft an outline for a task you must complete. 
 Ask AI to brainstorm possible solutions to a problem.
 
 Notice where AI helps — and where your judgment improves the result.
 
 ---
 
-## Transition
+## What’s Next
 
 Understanding AI is only the first step.
 

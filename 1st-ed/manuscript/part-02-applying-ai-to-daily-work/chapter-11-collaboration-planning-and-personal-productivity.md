@@ -71,8 +71,8 @@ AI helps teams move from communication overload to information clarity.
 
 ## Chapter Takeaways
 
-- AI improves collaboration by summarizing and structuring information. 
-- Automated task extraction reduces manual coordination. 
+- AI improves collaboration by summarizing and structuring information.  
+- Automated task extraction reduces manual coordination.  
 - Productivity improves when communication becomes clearer.
 
 ---
@@ -81,13 +81,13 @@ AI helps teams move from communication overload to information clarity.
 
 After your next meeting:
 
-Generate a transcript.  
-Ask AI to summarize decisions and action items.  
+Generate a transcript. 
+Ask AI to summarize decisions and action items. 
 Add those tasks to your project system.
 
 ---
 
-## Transition
+## What’s Next
 
 Efficiency and coordination are valuable.
 

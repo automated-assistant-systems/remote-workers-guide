@@ -1,12 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    automation pipeline
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F" />
+  </marker>
+  <style>
+    .title { font: 700 24px Inter, Arial, sans-serif; fill: #1F3A5F; }
+    .label { font: 18px Inter, Arial, sans-serif; fill: #333333; }
+    .small { font: 16px Inter, Arial, sans-serif; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .accent { fill: #EAF6EA; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .teal { fill: #EAF7F7; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
+    .panel { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 2; rx: 16; ry: 16; }
+    .line { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+    .rule { stroke: #1F3A5F; stroke-width: 2; }
+    .dot { fill: #2FA4A9; stroke: #1F3A5F; stroke-width: 2; }
+  </style>
+</defs>
+
+<text x="800" y="70" text-anchor="middle" class="title">Automation Pipeline</text>
+<rect x="140" y="250" width="280" height="120" class="step"/>
+<rect x="660" y="250" width="280" height="120" class="teal"/>
+<rect x="1180" y="250" width="280" height="120" class="accent"/>
+<text x="280" y="308" text-anchor="middle" class="label">Trigger</text>
+<text x="280" y="338" text-anchor="middle" class="small">form submission</text>
+<text x="800" y="308" text-anchor="middle" class="label">AI Processing</text>
+<text x="800" y="338" text-anchor="middle" class="small">summarize or categorize</text>
+<text x="1320" y="308" text-anchor="middle" class="label">Action</text>
+<text x="1320" y="338" text-anchor="middle" class="small">task created / email sent</text>
+<line x1="420" y1="310" x2="660" y2="310" class="line"/>
+<line x1="940" y1="310" x2="1180" y2="310" class="line"/>
+<text x="800" y="470" text-anchor="middle" class="small">Example: input arrives, AI interprets it, then a system action happens automatically.</text>
 </svg>
