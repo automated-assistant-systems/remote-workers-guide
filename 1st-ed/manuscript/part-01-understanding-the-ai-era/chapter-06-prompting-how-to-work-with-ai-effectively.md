@@ -96,7 +96,7 @@ Notice how the quality of the output improves.
 
 ---
 
-## What’s Next to Part II
+## What’s Next in Part II
 
 By this point, the broader picture should be clear.
 

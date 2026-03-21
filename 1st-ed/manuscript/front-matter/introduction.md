@@ -95,6 +95,30 @@ In many cases, the difference is not raw intelligence or talent.
 
 It is simply familiarity with the tools.
 
+## A Simple Model for Working with AI
+
+Throughout this book, we will return to a simple idea:
+
+Human judgment, combined with AI assistance and structured workflows, creates leverage.
+
+Human judgment provides direction, context, and decision-making.
+
+AI assistance accelerates drafting, analysis, and information processing.
+
+Workflows organize how work moves from idea to output.
+
+When these elements are combined effectively, the result is not just efficiency.
+
+It is leverage — the ability to produce more value with the same amount of effort.
+
+Each chapter in this book explores one part of this model.
+
+Some chapters focus on understanding the problem. Others focus on applying AI in daily work. The final section brings everything together into a practical system.
+
+By the end of the book, the goal is not just to understand AI tools.
+
+It is to build a way of working where human judgment, AI assistance, and structured workflows reinforce each other.
+
 ## What This Book Is — and What It Isn’t
 
 This book is not a technical manual about artificial intelligence.

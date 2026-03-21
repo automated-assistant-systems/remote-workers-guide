@@ -26,6 +26,30 @@ This model illustrates the typical interaction between humans and AI during know
 
 ---
 
+## Connecting the Elements of Work
+
+At a deeper level, workflow design connects three essential elements:
+
+- human judgment 
+- AI assistance 
+- structured processes 
+
+Human judgment defines the goal and evaluates the result.
+
+AI assistance accelerates drafting, organizing, and processing information.
+
+Workflows determine how these elements interact.
+
+Without workflows, AI becomes a series of disconnected experiments.
+
+With workflows, AI becomes part of a repeatable system that improves both speed and consistency.
+
+This is where leverage emerges.
+
+Not from tools alone, but from how they are integrated into structured work.
+
+---
+
 ## Why Workflow Design Matters
 
 One reason workflows matter is that poorly designed processes create coordination overhead.
@@ -72,6 +96,8 @@ What once took an hour now takes fifteen minutes.
 ## Key Insight
 
 AI provides the most leverage when embedded in repeatable processes.
+
+Leverage comes from combining human judgment, AI assistance, and structured workflows into a consistent system.
 
 ---
 

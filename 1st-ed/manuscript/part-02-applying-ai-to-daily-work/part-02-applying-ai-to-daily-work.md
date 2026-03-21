@@ -12,6 +12,12 @@ Artificial intelligence can help reduce that friction.
 
 Rather than replacing human expertise, AI functions best as an assistant that accelerates preparation, drafting, analysis, and organization. When used well, it allows professionals to focus more of their time on judgment, strategy, and creative thinking.
 
+At a practical level, this section shows how the same pattern appears across different types of work.
+
+Each workflow combines human judgment to guide decisions, AI assistance to accelerate execution, and simple structures that organize how work progresses from idea to output.
+
+By seeing this pattern applied repeatedly, it becomes easier to recognize where AI can be integrated into your own work.
+
 The chapters in this section explore how AI can support common types of knowledge work.
 
 You will see practical examples of how AI can assist with writing and communication, research and learning, creative production, automation of routine tasks, collaboration, and personal productivity.

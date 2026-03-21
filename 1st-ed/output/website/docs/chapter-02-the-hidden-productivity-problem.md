@@ -36,7 +36,7 @@ The structure of this problem becomes clearer when we examine how productivity l
 
 ![*AI Productivity Stack*](visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-03-ai-productivity-stack.svg)
 
-This stack illustrates the different layers involved in knowledge work: decision making, communication, information processing, and task execution. AI assistance can support each layer by reducing repetitive work and organizing information more effectively.
+This stack illustrates the different layers involved in knowledge work: decision making, communication, information processing, and task execution. AI assistance can support each layer by reducing repetitive work and organizing information more effectively. When combined with clear workflows and human oversight, this creates a more structured and efficient system for completing work.
 
 ---
 
@@ -45,6 +45,34 @@ Another way to understand the challenge is to visualize the complexity of the mo
 ![*Fragmented Remote Workflow Map*](visuals/part-01-understanding-the-ai-era/chapter-02-the-hidden-productivity-problem/visual-04-fragmented-remote-workflow-map.svg)
 
 This map shows how remote professionals often move constantly between tools, conversations, and information sources. The resulting context switching reduces focus and slows progress. AI tools can act as connectors that simplify these fragmented workflows.
+
+---
+
+## A Structural View of Productivity
+
+The challenge of remote work becomes easier to understand when viewed through a simple structure.
+
+Most knowledge work involves three elements:
+
+- human judgment 
+- tools that assist execution 
+- workflows that organize the process 
+
+When these elements are disconnected, work becomes fragmented and inefficient.
+
+This is where the leverage model becomes useful.
+
+Human judgment determines what matters.
+
+AI assistance can help reduce effort across communication, information processing, and execution.
+
+Workflows connect these elements into a repeatable system.
+
+Without clear workflows, even powerful tools create more complexity rather than less.
+
+The productivity problem is not a lack of effort.
+
+It is a lack of structure connecting these elements together.
 
 ---
 
@@ -113,6 +141,8 @@ Once Maria begins introducing AI assistance for summarizing briefs, drafting upd
 The real productivity challenge is not effort.
 
 It is unstructured workflows and coordination complexity.
+
+Productivity improves when human judgment, AI assistance, and structured workflows are aligned into a coherent system.
 
 ---
 
