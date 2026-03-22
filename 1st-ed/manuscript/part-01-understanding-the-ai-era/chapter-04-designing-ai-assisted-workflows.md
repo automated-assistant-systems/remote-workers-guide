@@ -26,27 +26,23 @@ This model illustrates the typical interaction between humans and AI during know
 
 ---
 
-## Connecting the Elements of Work
+## The Leverage Model in Practice
 
-At a deeper level, workflow design connects three essential elements:
+The interaction between humans and AI in a workflow reflects a simple structure:
 
-- human judgment 
-- AI assistance 
-- structured processes 
+Human judgment defines the task and evaluates the result. 
+AI assistance accelerates drafting, analysis, and organization. 
+Workflows connect these steps into a repeatable process.
 
-Human judgment defines the goal and evaluates the result.
+When these elements are combined, they create leverage.
 
-AI assistance accelerates drafting, organizing, and processing information.
+Without workflows, AI becomes inconsistent.
 
-Workflows determine how these elements interact.
+Without human judgment, AI becomes unreliable.
 
-Without workflows, AI becomes a series of disconnected experiments.
+Without AI assistance, workflows remain slow and manual.
 
-With workflows, AI becomes part of a repeatable system that improves both speed and consistency.
-
-This is where leverage emerges.
-
-Not from tools alone, but from how they are integrated into structured work.
+The combination of all three is what produces meaningful productivity gains.
 
 ---
 

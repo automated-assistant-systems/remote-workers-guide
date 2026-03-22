@@ -1,12 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    ai powered daily workflow
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="940" viewBox="0 0 1600 940" fill="none">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F3A5F"/>
+    </marker>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .title { font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+      .label { font-size: 18px; font-weight: 600; }
+      .body { font-size: 16px; }
+      .small { font-size: 14px; }
+      .box { stroke: #1F3A5F; stroke-width: 2; }
+      .arrow { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 8; }
+      .icon-circle { fill: #2FA4A9; }
+      .muted { fill: #F7F7F7; }
+    </style>
+  </defs>
+<text x="800" y="56" text-anchor="middle" class="title">
+<tspan x="800" dy="0">AI-Powered Daily Workflow</tspan>
+</text>
+<text x="800" y="90" text-anchor="middle" class="body">
+<tspan x="800" dy="0">AI can help triage incoming work so you can convert noise into a realistic plan</tspan>
+<tspan x="800" dy="1.3em">for the day.</tspan>
+</text>
+<rect x="110" y="250" width="420" height="430" rx="26" fill="#FFFFFF" class="box"/><rect x="140" y="290" width="150" height="48" rx="14" fill="#E5E5E5" class="box"/><text x="215" y="322" text-anchor="middle" class="label">
+<tspan x="215" dy="0">Inputs</tspan>
+</text><rect x="160" y="380" width="320" height="48" rx="14" fill="#F7F7F7" class="box"/><text x="320" y="410" text-anchor="middle" class="body">
+<tspan x="320" dy="0">Inbox</tspan>
+</text><rect x="160" y="450" width="320" height="48" rx="14" fill="#F7F7F7" class="box"/><text x="320" y="480" text-anchor="middle" class="body">
+<tspan x="320" dy="0">Messages</tspan>
+</text><rect x="160" y="520" width="320" height="48" rx="14" fill="#F7F7F7" class="box"/><text x="320" y="550" text-anchor="middle" class="body">
+<tspan x="320" dy="0">Meetings</tspan>
+</text><rect x="160" y="590" width="320" height="48" rx="14" fill="#F7F7F7" class="box"/><text x="320" y="620" text-anchor="middle" class="body">
+<tspan x="320" dy="0">Priorities</tspan>
+</text><rect x="610" y="350" width="340" height="180" rx="30" fill="#EAF6F6" class="box"/><text x="780" y="418" text-anchor="middle" class="label">
+<tspan x="780" dy="0">AI triage</tspan>
+</text><text x="780" y="460" text-anchor="middle" class="body">
+<tspan x="780" dy="0">Sorts requests</tspan>
+<tspan x="780" dy="1.3em">surfaces deadlines</tspan>
+<tspan x="780" dy="1.3em">groups related work</tspan>
+</text><line x1="530" y1="470" x2="610" y2="440" class="arrow"/><rect x="1040" y="210" width="410" height="130" rx="24" fill="#FFFFFF" class="box"/><text x="1245" y="255" text-anchor="middle" class="label">
+<tspan x="1245" dy="0">Schedule</tspan>
+</text><text x="1245" y="290" text-anchor="middle" class="body">
+<tspan x="1245" dy="0">Block time for what matters</tspan>
+</text><line x1="950" y1="440" x2="1040" y2="275" class="arrow"/><rect x="1040" y="390" width="410" height="130" rx="24" fill="#F5FBF2" class="box"/><text x="1245" y="435" text-anchor="middle" class="label">
+<tspan x="1245" dy="0">Tasks</tspan>
+</text><text x="1245" y="470" text-anchor="middle" class="body">
+<tspan x="1245" dy="0">Turn requests into a list</tspan>
+</text><line x1="950" y1="440" x2="1040" y2="455" class="arrow"/><rect x="1040" y="570" width="410" height="130" rx="24" fill="#F5FBF2" class="box"/><text x="1245" y="615" text-anchor="middle" class="label">
+<tspan x="1245" dy="0">Focused work blocks</tspan>
+</text><text x="1245" y="650" text-anchor="middle" class="body">
+<tspan x="1245" dy="0">Protect time for deep work</tspan>
+</text><line x1="950" y1="440" x2="1040" y2="635" class="arrow"/></svg>

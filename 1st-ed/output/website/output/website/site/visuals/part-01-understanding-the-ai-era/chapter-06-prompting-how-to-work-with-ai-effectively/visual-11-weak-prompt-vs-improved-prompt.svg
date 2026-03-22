@@ -1,12 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    human plus ai leverage model
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" fill="none">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F3A5F"/>
+    </marker>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .title { font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+      .label { font-size: 18px; font-weight: 600; }
+      .body { font-size: 16px; }
+      .small { font-size: 14px; }
+      .box { stroke: #1F3A5F; stroke-width: 2; }
+      .arrow { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 8; }
+      .icon-circle { fill: #2FA4A9; }
+      .muted { fill: #F7F7F7; }
+    </style>
+  </defs>
+<text x="800" y="56" text-anchor="middle" class="title"><tspan x="800" dy="0">Weak Prompt vs Improved Prompt</tspan></text>
+<text x="800" y="90" text-anchor="middle" class="body"><tspan x="800" dy="0">A clearer prompt gives the AI better direction and gives you a better first draft to review.</tspan></text>
+<rect x="90" y="130" width="650" height="700" rx="26" fill="#FFFFFF" class="box"/>
+<rect x="860" y="130" width="650" height="700" rx="26" fill="#FFFFFF" class="box"/>
+<rect x="120" y="160" width="200" height="54" rx="14" fill="#E5E5E5" class="box"/>
+<text x="220" y="195" text-anchor="middle" class="label"><tspan x="220" dy="0">Weak Prompt</tspan></text>
+<rect x="890" y="160" width="250" height="54" rx="14" fill="#EAF6F6" class="box"/>
+<text x="1015" y="195" text-anchor="middle" class="label"><tspan x="1015" dy="0">Improved Prompt</tspan></text>
+<rect x="130" y="250" width="570" height="130" rx="18" fill="#F7F7F7" class="box"/>
+<text x="415" y="290" text-anchor="middle" class="label"><tspan x="415" dy="0">"Write an email to a client about</tspan><tspan x="415" dy="1.3em">a project delay."</tspan></text>
+<rect x="900" y="250" width="570" height="220" rx="18" fill="#F7F7F7" class="box"/>
+<text x="1185" y="292" text-anchor="middle" class="body"><tspan x="1185" dy="0">Role: Project manager</tspan><tspan x="1185" dy="1.3em">Task: Write a client update email</tspan><tspan x="1185" dy="1.3em">Context: Website launch delayed by one week</tspan><tspan x="1185" dy="1.3em">Constraints: Professional, calm, brief</tspan><tspan x="1185" dy="1.3em">Output: 150 words with next steps</tspan></text>
+<rect x="130" y="430" width="570" height="330" rx="18" fill="#FBFBFB" class="box"/>
+<text x="415" y="490" text-anchor="middle" class="body"><tspan x="415" dy="0">Result:</tspan><tspan x="415" dy="1.3em"></tspan><tspan x="415" dy="1.3em">Vague tone</tspan><tspan x="415" dy="1.3em">Missing context</tspan><tspan x="415" dy="1.3em">No next steps</tspan><tspan x="415" dy="1.3em">Likely needs major rewriting</tspan></text>
+<rect x="900" y="520" width="570" height="240" rx="18" fill="#F5FBF2" class="box"/>
+<text x="1185" y="578" text-anchor="middle" class="body"><tspan x="1185" dy="0">Result:</tspan><tspan x="1185" dy="1.3em"></tspan><tspan x="1185" dy="1.3em">Clear situation</tspan><tspan x="1185" dy="1.3em">Audience-aware tone</tspan><tspan x="1185" dy="1.3em">Specific timeline</tspan><tspan x="1185" dy="1.3em">Actionable next steps</tspan></text>
+<rect x="1160" y="150" width="260" height="74" rx="16" fill="#FFFFFF" class="box"/>
+<text x="1290.0" y="178" text-anchor="middle" class="body"><tspan x="1290.0" dy="0">Gives the AI a role,</tspan><tspan x="1290.0" dy="1.3em">a task, and clear limits</tspan></text>
+<line x1="1220" y1="224" x2="1180" y2="250" class="arrow"/>
+<rect x="1230" y="475" width="240" height="74" rx="16" fill="#FFFFFF" class="box"/>
+<text x="1350.0" y="503" text-anchor="middle" class="body"><tspan x="1350.0" dy="0">Defines the format</tspan><tspan x="1350.0" dy="1.3em">of the response</tspan></text>
+<line x1="1230" y1="512" x2="1280" y2="470" class="arrow"/>
+<rect x="160" y="150" width="230" height="74" rx="16" fill="#FFFFFF" class="box"/>
+<text x="275.0" y="178" text-anchor="middle" class="body"><tspan x="275.0" dy="0">Too broad to guide</tspan><tspan x="275.0" dy="1.3em">a strong draft</tspan></text>
+<line x1="280" y1="224" x2="320" y2="250" class="arrow"/>
+<rect x="180" y="760" width="260" height="74" rx="16" fill="#FFFFFF" class="box"/>
+<text x="310.0" y="788" text-anchor="middle" class="body"><tspan x="310.0" dy="0">More editing work</tspan><tspan x="310.0" dy="1.3em">for the human reviewer</tspan></text>
+<line x1="420" y1="760" x2="500" y2="690" class="arrow"/>
+<rect x="250" y="850" width="1100" height="60" rx="18" fill="#E5E5E5" class="box"/>
+<text x="800" y="888" text-anchor="middle" class="label"><tspan x="800" dy="0">Better prompts improve structure, tone, and usability before you start editing.</tspan></text>
 </svg>

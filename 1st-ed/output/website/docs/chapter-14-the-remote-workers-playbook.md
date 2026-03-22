@@ -26,7 +26,7 @@ Your role is to direct them effectively.
 
 The relationship between humans and AI becomes clearer when visualized as a leverage model.
 
-![*Human + AI Leverage Model*](visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg)
+![*Leverage Model*](visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-the-leverage-model.svg)
 
 This model illustrates how human judgment, AI assistance, and structured workflows combine to increase professional leverage. AI handles repetitive or computational tasks while humans provide strategy, interpretation, and direction.
 

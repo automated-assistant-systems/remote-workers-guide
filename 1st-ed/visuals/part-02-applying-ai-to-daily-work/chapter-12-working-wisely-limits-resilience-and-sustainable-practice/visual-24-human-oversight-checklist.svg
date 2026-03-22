@@ -1,12 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    human oversight checklist
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="950" viewBox="0 0 1600 950" fill="none">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F3A5F"/>
+    </marker>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .title { font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+      .label { font-size: 18px; font-weight: 600; }
+      .body { font-size: 16px; }
+      .small { font-size: 14px; }
+      .box { stroke: #1F3A5F; stroke-width: 2; }
+      .arrow { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 8; }
+      .icon-circle { fill: #2FA4A9; }
+      .muted { fill: #F7F7F7; }
+    </style>
+  </defs>
+<text x="800" y="56" text-anchor="middle" class="title">
+<tspan x="800" dy="0">Human Oversight Checklist</tspan>
+</text>
+<text x="800" y="90" text-anchor="middle" class="body">
+<tspan x="800" dy="0">Use this review step before you trust important AI outputs or automate a task</tspan>
+<tspan x="800" dy="1.3em">too aggressively.</tspan>
+</text>
+<rect x="190" y="170" width="1220" height="640" rx="30" fill="#FFFFFF" class="box"/><circle cx="300" cy="260" r="28" fill="#6BBF59" /><text x="300" y="268" text-anchor="middle" class="label">
+<tspan x="300" dy="0">✓</tspan>
+</text><rect x="355" y="225" width="920" height="70" rx="18" fill="#F7F7F7" class="box"/><text x="815" y="268" text-anchor="middle" class="label">
+<tspan x="815" dy="0">Verify important facts</tspan>
+</text><circle cx="300" cy="365" r="28" fill="#6BBF59" /><text x="300" y="373" text-anchor="middle" class="label">
+<tspan x="300" dy="0">✓</tspan>
+</text><rect x="355" y="330" width="920" height="70" rx="18" fill="#EAF6F6" class="box"/><text x="815" y="373" text-anchor="middle" class="label">
+<tspan x="815" dy="0">Review tone and implications</tspan>
+</text><circle cx="300" cy="470" r="28" fill="#6BBF59" /><text x="300" y="478" text-anchor="middle" class="label">
+<tspan x="300" dy="0">✓</tspan>
+</text><rect x="355" y="435" width="920" height="70" rx="18" fill="#F7F7F7" class="box"/><text x="815" y="478" text-anchor="middle" class="label">
+<tspan x="815" dy="0">Protect sensitive information</tspan>
+</text><circle cx="300" cy="575" r="28" fill="#6BBF59" /><text x="300" y="583" text-anchor="middle" class="label">
+<tspan x="300" dy="0">✓</tspan>
+</text><rect x="355" y="540" width="920" height="70" rx="18" fill="#EAF6F6" class="box"/><text x="815" y="583" text-anchor="middle" class="label">
+<tspan x="815" dy="0">Assess whether the task needs human judgment</tspan>
+</text><circle cx="300" cy="680" r="28" fill="#6BBF59" /><text x="300" y="688" text-anchor="middle" class="label">
+<tspan x="300" dy="0">✓</tspan>
+</text><rect x="355" y="645" width="920" height="70" rx="18" fill="#F7F7F7" class="box"/><text x="815" y="688" text-anchor="middle" class="label">
+<tspan x="815" dy="0">Avoid over-automation</tspan>
+</text><rect x="360" y="835" width="880" height="70" rx="22" fill="#F5FBF2" class="box"/><text x="800" y="877" text-anchor="middle" class="body">
+<tspan x="800" dy="0">Responsible AI use is a habit, not a one-time setting.</tspan>
+</text></svg>

@@ -1,12 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    ai enhanced meeting workflow
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F3A5F"/>
+    </marker>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .title { font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+      .label { font-size: 18px; font-weight: 600; }
+      .body { font-size: 16px; }
+      .small { font-size: 14px; }
+      .box { stroke: #1F3A5F; stroke-width: 2; }
+      .arrow { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 8; }
+      .icon-circle { fill: #2FA4A9; }
+      .muted { fill: #F7F7F7; }
+    </style>
+  </defs>
+<text x="800" y="56" text-anchor="middle" class="title">
+<tspan x="800" dy="0">AI-Enhanced Meeting Workflow</tspan>
+</text>
+<text x="800" y="90" text-anchor="middle" class="body">
+<tspan x="800" dy="0">Meetings become more useful when discussion turns quickly into summaries,</tspan>
+<tspan x="800" dy="1.3em">actions, and shared follow-up.</tspan>
+</text>
+<circle cx="190.0" cy="240" r="34" fill="#2FA4A9" /><text x="190.0" y="248" text-anchor="middle" class="label">
+<tspan x="190.0" dy="0">1</tspan>
+</text><rect x="80" y="320" width="220" height="130" rx="24" fill="#F7F7F7" class="box"/><text x="190.0" y="388" text-anchor="middle" class="label">
+<tspan x="190.0" dy="0">Meeting</tspan>
+</text><line x1="300" y1="385" x2="370" y2="385" class="arrow"/><circle cx="480.0" cy="240" r="34" fill="#2FA4A9" /><text x="480.0" y="248" text-anchor="middle" class="label">
+<tspan x="480.0" dy="0">2</tspan>
+</text><rect x="370" y="320" width="220" height="130" rx="24" fill="#FFFFFF" class="box"/><text x="480.0" y="388" text-anchor="middle" class="label">
+<tspan x="480.0" dy="0">Transcript</tspan>
+</text><line x1="590" y1="385" x2="660" y2="385" class="arrow"/><circle cx="770.0" cy="240" r="34" fill="#2FA4A9" /><text x="770.0" y="248" text-anchor="middle" class="label">
+<tspan x="770.0" dy="0">3</tspan>
+</text><rect x="660" y="320" width="220" height="130" rx="24" fill="#EAF6F6" class="box"/><text x="770.0" y="388" text-anchor="middle" class="label">
+<tspan x="770.0" dy="0">AI Summary</tspan>
+</text><line x1="880" y1="385" x2="950" y2="385" class="arrow"/><circle cx="1060.0" cy="240" r="34" fill="#2FA4A9" /><text x="1060.0" y="248" text-anchor="middle" class="label">
+<tspan x="1060.0" dy="0">4</tspan>
+</text><rect x="950" y="320" width="220" height="130" rx="24" fill="#F5FBF2" class="box"/><text x="1060.0" y="388" text-anchor="middle" class="label">
+<tspan x="1060.0" dy="0">Action Items</tspan>
+</text><line x1="1170" y1="385" x2="1240" y2="385" class="arrow"/><circle cx="1380.0" cy="240" r="34" fill="#2FA4A9" /><text x="1380.0" y="248" text-anchor="middle" class="label">
+<tspan x="1380.0" dy="0">5</tspan>
+</text><rect x="1240" y="320" width="280" height="130" rx="24" fill="#FFFFFF" class="box"/><text x="1380.0" y="388" text-anchor="middle" class="label">
+<tspan x="1380.0" dy="0">Task Manager /</tspan>
+<tspan x="1380.0" dy="1.3em">Shared Doc</tspan>
+</text><text x="800" y="560" text-anchor="middle" class="body">
+<tspan x="800" dy="0">Capture discussion</tspan>
+<tspan x="800" dy="1.3em">summarize key points</tspan>
+<tspan x="800" dy="1.3em">assign next steps</tspan>
+<tspan x="800" dy="1.3em">store the results where the team works</tspan>
+</text></svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#F7F7F7"></rect>
+
+  <!-- Title -->
+  <text x="800" y="100" text-anchor="middle" font-family="Inter, Arial" font-size="42" fill="#1F3A5F">
+    The Leverage Model
+  </text>
+
+  <!-- Top -->
+  <rect x="650" y="200" width="300" height="100" rx="20" fill="#E5E5E5" stroke="#1F3A5F" stroke-width="3"></rect>
+  <text x="800" y="255" text-anchor="middle" font-size="24" font-family="Arial" fill="#1F3A5F">
+    Human Judgment
+  </text>
+
+  <!-- Left -->
+  <rect x="350" y="500" width="300" height="100" rx="20" fill="#E5E5E5" stroke="#1F3A5F" stroke-width="3"></rect>
+  <text x="500" y="555" text-anchor="middle" font-size="24" font-family="Arial" fill="#1F3A5F">
+    Workflows
+  </text>
+
+  <!-- Right -->
+  <rect x="950" y="500" width="300" height="100" rx="20" fill="#E5E5E5" stroke="#1F3A5F" stroke-width="3"></rect>
+  <text x="1100" y="555" text-anchor="middle" font-size="24" font-family="Arial" fill="#1F3A5F">
+    AI Assistance
+  </text>
+
+  <!-- Center -->
+  <circle cx="800" cy="550" r="90" fill="#2FA4A9"></circle>
+  <text x="800" y="545" text-anchor="middle" font-size="24" font-family="Arial" fill="white">
+    Leverage
+  </text>
+
+  <!-- Arrows -->
+  <line x1="800" y1="300" x2="800" y2="460" stroke="#1F3A5F" stroke-width="3"></line>
+  <line x1="650" y1="550" x2="710" y2="550" stroke="#1F3A5F" stroke-width="3"></line>
+  <line x1="950" y1="550" x2="890" y2="550" stroke="#1F3A5F" stroke-width="3"></line>
+
+  <!-- Bottom equation -->
+  <text x="800" y="850" text-anchor="middle" font-size="28" font-family="Arial" fill="#333333">
+    Human Judgment + AI Assistance + Structured Workflows = Professional Leverage
+  </text>
+</svg>

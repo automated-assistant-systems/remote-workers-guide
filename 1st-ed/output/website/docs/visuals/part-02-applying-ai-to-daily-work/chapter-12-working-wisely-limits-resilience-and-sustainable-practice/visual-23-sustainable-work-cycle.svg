@@ -1,12 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-  <rect width="1600" height="900" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="4"/>
-  <text x="800" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#1F3A5F">
-    Placeholder Visual
-  </text>
-  <text x="800" y="455" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#333333">
-    sustainable work cycle
-  </text>
-  <text x="800" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">
-    Replace with final artwork
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1F3A5F"/>
+    </marker>
+    <style>
+      text { font-family: Inter, Arial, sans-serif; fill: #333333; }
+      .title { font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+      .label { font-size: 18px; font-weight: 600; }
+      .body { font-size: 16px; }
+      .small { font-size: 14px; }
+      .box { stroke: #1F3A5F; stroke-width: 2; }
+      .arrow { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke-dasharray: 8 8; }
+      .icon-circle { fill: #2FA4A9; }
+      .muted { fill: #F7F7F7; }
+    </style>
+  </defs>
+<text x="800" y="56" text-anchor="middle" class="title">
+<tspan x="800" dy="0">Sustainable Work Cycle</tspan>
+</text>
+<text x="800" y="90" text-anchor="middle" class="body">
+<tspan x="800" dy="0">Long-term performance depends on balancing execution with reflection, recovery,</tspan>
+<tspan x="800" dy="1.3em">and deliberate reset.</tspan>
+</text>
+<rect x="690" y="175" width="220" height="90" rx="24" fill="#F7F7F7" class="box"/><text x="800" y="226" text-anchor="middle" class="label">
+<tspan x="800" dy="0">Work</tspan>
+</text><rect x="928" y="348" width="220" height="90" rx="24" fill="#EAF6F6" class="box"/><text x="1038" y="399" text-anchor="middle" class="label">
+<tspan x="1038" dy="0">Review</tspan>
+</text><rect x="837" y="627" width="220" height="90" rx="24" fill="#F5FBF2" class="box"/><text x="947" y="678" text-anchor="middle" class="label">
+<tspan x="947" dy="0">Recovery</tspan>
+</text><rect x="543" y="627" width="220" height="90" rx="24" fill="#FFFFFF" class="box"/><text x="653" y="678" text-anchor="middle" class="label">
+<tspan x="653" dy="0">Reset</tspan>
+</text><rect x="452" y="348" width="220" height="90" rx="24" fill="#F7F7F7" class="box"/><text x="562" y="399" text-anchor="middle" class="label">
+<tspan x="562" dy="0">Focused Work</tspan>
+</text><line x1="857" y1="261" x2="981" y2="352" class="arrow"/><line x1="1016" y1="459" x2="969" y2="606" class="arrow"/><line x1="877" y1="672" x2="723" y2="672" class="arrow"/><line x1="631" y1="606" x2="584" y2="459" class="arrow"/><line x1="619" y1="352" x2="743" y2="261" class="arrow"/><circle cx="800" cy="470" r="78" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="2"/><text x="800" y="464" text-anchor="middle" class="label">
+<tspan x="800" dy="0">Sustainable</tspan>
+<tspan x="800" dy="1.3em">practice</tspan>
+</text></svg>
