@@ -137,7 +137,7 @@ visuals/part-##-.../chapter-##-.../visual-##-short-slug.svg
 
 | # | Title | File |
 |---|---|---|
-| 29 | Human + AI Leverage Model | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-human-plus-ai-leverage-model.svg` |
+| 29 | Human + AI Leverage Model | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-29-the-leverage-model.svg` |
 | 30 | AI Playbook Summary | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-30-ai-playbook-summary.svg` |
 | 31 | 30-Day AI Adoption Plan | `visuals/part-03-the-remote-worker-toolkit/chapter-14-the-remote-workers-playbook/visual-31-30-day-ai-adoption-plan.svg` |
 

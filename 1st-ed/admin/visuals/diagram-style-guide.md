@@ -225,7 +225,7 @@ Filename pattern:
 Examples:
 - `visual-03-ai-productivity-stack.svg`
 - `visual-18-automation-pipeline.svg`
-- `visual-29-human-plus-ai-leverage-model.svg`
+- `visual-29-the-leverage-model.svg`
 
 Do not use:
 - `diagram-final.svg`
