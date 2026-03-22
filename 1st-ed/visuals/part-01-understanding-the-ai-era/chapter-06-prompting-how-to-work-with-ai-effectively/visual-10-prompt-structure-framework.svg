@@ -1,19 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
-<style>
-.title { font: bold 28px Arial; fill:#111; }
-.label { font: 16px Arial; fill:#111; }
-</style>
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Prompt Structure Framework</title>
+  <desc id="desc">A modular framework showing five prompt components in sequence: Role, Task, Context, Constraints, and Output Format.</desc>
 
-<text x="600" y="60" text-anchor="middle" class="title">AI Risk Awareness Model</text>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F"/>
+    </marker>
+  </defs>
 
-<polygon points="600,120 900,420 300,420" fill="#DDE8FF" stroke="#333" stroke-width="2"/>
+  <!-- Background -->
+  <rect width="1600" height="900" fill="transparent"/>
 
-<text x="600" y="180" text-anchor="middle" class="label">Low Risk</text>
-<text x="600" y="205" text-anchor="middle" class="label">Formatting, brainstorming</text>
+  <!-- Title -->
+  <text x="800" y="88" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600" fill="#1F3A5F">
+    Prompt Structure Framework
+  </text>
 
-<text x="600" y="290" text-anchor="middle" class="label">Moderate Risk</text>
-<text x="600" y="315" text-anchor="middle" class="label">Summaries, drafting</text>
+  <!-- Subtitle / orientation cue -->
+  <text x="800" y="128" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#333333">
+    Build stronger prompts by combining five reusable modules
+  </text>
 
-<text x="600" y="380" text-anchor="middle" class="label">High Risk</text>
-<text x="600" y="405" text-anchor="middle" class="label">Facts, legal, financial decisions</text>
+  <!-- Group translated to center row -->
+  <g>
+    <!-- Connector lines behind boxes -->
+    <line x1="332" y1="430" x2="404" y2="430" stroke="#1F3A5F" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="596" y1="430" x2="668" y2="430" stroke="#1F3A5F" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="860" y1="430" x2="932" y2="430" stroke="#1F3A5F" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="1124" y1="430" x2="1196" y2="430" stroke="#1F3A5F" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Role -->
+    <rect x="140" y="330" width="192" height="200" rx="24" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/>
+    <circle cx="236" cy="378" r="26" fill="#2FA4A9"/>
+    <path d="M224 383 Q236 366 248 383" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="236" cy="370" r="8" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <text x="236" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#333333">Role</text>
+    <text x="236" y="472" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">Who should the</text>
+    <text x="236" y="494" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">AI act as?</text>
+
+    <!-- Task -->
+    <rect x="404" y="330" width="192" height="200" rx="24" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/>
+    <circle cx="500" cy="378" r="26" fill="#2FA4A9"/>
+    <path d="M490 369 h14 M490 378 h20 M490 387 h12" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="500" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#333333">Task</text>
+    <text x="500" y="472" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">What should it</text>
+    <text x="500" y="494" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">do?</text>
+
+    <!-- Context -->
+    <rect x="668" y="330" width="192" height="200" rx="24" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/>
+    <circle cx="764" cy="378" r="26" fill="#2FA4A9"/>
+    <path d="M752 390 L752 368 L776 368 L776 390 Z" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <path d="M758 362 h12" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="764" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#333333">Context</text>
+    <text x="764" y="472" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">What background</text>
+    <text x="764" y="494" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">matters?</text>
+
+    <!-- Constraints -->
+    <rect x="932" y="330" width="192" height="200" rx="24" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2"/>
+    <circle cx="1028" cy="378" r="26" fill="#2FA4A9"/>
+    <path d="M1018 388 L1028 368 L1038 388 Z" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="1028" y1="368" x2="1028" y2="394" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="1028" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#333333">Constraints</text>
+    <text x="1028" y="472" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">What limits or</text>
+    <text x="1028" y="494" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">rules apply?</text>
+
+    <!-- Output Format -->
+    <rect x="1196" y="330" width="264" height="200" rx="24" fill="#6BBF59" stroke="#1F3A5F" stroke-width="2"/>
+    <circle cx="1328" cy="378" r="26" fill="#2FA4A9"/>
+    <rect x="1317" y="367" width="22" height="22" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+    <path d="M1321 374 h14 M1321 381 h14" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+    <text x="1328" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600" fill="#FFFFFF">Output Format</text>
+    <text x="1328" y="472" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#FFFFFF">How should the</text>
+    <text x="1328" y="494" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#FFFFFF">answer be delivered?</text>
+  </g>
+
+  <!-- Bottom guide strip -->
+  <rect x="250" y="650" width="1100" height="96" rx="18" fill="#E5E5E5"/>
+  <text x="800" y="690" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F3A5F">
+    Strong prompts are modular, specific, and easy to review
+  </text>
+  <text x="800" y="722" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" fill="#333333">
+    Role + Task + Context + Constraints + Output Format
+  </text>
 </svg>
