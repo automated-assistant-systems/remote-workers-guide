@@ -34,7 +34,7 @@ Throughout this book, we will return to a simple idea:
 - AI assistance accelerates drafting, analysis, and information processing 
 - Workflows organize how work moves from idea to output  
 
-When these elements are combined effectively, the result is not just efficiency.
+This builds on human-in-the-loop systems, extended into a practical execution model because when these elements are combined effectively, the result is not just efficiency.
 
 It is leverage—the ability to produce more value with the same amount of effort.
 
