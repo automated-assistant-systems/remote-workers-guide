@@ -1,34 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title>Diagram</title>
+<desc>Book visual diagram</desc>
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L12,6 L0,12 z" fill="#1F3A5F"/>
+  </marker>
   <style>
-    .title { font: bold 28px Arial, Helvetica, sans-serif; fill:#111; }
-    .label { font: 16px Arial, Helvetica, sans-serif; fill:#111; }
-    .box { stroke:#333; stroke-width:2; rx:10; ry:10; }
+    .title { font-family: Inter, Arial, sans-serif; font-size: 24px; font-weight: 700; fill: #1F3A5F; }
+    .label { font-family: Inter, Arial, sans-serif; font-size: 18px; font-weight: 600; fill: #333333; }
+    .small { font-family: Inter, Arial, sans-serif; font-size: 16px; fill: #333333; }
+    .step { fill: #F7F7F7; stroke: #1F3A5F; stroke-width: 3; rx: 22; ry: 22; }
+    .step2 { fill: #EAF7F8; stroke: #2FA4A9; stroke-width: 3; rx: 22; ry: 22; }
+    .output { fill: #EEF8EB; stroke: #6BBF59; stroke-width: 3; }
+    .circle { fill: #2FA4A9; stroke: none; }
+    .line { stroke: #1F3A5F; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+    .connector { stroke: #1F3A5F; stroke-width: 2; fill: none; marker-end: url(#arrow); opacity: .8; }
+    .muted { fill: #E5E5E5; stroke: #1F3A5F; stroke-width: 2; rx: 18; ry: 18; }
   </style>
-
-  <text x="600" y="60" text-anchor="middle" class="title">AI Capability Spectrum</text>
-
-  <rect x="60" y="200" width="180" height="90" fill="#E8F1FF" class="box"/>
-  <text x="150" y="245" text-anchor="middle" class="label">Rule-Based</text>
-  <text x="150" y="265" text-anchor="middle" class="label">Automation</text>
-
-  <rect x="270" y="200" width="180" height="90" fill="#DDEBFF" class="box"/>
-  <text x="360" y="245" text-anchor="middle" class="label">Pattern</text>
-  <text x="360" y="265" text-anchor="middle" class="label">Recognition</text>
-
-  <rect x="480" y="200" width="180" height="90" fill="#CFE2FF" class="box"/>
-  <text x="570" y="245" text-anchor="middle" class="label">Language</text>
-  <text x="570" y="265" text-anchor="middle" class="label">Reasoning</text>
-
-  <rect x="690" y="200" width="180" height="90" fill="#BCD6FF" class="box"/>
-  <text x="780" y="245" text-anchor="middle" class="label">Multi-Step</text>
-  <text x="780" y="265" text-anchor="middle" class="label">Assistance</text>
-
-  <rect x="900" y="200" width="180" height="90" fill="#A7C8FF" class="box"/>
-  <text x="990" y="245" text-anchor="middle" class="label">Autonomous</text>
-  <text x="990" y="265" text-anchor="middle" class="label">Agents</text>
-
-  <line x1="240" y1="245" x2="270" y2="245" stroke="#333" stroke-width="2"/>
-  <line x1="450" y1="245" x2="480" y2="245" stroke="#333" stroke-width="2"/>
-  <line x1="660" y1="245" x2="690" y2="245" stroke="#333" stroke-width="2"/>
-  <line x1="870" y1="245" x2="900" y2="245" stroke="#333" stroke-width="2"/>
-</svg>
+</defs>
+<text x="800" y="70" text-anchor="middle" class="title">Lean AI Tool Stack</text><rect x="620" y="320" width="360" height="180" fill="#EAF7F8" stroke="#2FA4A9" stroke-width="4" rx="28" ry="28"/><circle cx="685" cy="380" r="26" class="circle"/><path d="M675 389 l10-22 l10 22 z M685 372 v13" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="800" y="390" text-anchor="middle" class="label">AI assistant</text><text x="800" y="425" text-anchor="middle" class="small">drafting • summarizing • ideation</text><rect x="180" y="210" width="300" height="140" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="3" rx="24" ry="24"/><circle cx="232" cy="252" r="22" class="circle"/><path d="M222 260 l20-20 M226 242 l16 16" stroke="white" stroke-width="3" stroke-linecap="round"/><text x="330.0" y="285" text-anchor="middle" class="label">Design tool</text><text x="330.0" y="318" text-anchor="middle" class="small">visuals • layouts • assets</text><rect x="180" y="560" width="300" height="140" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="3" rx="24" ry="24"/><circle cx="232" cy="602" r="22" class="circle"/><rect x="222" y="594" width="20" height="16" rx="2" fill="none" stroke="white" stroke-width="3"/><path d="M226 590 v6 M238 590 v6" stroke="white" stroke-width="3"/><text x="330.0" y="635" text-anchor="middle" class="label">Organization tool</text><text x="330.0" y="668" text-anchor="middle" class="small">notes • tasks • knowledge</text><rect x="1120" y="210" width="300" height="140" fill="#F3FBFB" stroke="#2FA4A9" stroke-width="3" rx="24" ry="24"/><circle cx="1172" cy="252" r="22" class="circle"/><path d="M1162 252 h12 l-4-4 M1182 252 h-12 l4 4" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="1270.0" y="285" text-anchor="middle" class="label">Automation tool</text><text x="1270.0" y="318" text-anchor="middle" class="small">triggers • handoffs • routines</text><rect x="1120" y="560" width="300" height="140" fill="#EEF8EB" stroke="#6BBF59" stroke-width="3" rx="24" ry="24"/><circle cx="1172" cy="602" r="22" class="circle"/><path d="M1162 602 l8 8 l14-16" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text x="1270.0" y="635" text-anchor="middle" class="label">Focused workflow</text><text x="1270.0" y="668" text-anchor="middle" class="small">small stack, better integration</text><line x1="480" y1="280" x2="620" y2="360" class="connector"/><line x1="480" y1="630" x2="620" y2="460" class="connector"/><line x1="1120" y1="280" x2="980" y2="360" class="connector"/><line x1="1120" y1="630" x2="980" y2="460" class="connector"/><rect x="440" y="140" width="720" height="80" fill="#E5E5E5" stroke="#1F3A5F" stroke-width="2" rx="18" ry="18"/><text x="800" y="190" text-anchor="middle" style="font-family: Inter, Arial, sans-serif; font-size: 21px; font-weight:700; fill:#1F3A5F;">A small integrated stack beats tool sprawl</text><rect x="575" y="760" width="450" height="70" fill="#F7F7F7" stroke="#1F3A5F" stroke-width="2" rx="16" ry="16"/><text x="800" y="804" text-anchor="middle" class="small">Start with a few connected tools, then add specialized apps only when the workflow demands it.</text></svg>

@@ -13,6 +13,7 @@ nav:
   - How to Use This Book: how-to-use-this-book.md
 
   - Part I:
+      - Part I Introduction: part-01-understanding-the-ai-era.md
       - Chapter 1: chapter-01-the-new-reality-of-remote-work.md
       - Chapter 2: chapter-02-the-hidden-productivity-problem.md
       - Chapter 3: chapter-03-understanding-ai-assistants.md
@@ -21,6 +22,7 @@ nav:
       - Chapter 6: chapter-06-prompting-how-to-work-with-ai-effectively.md
 
   - Part II:
+      - Part II Introduction: part-02-applying-ai-to-daily-work.md
       - Chapter 7: chapter-07-writing-and-communication-with-ai.md
       - Chapter 8: chapter-08-research-learning-and-knowledge-work.md
       - Chapter 9: chapter-09-creative-work-design-content-and-branding.md
@@ -30,12 +32,13 @@ nav:
       - Chapter 13: chapter-13-future-proofing-your-career-in-the-ai-era.md
 
   - Part III:
-      - Part III Introduction: part-iii-the-remote-worker-toolkit.md
+      - Part III Introduction: part-03-the-remote-worker-toolkit.md
       - Chapter 14: chapter-14-the-remote-workers-playbook.md
       - Chapter 15: chapter-15-prompt-toolkit.md
       - Chapter 16: chapter-16-ai-tools-directory.md
 
   - Back Matter:
-      - Acknowledgments: acknowledgments.md
+      - Acknowledgments: acknowledgements.md
       - Glossary: glossary.md
       - About the Author: about-the-author.md
+      - Sources and Further Reading: sources-and-further-reading.md
