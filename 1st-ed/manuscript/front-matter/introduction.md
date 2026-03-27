@@ -119,3 +119,5 @@ Artificial intelligence is expanding what we can do.
 The combination of these shifts creates a new professional landscape.
 
 The goal of this book is to help you navigate that landscape by building leverage—through better use of tools, better workflows, and better decisions.
+
+As you work through this book, you’ll build practical workflows that combine your judgment, AI tools, and structured processes. To support that, you’ll also have access to an evolving online prompt library, where you can find, reuse, and adapt the prompts used throughout these chapters. And if you find yourself wanting a simpler way to organize and run these workflows without juggling multiple tools, there’s more coming. Later, I’ll introduce a system designed to bring these pieces together so you can move from experimenting with AI to using it consistently and at scale.
